@@ -1,0 +1,5 @@
+# We are using device names instead of IDs here for device compatability
+
+xinput set-prop 'SYNA2393:00 06CB:CD48 Touchpad' 364 0 # Middle emulation
+xinput set-prop 'SYNA2393:00 06CB:CD48 Touchpad' 369 0 # Disable palm detection
+xinput set-prop 'SYNA2393:00 06CB:CD48 Touchpad' 356 1 # Tap to click

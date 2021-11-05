@@ -1,0 +1,7 @@
+# export DESKTOP_SESSION=plasma
+
+# xinput set-prop 13 365 0
+# fusuma &
+# exec startplasma-x11
+exec dbus-launch leftwm
+

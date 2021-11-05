@@ -1,0 +1,9 @@
+name: default
+root: ~/Developer
+windows:
+  - default:
+        layout: 026a,214x70,0,0[214x52,0,0,0,214x17,0,53{163x17,0,53,1,50x17,164,53,2}]
+        panes:
+            - 
+            - clear
+            - clear
