@@ -24,7 +24,7 @@ Plug 'nvim-telescope/telescope.nvim'
 
 Plug 'arcticicestudio/nord-vim' " Nord theme (powerline thingamajib)
 Plug 'Shatur/neovim-ayu'
-Plug 'wakatime/vim-wakatime' " How much time I spend
+" Plug 'wakatime/vim-wakatime' " How much time I spend
 Plug 'liuchengxu/vim-clap' " Fuzzy search
 
 Plug 'folke/trouble.nvim' " Trouble error display
