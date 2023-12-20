@@ -1,0 +1,33 @@
+config:
+  backup: true
+  create: true
+  dotpath: dotfiles
+dotfiles:
+  common_kitty:
+    dst: ~/.config/kitty
+    src: common/kitty
+
+  billy_spotifyd:
+    dst: ~/.config/spotifyd
+    src: billy/spotifyd
+
+  billy_spotify_tui:
+    dst: ~/snap/spt/current/.config/spotify-tui
+    src: billy/spotify-tui
+
+  billy_zshrc:
+    dst: ~/.zshrc
+    src: billy/.zshrc
+
+  billy_p10k:
+    dst: ~/.p10k.zsh
+    src: billy/.p10k.zsh
+
+profiles:
+  Billy:
+    dotfiles:
+      - common_kitty
+      - billy_spotifyd
+      - billy_spotify_tui
+      - billy_zshrc
+      - billy_p10k
