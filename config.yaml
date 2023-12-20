@@ -3,10 +3,20 @@ config:
   create: true
   dotpath: dotfiles
 dotfiles:
+  # ------ TERMINAL ------ #
+  billy_zshrc:
+    dst: ~/.zshrc
+    src: billy/.zshrc
+
+  billy_p10k:
+    dst: ~/.p10k.zsh
+    src: billy/.p10k.zsh
+
   common_kitty:
     dst: ~/.config/kitty
     src: common/kitty
 
+  # ------ SPOTIFY ------ #
   billy_spotifyd:
     dst: ~/.config/spotifyd
     src: billy/spotifyd
@@ -15,13 +25,9 @@ dotfiles:
     dst: ~/snap/spt/current/.config/spotify-tui
     src: billy/spotify-tui
 
-  billy_zshrc:
-    dst: ~/.zshrc
-    src: billy/.zshrc
-
-  billy_p10k:
-    dst: ~/.p10k.zsh
-    src: billy/.p10k.zsh
+  billy_sptlrx:
+    dst: ~/.config/sptlrx
+    src: billy/sptlrx
 
 profiles:
   Billy:
