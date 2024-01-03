@@ -20,3 +20,13 @@
 - **Top Bar:** [`waybar`](https://github.com/Alexays/Waybar)
 - **Launcher:** [`rofi`](https://github.com/lbonn/rofi)
     - Fork supporting Wayland
+- **Wallpaper Manager:** [`swww`](https://github.com/Horus645/swww)
+- **Locking:** [`swaylock-effects`](https://github.com/mortie/swaylock-effects) and [`swayidle`](https://github.com/swaywm/swayidle)
+- **Notifications:** [`dunst`](https://github.com/dunst-project/dunst)
+- **Audio Control:** [`pavucontrol`](https://github.com/pulseaudio/pavucontrol)
+- **Network Manager GUI:** [`iwgtk`](https://github.com/J-Lentz/iwgtk)
+- **Bluetooth Manager:** [`blueman`](https://github.com/blueman-project/blueman)
+- **Theming:** 
+    - [`qt5ct`](https://github.com/desktop-app/qt5ct)
+    - [`Kvantum`](https://github.com/tsujan/Kvantum)
+    - [`nwg-look`](https://github.com/nwg-piotr/nwg-look)
