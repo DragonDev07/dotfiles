@@ -1,0 +1,11 @@
+#!/bin/zsh
+
+# ------ Start Wallpaper ------ #
+swww init
+
+# ------ Start Waybar ------ #
+waybar&
+
+# ------ Start Authentication Agent ------ #
+# Used when an application wants to elevate its privileges
+exec /usr/lib/polkit-kde-authentication-agent-1

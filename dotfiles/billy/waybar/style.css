@@ -1,0 +1,118 @@
+@import "mocha.css";
+
+* {
+  padding: 0;
+  margin: 0;
+  font-family: JetBrainsMono Nerd Font;
+  font-size: 16px;
+}
+
+window#waybar {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.modules-left {
+  background-color: @base;
+  border-radius: 18px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+.modules-center {
+  background-color: @base;
+  border-radius: 18px;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+.modules-right {
+  background-color: @base;
+  border-radius: 18px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+#custom-icon {
+  font-size: 25px;
+  color: @blue; /* deepskyblue */
+  padding-right: 10px;
+}
+
+#cpu, #temperature, #memory {
+  border-radius: 10px;
+  background-color: @surface1;
+  padding: 2px 5px;
+  margin: 4px 2px;
+}
+
+#cpu {
+  color: @peach;
+}
+
+#memory {
+  color: @mauve;
+}
+
+#temperature {
+  color: @maroon;
+}
+
+#window {
+  color: @text; 
+}
+
+#workspaces button:nth-child(1) label {
+  color: @peach;
+  padding: 8px 8px;
+}
+
+#workspaces button:nth-child(2) label {
+  color: @mauve;
+  padding: 8px 8px;
+}
+
+#workspaces button:nth-child(3) label {
+  color: @maroon;
+  padding: 8px 8px;
+}
+
+#pulseaudio {
+  border-radius: 10px;
+  color: @peach;
+  background-color: @surface1;
+  padding: 2px 5px;
+  margin: 4px 2px;
+}
+
+#network {
+  border-radius: 10px;
+  color: @maroon;
+  background-color: @surface1;
+  padding: 2px 5px;
+  margin: 4px 2px;
+}
+
+#clock {
+  padding-left: 10px;
+  color: @text;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+#custom-separator-arrow {
+  font-size: 20px;
+  color: @text;
+}
+
+#custom-separator-dot {
+  font-size: 20px;
+  color: @text;
+}
+
+#custom-spotify {
+  border-radius: 10px;
+  color: @mauve;
+  background-color: @surface1;
+  padding: 2px 5px;
+  margin: 4px 2px;
+}

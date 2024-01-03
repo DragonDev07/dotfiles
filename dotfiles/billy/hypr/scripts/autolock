@@ -1,0 +1,5 @@
+swayidle \
+    timeout 180 './lock' \
+    timeout 300 'hyprctl dispatch dpms off DP-3' \
+    resume 'hyprctl dispatch dpms on DP-3'
+    before-sleep './lock'

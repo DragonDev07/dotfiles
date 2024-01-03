@@ -29,6 +29,19 @@ dotfiles:
     dst: ~/.config/sptlrx
     src: billy/sptlrx
 
+  # ------ Hyprland and Such ------ #
+  billy_hypr:
+    dst: ~/.config/hypr
+    src: billy/hypr
+  
+  billy_waybar:
+    dst: ~/.config/waybar
+    src: billy/waybar
+
+  billy_rofi:
+    dst: ~/.config/rofi
+    src: billy/rofi
+
 profiles:
   Billy:
     dotfiles:
@@ -37,3 +50,6 @@ profiles:
       - billy_spotify_tui
       - billy_zshrc
       - billy_p10k
+      - billy_hypr
+      - billy_waybar
+      - billy_rofi
