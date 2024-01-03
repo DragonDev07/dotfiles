@@ -20,6 +20,7 @@
   "modules-right": [
     "pulseaudio",
     "network",
+    "tray",
     "custom/rand-wallpaper",
     "custom/separator-dot",
     "clock",
@@ -82,15 +83,18 @@
   },
 
   "network": {
-    "interface": "wlan0",
     "interval": 30,
     "format-wifi": "󰖩 {essid}",
-    "on-click": "export GTK_THEME='Catppuccin-Mocha-Standard-Mauve-Dark' && iwgtk",
     "format-ethernet": "󰈀 Wired",
     "fomat-disconnected": "󱚵 Disconnected",
     "tooltip-format-wifi": "{essid} ({signalStrength}%)",
     "tooltip-format-ethernet": "{ifname} ",
     "tooltip-format-disconnected": "Disconnected",
+  },
+
+  "tray": {
+    "icon-size": 20,
+    "spacing": 10,
   },
 
   "custom/separator-dot": {

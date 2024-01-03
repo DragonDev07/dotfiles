@@ -99,6 +99,14 @@ window#waybar {
   font-size: 20px;
 }
 
+#tray {
+  border-radius: 10px;
+  color: @mauve;
+  background-color: @surface1;
+  padding: 2px 5px;
+  margin: 4px 2px;
+}
+
 #custom-separator-arrow {
   font-size: 20px;
   color: @text;
