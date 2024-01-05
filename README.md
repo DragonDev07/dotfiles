@@ -24,6 +24,7 @@
 - **Locking:** [`swaylock-effects`](https://github.com/mortie/swaylock-effects) and [`swayidle`](https://github.com/swaywm/swayidle)
 - **Notifications:** [`dunst`](https://github.com/dunst-project/dunst)
 - **Audio Control:** [`pavucontrol`](https://github.com/pulseaudio/pavucontrol)
+- **Brightness Control:** [`brightnessctl`](https://github.com/Hummer12007/brightnessctl)
 - **Network Manager GUI:** [`iwgtk`](https://github.com/J-Lentz/iwgtk)
 - **Bluetooth Manager:** [`blueman`](https://github.com/blueman-project/blueman)
 - **Theming:** 

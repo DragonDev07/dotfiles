@@ -76,6 +76,11 @@ window#waybar {
   padding: 8px 8px;
 }
 
+#workspaces button:nth-child(4) label {
+  color: @sapphire;
+  padding: 8px 8px;
+}
+
 #pulseaudio {
   border-radius: 10px;
   color: @peach;
