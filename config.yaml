@@ -42,6 +42,10 @@ dotfiles:
     dst: ~/.config/rofi
     src: billy/rofi
 
+  bully_mako:
+    dst: ~/.config/mako
+    src: billy/mako
+
 profiles:
   Billy:
     dotfiles:

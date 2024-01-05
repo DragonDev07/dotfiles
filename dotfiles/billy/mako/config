@@ -1,0 +1,24 @@
+# ------ Style Options ------ #
+# Font
+font=JetBrainsMono Nerd Font 14
+
+# Width & Height
+width=300
+height=100
+
+# Border
+border-size=1
+border-radius=18
+
+# ------ Timeout ------ #
+default-timeout=30000
+ignore-timeout=0
+
+# ------ Colors ------ #
+background-color=#1e1e2e
+text-color=#cdd6f4
+border-color=#89b4fa
+progress-color=over #313245
+
+[urgency=high]
+border-color=#fab387
