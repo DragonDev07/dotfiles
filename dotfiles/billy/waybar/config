@@ -2,6 +2,10 @@
   "layer": "top",
   "position": "top",
   "spacing": 4,
+  "margin-top": 5,
+  "margin-bottom": 0,
+  "margin-left": 5,
+  "margin-right": 5,
 
   "modules-left": [
     "custom/icon",
@@ -49,7 +53,7 @@
   },
 
   "hyprland/window": {
-    "format": "  {}",
+    "format": " {}",
     "rewrite": {
       "(.*) - NVIM": " NeoVim",
       "(.*) — Mozilla Firefox": "󰈹 Mozilla Firefox",
@@ -73,7 +77,7 @@
     "format": "{icon} <b>{volume}</b>",
     "format-bluetooth": "{icon}  {volume}%",
     "format-bluetooth-muted": "󰝟 ",
-    "format-muted": "󰝟",
+    "format-muted": " 󰝟 ",
     "format-icons": {
       "headphone": "",
       "default": ["󰝟", ""],
