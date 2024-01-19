@@ -57,3 +57,8 @@ profiles:
       - billy_hypr
       - billy_waybar
       - billy_rofi
+  Cthulu:
+    dotfiles:
+      - common_kitty
+      - billy_zshrc
+      - billy_p10k
