@@ -1,7 +1,7 @@
 #!/usr/bin/bash
 
-wpDir="$HOME/Documents/Wallpapers"
+wpDir="$HOME/Repos/Wallpapers/"
 
 wpFile=$(find "$wpDir" -type f -name "*.jpg" -o -name "*.jpeg" -o -name "*.png" -o -name "*.gif" | shuf -n 1)
 
-swww img $wpFile
+swww img $wpFile --transition-step 40 --transition-fps 60 --transition-type center

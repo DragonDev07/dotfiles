@@ -22,7 +22,7 @@ dotfiles:
     src: billy/spotifyd
 
   billy_spotify_tui:
-    dst: ~/snap/spt/current/.config/spotify-tui
+    dst: ~/.config/spotify-tui
     src: billy/spotify-tui
 
   billy_sptlrx:

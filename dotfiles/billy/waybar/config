@@ -24,8 +24,8 @@
   "modules-right": [
     "pulseaudio",
     "network",
+    "battery",
     "tray",
-    "custom/rand-wallpaper",
     "custom/separator-dot",
     "clock",
   ],
@@ -96,6 +96,17 @@
     "tooltip-format-disconnected": "Disconnected",
   },
 
+  "battery": {
+    "states": {
+      "warning": 30,
+      "critical": 15
+    },
+    "format": "{icon} {capacity}%",
+    "format-icons": ["", "", "", "", ""],
+    "max-length": 25,
+    "tooltip": false,
+  },
+
   "tray": {
     "icon-size": 20,
     "spacing": 10,
@@ -118,7 +129,7 @@
   },
 
   "custom/spotify": {
-    "exec": "/usr/bin/python3 /home/teo/.config/waybar/custom-scripts/mediaplayer.py --player spotify",
+    "exec": "/usr/bin/python3 $HOME/.config/waybar/custom-scripts/mediaplayer.py --player spotify --verbose",
     "format": "{}  ",
     "return-type": "json",
     "on-click": "playerctl play-pause",
