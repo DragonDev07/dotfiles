@@ -1,6 +1,12 @@
 # ND (New-Dotfiles)
-## What I use
-### Asahi Linux (Mac M1 Air)
+## Asahi Linux (Mac M1 Air)
+### Screenshots
+![Hyprland-Desktop](./assets/Asahi-Linux/AsahiLinux-Hyprland-Desktop.png)
+![Hyprland-Music](./assets/Asahi-Linux/AsahiLinux-Hyprland-Music.png)
+![Hyprland-LunarVim](./assets/Asahi-Linux/AsahiLinux-Hyprland-Lunarvim.png)
+![Hyprland-Fetch](./assets/Asahi-Linux/AsahiLinux-Hyprland-Fetch.png)
+
+### Info!
 - **Terminal Emulator:** [`kitty`](https://github.com/kovidgoyal/kitty)
 - **Shell:** `Zsh`
     - **Plugin Manager:** [`oh-my-zsh`](https://github.com/ohmyzsh/ohmyzsh)
