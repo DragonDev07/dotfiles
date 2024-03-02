@@ -37,3 +37,33 @@
     - [`qt5ct`](https://github.com/desktop-app/qt5ct)
     - [`Kvantum`](https://github.com/tsujan/Kvantum)
     - [`nwg-look`](https://github.com/nwg-piotr/nwg-look)
+
+### Installation
+1. Install Packages
+```
+sudo dnf install hyprland waybar rofi swww mako pavucontrol brightnessctl iwgtk blueman qt5ct Kvantum nwg-look kitty swayidle
+sudo dnf copr enable ricclopez/swaylock-effects && sudo dnf install swaylock-effets
+```
+
+2. Edit Dotdrop config to contain your hostname
+- Open `config.yaml`
+- Change line 50 from:
+```
+profiles:
+  Billy:
+```
+to:
+```
+profiles:
+    your-hostname-here:
+```
+
+3. Update Dotdrop Manager!
+```
+pip3 install -r dotdrop/requirements.txt --user && ./dotdrop/bootstrap.sh
+```
+
+4. Install dots! :D
+```
+./dotdrop.sh install
+```
