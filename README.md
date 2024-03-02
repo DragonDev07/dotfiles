@@ -67,3 +67,6 @@ pip3 install -r dotdrop/requirements.txt --user && ./dotdrop/bootstrap.sh
 ```
 ./dotdrop.sh install
 ```
+
+5. Final Edits you may need:
+- Inside `~/.config/hypr/scripts/random-wallpaper` update the dir to your wallpapers repo [you could use mine](https://github.com/DragonDev07/Wallpapers)
