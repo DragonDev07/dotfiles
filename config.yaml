@@ -42,7 +42,7 @@ dotfiles:
     dst: ~/.config/rofi
     src: billy/rofi
 
-  bully_mako:
+  billy_mako:
     dst: ~/.config/mako
     src: billy/mako
 
@@ -57,6 +57,7 @@ profiles:
       - billy_hypr
       - billy_waybar
       - billy_rofi
+      - billy_mako
   Cthulu:
     dotfiles:
       - common_kitty
