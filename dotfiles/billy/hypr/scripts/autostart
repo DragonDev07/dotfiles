@@ -4,7 +4,7 @@
 swww init
 
 # ------ Start Waybar ------ #
-waybar&
+waybar -l trace >> waybar.log &
 
 # ------ Network Manager Applet ------ #
 nm-applet&

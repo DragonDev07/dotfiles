@@ -33,14 +33,14 @@ dotfiles:
   billy_hypr:
     dst: ~/.config/hypr
     src: billy/hypr
-  
+
   billy_waybar:
     dst: ~/.config/waybar
     src: billy/waybar
 
-  billy_rofi:
-    dst: ~/.config/rofi
-    src: billy/rofi
+  billy_anyrun:
+    dst: ~/.config/anyrun
+    src: billy/anyrun
 
   billy_mako:
     dst: ~/.config/mako
@@ -56,7 +56,7 @@ profiles:
       - billy_p10k
       - billy_hypr
       - billy_waybar
-      - billy_rofi
+      - billy_anyrun
       - billy_mako
   Cthulu:
     dotfiles:
