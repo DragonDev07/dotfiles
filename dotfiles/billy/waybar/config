@@ -119,7 +119,7 @@
   },
 
   "custom/separator-gap": {
-    "format": "  ",
+    "format": " ",
     "tooltip": false,
   },
 
