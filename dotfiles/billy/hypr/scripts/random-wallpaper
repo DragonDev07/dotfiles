@@ -5,3 +5,4 @@ wpDir="$HOME/Repos/Wallpapers/"
 wpFile=$(find "$wpDir" -type f -name "*.jpg" -o -name "*.jpeg" -o -name "*.png" -o -name "*.gif" | shuf -n 1)
 
 swww img $wpFile --transition-step 40 --transition-fps 60 --transition-type center
+ln -sf "$wpFile" "$HOME/.config/.wallpaper"

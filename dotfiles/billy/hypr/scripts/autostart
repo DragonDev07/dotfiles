@@ -1,10 +1,10 @@
 #!/bin/zsh
 
 # ------ Start Wallpaper ------ #
-swww init
+swww-daemon --format xrgb &
 
 # ------ Start Waybar ------ #
-waybar -l trace >> waybar.log &
+waybar -l trace >> /home/teo/.config/hypr/logs/waybar.log &
 
 # ------ Network Manager Applet ------ #
 nm-applet&

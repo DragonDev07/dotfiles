@@ -1,0 +1,1379 @@
+[ERR] Config has errors:
+Config error in file /home/teo/.config/hypr/hyprlock.conf at line 38: config option <input-field:font_family> does not exist.
+Proceeding ignoring faulty entries
+[LOG]   | got iface: wl_shm v1
+[LOG]   | got iface: wl_drm v2
+[LOG]   | got iface: zwp_linux_dmabuf_v1 v4
+[LOG]    > Bound to zwp_linux_dmabuf_v1 v4
+[LOG]   | got iface: wl_compositor v6
+[LOG]    > Bound to wl_compositor v6
+[LOG]   | got iface: wl_subcompositor v1
+[LOG]   | got iface: wl_data_device_manager v3
+[LOG]   | got iface: zwlr_export_dmabuf_manager_v1 v1
+[LOG]   | got iface: zwlr_data_control_manager_v1 v2
+[LOG]   | got iface: zwp_primary_selection_device_manager_v1 v1
+[LOG]   | got iface: wp_viewporter v1
+[LOG]    > Bound to wp_viewporter v1
+[LOG]   | got iface: zwlr_gamma_control_manager_v1 v1
+[LOG]   | got iface: zwlr_output_power_manager_v1 v1
+[LOG]   | got iface: xdg_wm_base v6
+[LOG]   | got iface: wl_seat v9
+[LOG]    > Bound to wl_seat v9
+[LOG]   | got iface: wp_presentation v1
+[LOG]   | got iface: ext_idle_notifier_v1 v1
+[LOG]   | got iface: zwlr_layer_shell_v1 v4
+[LOG]   | got iface: org_kde_kwin_server_decoration_manager v1
+[LOG]   | got iface: zxdg_decoration_manager_v1 v1
+[LOG]   | got iface: zwlr_output_manager_v1 v4
+[LOG]   | got iface: zwp_keyboard_shortcuts_inhibit_manager_v1 v1
+[LOG]   | got iface: zwp_pointer_constraints_v1 v1
+[LOG]   | got iface: zwp_relative_pointer_manager_v1 v1
+[LOG]   | got iface: zwp_virtual_keyboard_manager_v1 v1
+[LOG]   | got iface: zwlr_virtual_pointer_manager_v1 v2
+[LOG]   | got iface: zwlr_foreign_toplevel_manager_v1 v3
+[LOG]   | got iface: wp_drm_lease_device_v1 v1
+[LOG]   | got iface: zwp_tablet_manager_v2 v1
+[LOG]   | got iface: zwp_idle_inhibit_manager_v1 v1
+[LOG]   | got iface: zxdg_exporter_v1 v1
+[LOG]   | got iface: zxdg_importer_v1 v1
+[LOG]   | got iface: zxdg_exporter_v2 v1
+[LOG]   | got iface: zxdg_importer_v2 v1
+[LOG]   | got iface: zwp_pointer_gestures_v1 v3
+[LOG]   | got iface: zwp_text_input_manager_v3 v1
+[LOG]   | got iface: zwp_input_method_manager_v2 v1
+[LOG]   | got iface: xdg_activation_v1 v1
+[LOG]   | got iface: ext_session_lock_manager_v1 v1
+[LOG]    > Bound to ext_session_lock_manager_v1 v1
+[LOG]   | got iface: wp_cursor_shape_manager_v1 v1
+[LOG]    > Bound to wp_cursor_shape_manager_v1 v1
+[LOG]   | got iface: wp_tearing_control_manager_v1 v1
+[LOG]   | got iface: wp_single_pixel_buffer_manager_v1 v1
+[LOG]   | got iface: xwayland_shell_v1 v1
+[LOG]   | got iface: hyprland_toplevel_export_manager_v1 v2
+[LOG]   | got iface: wp_fractional_scale_manager_v1 v1
+[LOG]    > Bound to wp_fractional_scale_manager_v1 v1
+[LOG]   | got iface: zwp_text_input_manager_v1 v1
+[LOG]   | got iface: hyprland_global_shortcuts_manager_v1 v1
+[LOG]   | got iface: zwlr_screencopy_manager_v1 v3
+[LOG]    > Bound to zwlr_screencopy_manager_v1 v3
+[LOG]   | got iface: zxdg_output_manager_v1 v3
+[LOG]   | got iface: wl_output v4
+[LOG]    > Bound to wl_output v4
+[LOG] [core] dmabufFeedbackMainDevice
+[LOG] output 49 make Unknown model Unknown
+[LOG] output 49 name eDP-1
+[LOG] output 49 description (null) (null) (eDP-1)
+[LOG] output 49 done
+[LOG] Running on Hyprland
+[LOG] Locking session
+[LOG] onLockLocked called
+[LOG] got fractional 1
+[LOG] got fractional 1.6
+[LOG] configure with serial 1515
+[LOG] Configuring surface for logical [Vector2D: x: 1599, y: 999] and pixel [Vector2D: x: 2558, y: 1598]
+[LOG] Framebuffer created, status 36053
+[LOG] Framebuffer created, status 36053
+[LOG] Framebuffer created, status 36053
+[LOG] Authenticating
+[ERR] auth: Authentication failed for hyprlock
+[LOG] auth: authenticated for su
+[LOG] Unlocking session
+[LOG] Unlocked, exiting!
+[LOG] Reached the end, exiting
+[LOG] Registered timeout rule for 120s:
+      on-timeout: hyprlock
+      on-resume: 
+[LOG] Registered timeout rule for 300s:
+      on-timeout: hyprctl dispatch dpms off eDP-1
+      on-resume: hyprctl dispatch dpms on eDP-1
+[LOG]   | got iface: wl_shm v1
+[LOG]   | got iface: wl_drm v2
+[LOG]   | got iface: zwp_linux_dmabuf_v1 v4
+[LOG]   | got iface: wl_compositor v6
+[LOG]   | got iface: wl_subcompositor v1
+[LOG]   | got iface: wl_data_device_manager v3
+[LOG]   | got iface: zwlr_export_dmabuf_manager_v1 v1
+[LOG]   | got iface: zwlr_data_control_manager_v1 v2
+[LOG]   | got iface: zwp_primary_selection_device_manager_v1 v1
+[LOG]   | got iface: wp_viewporter v1
+[LOG]   | got iface: zwlr_gamma_control_manager_v1 v1
+[LOG]   | got iface: zwlr_output_power_manager_v1 v1
+[LOG]   | got iface: xdg_wm_base v6
+[LOG]   | got iface: wl_seat v9
+[LOG]    > Bound to wl_seat v9
+[LOG]   | got iface: wp_presentation v1
+[LOG]   | got iface: ext_idle_notifier_v1 v1
+[LOG]    > Bound to ext_idle_notifier_v1 v1
+[LOG]   | got iface: zwlr_layer_shell_v1 v4
+[LOG]   | got iface: org_kde_kwin_server_decoration_manager v1
+[LOG]   | got iface: zxdg_decoration_manager_v1 v1
+[LOG]   | got iface: zwlr_output_manager_v1 v4
+[LOG]   | got iface: zwp_keyboard_shortcuts_inhibit_manager_v1 v1
+[LOG]   | got iface: zwp_pointer_constraints_v1 v1
+[LOG]   | got iface: zwp_relative_pointer_manager_v1 v1
+[LOG]   | got iface: zwp_virtual_keyboard_manager_v1 v1
+[LOG]   | got iface: zwlr_virtual_pointer_manager_v1 v2
+[LOG]   | got iface: zwlr_foreign_toplevel_manager_v1 v3
+[LOG]   | got iface: wp_drm_lease_device_v1 v1
+[LOG]   | got iface: zwp_tablet_manager_v2 v1
+[LOG]   | got iface: zwp_idle_inhibit_manager_v1 v1
+[LOG]   | got iface: zxdg_exporter_v1 v1
+[LOG]   | got iface: zxdg_importer_v1 v1
+[LOG]   | got iface: zxdg_exporter_v2 v1
+[LOG]   | got iface: zxdg_importer_v2 v1
+[LOG]   | got iface: zwp_pointer_gestures_v1 v3
+[LOG]   | got iface: zwp_text_input_manager_v3 v1
+[LOG]   | got iface: zwp_input_method_manager_v2 v1
+[LOG]   | got iface: xdg_activation_v1 v1
+[LOG]   | got iface: ext_session_lock_manager_v1 v1
+[LOG]   | got iface: wp_cursor_shape_manager_v1 v1
+[LOG]   | got iface: wp_tearing_control_manager_v1 v1
+[LOG]   | got iface: wp_single_pixel_buffer_manager_v1 v1
+[LOG]   | got iface: xwayland_shell_v1 v1
+[LOG]   | got iface: hyprland_toplevel_export_manager_v1 v2
+[LOG]   | got iface: wp_fractional_scale_manager_v1 v1
+[LOG]   | got iface: zwp_text_input_manager_v1 v1
+[LOG]   | got iface: hyprland_global_shortcuts_manager_v1 v1
+[LOG]   | got iface: zwlr_screencopy_manager_v1 v3
+[LOG]   | got iface: zxdg_output_manager_v1 v3
+[LOG]   | got iface: wl_output v4
+[LOG] found 2 rules
+[LOG] wayland done, registering dbus
+[LOG] Using dbus path /org/freedesktop/login1/session/_35
+[LOG] Idled: rule 25aaa350
+[LOG] Running hyprlock
+[LOG] Executing hyprlock
+[LOG] Process Created with pid 13521
+[LOG] Resumed: rule 25aaa350
+[LOG] Ignoring, onRestore is empty.
+[LOG] Idled: rule 25aaa350
+[LOG] Running hyprlock
+[LOG] Executing hyprlock
+[LOG] Process Created with pid 15186
+[LOG] Resumed: rule 25aaa350
+[LOG] Ignoring, onRestore is empty.
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1337 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1338 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1339 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1340 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with conte[LOG] Registered timeout rule for 120s:
+      on-timeout: hyprlock
+      on-resume: 
+[LOG] Registered timeout rule for 300s:
+      on-timeout: hyprctl dispatch dpms off eDP-1
+      on-resume: hyprctl dispatch dpms on eDP-1
+[LOG]   | got iface: wl_shm v1
+[LOG]   | got iface: wl_drm v2
+[LOG]   | got iface: zwp_linux_dmabuf_v1 v4
+[LOG]   | got iface: wl_compositor v6
+[LOG]   | got iface: wl_subcompositor v1
+[LOG]   | got iface: wl_data_device_manager v3
+[LOG]   | got iface: zwlr_export_dmabuf_manager_v1 v1
+[LOG]   | got iface: zwlr_data_control_manager_v1 v2
+[LOG]   | got iface: zwp_primary_selection_device_manager_v1 v1
+[LOG]   | got iface: wp_viewporter v1
+[LOG]   | got iface: zwlr_gamma_control_manager_v1 v1
+[LOG]   | got iface: zwlr_output_power_manager_v1 v1
+[LOG]   | got iface: xdg_wm_base v6
+[LOG]   | got iface: wl_seat v9
+[LOG]    > Bound to wl_seat v9
+[LOG]   | got iface: wp_presentation v1
+[LOG]   | got iface: ext_idle_notifier_v1 v1
+[LOG]    > Bound to ext_idle_notifier_v1 v1
+[LOG]   | got iface: zwlr_layer_shell_v1 v4
+[LOG]   | got iface: org_kde_kwin_server_decoration_manager v1
+[LOG]   | got iface: zxdg_decoration_manager_v1 v1
+[LOG]   | got iface: zwlr_output_manager_v1 v4
+[LOG]   | got iface: zwp_keyboard_shortcuts_inhibit_manager_v1 v1
+[LOG]   | got iface: zwp_pointer_constraints_v1 v1
+[LOG]   | got iface: zwp_relative_pointer_manager_v1 v1
+[LOG]   | got iface: zwp_virtual_keyboard_manager_v1 v1
+[LOG]   | got iface: zwlr_virtual_pointer_manager_v1 v2
+[LOG]   | got iface: zwlr_foreign_toplevel_manager_v1 v3
+[LOG]   | got iface: wp_drm_lease_device_v1 v1
+[LOG]   | got iface: zwp_tablet_manager_v2 v1
+[LOG]   | got iface: zwp_idle_inhibit_manager_v1 v1
+[LOG]   | got iface: zxdg_exporter_v1 v1
+[LOG]   | got iface: zxdg_importer_v1 v1
+[LOG]   | got iface: zxdg_exporter_v2 v1
+[LOG]   | got iface: zxdg_importer_v2 v1
+[LOG]   | got iface: zwp_pointer_gestures_v1 v3
+[LOG]   | got iface: zwp_text_input_manager_v3 v1
+[LOG]   | got iface: zwp_input_method_manager_v2 v1
+[LOG]   | got iface: xdg_activation_v1 v1
+[LOG]   | got iface: ext_session_lock_manager_v1 v1
+[LOG]   | got iface: wp_cursor_shape_manager_v1 v1
+[LOG]   | got iface: wp_tearing_control_manager_v1 v1
+[LOG]   | got iface: wp_single_pixel_buffer_manager_v1 v1
+[LOG]   | got iface: xwayland_shell_v1 v1
+[LOG]   | got iface: hyprland_toplevel_export_manager_v1 v2
+[LOG]   | got iface: wp_fractional_scale_manager_v1 v1
+[LOG]   | got iface: zwp_text_input_manager_v1 v1
+[LOG]   | got iface: hyprland_global_shortcuts_manager_v1 v1
+[LOG]   | got iface: zwlr_screencopy_manager_v1 v3
+[LOG]   | got iface: zxdg_output_manager_v1 v3
+[LOG]   | got iface: wl_output v4
+[LOG] found 2 rules
+[LOG] wayland done, registering dbus
+[LOG] Using dbus path /org/freedesktop/login1/session/_32
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1337 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1338 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1339 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1340 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1341 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1342 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content [ERR] Config has errors:
+Config error in file /home/teo/.config/hypr/hyprlock.conf at line 38: config option <input-field:font_family> does not exist.
+Proceeding ignoring faulty entries
+[LOG]   | got iface: wl_shm v1
+[LOG]   | got iface: wl_drm v2
+[LOG]   | got iface: zwp_linux_dmabuf_v1 v4
+[LOG]    > Bound to zwp_linux_dmabuf_v1 v4
+[LOG]   | got iface: wl_compositor v6
+[LOG]    > Bound to wl_compositor v6
+[LOG]   | got iface: wl_subcompositor v1
+[LOG]   | got iface: wl_data_device_manager v3
+[LOG]   | got iface: zwlr_export_dmabuf_manager_v1 v1
+[LOG]   | got iface: zwlr_data_control_manager_v1 v2
+[LOG]   | got iface: zwp_primary_selection_device_manager_v1 v1
+[LOG]   | got iface: wp_viewporter v1
+[LOG]    > Bound to wp_viewporter v1
+[LOG]   | got iface: zwlr_gamma_control_manager_v1 v1
+[LOG]   | got iface: zwlr_output_power_manager_v1 v1
+[LOG]   | got iface: xdg_wm_base v6
+[LOG]   | got iface: wl_seat v9
+[LOG]    > Bound to wl_seat v9
+[LOG]   | got iface: wp_presentation v1
+[LOG]   | got iface: ext_idle_notifier_v1 v1
+[LOG]   | got iface: zwlr_layer_shell_v1 v4
+[LOG]   | got iface: org_kde_kwin_server_decoration_manager v1
+[LOG]   | got iface: zxdg_decoration_manager_v1 v1
+[LOG]   | got iface: zwlr_output_manager_v1 v4
+[LOG]   | got iface: zwp_keyboard_shortcuts_inhibit_manager_v1 v1
+[LOG]   | got iface: zwp_pointer_constraints_v1 v1
+[LOG]   | got iface: zwp_relative_pointer_manager_v1 v1
+[LOG]   | got iface: zwp_virtual_keyboard_manager_v1 v1
+[LOG]   | got iface: zwlr_virtual_pointer_manager_v1 v2
+[LOG]   | got iface: zwlr_foreign_toplevel_manager_v1 v3
+[LOG]   | got iface: wp_drm_lease_device_v1 v1
+[LOG]   | got iface: zwp_tablet_manager_v2 v1
+[LOG]   | got iface: zwp_idle_inhibit_manager_v1 v1
+[LOG]   | got iface: zxdg_exporter_v1 v1
+[LOG]   | got iface: zxdg_importer_v1 v1
+[LOG]   | got iface: zxdg_exporter_v2 v1
+[LOG]   | got iface: zxdg_importer_v2 v1
+[LOG]   | got iface: zwp_pointer_gestures_v1 v3
+[LOG]   | got iface: zwp_text_input_manager_v3 v1
+[LOG]   | got iface: zwp_input_method_manager_v2 v1
+[LOG]   | got iface: xdg_activation_v1 v1
+[LOG]   | got iface: ext_session_lock_manager_v1 v1
+[LOG]    > Bound to ext_session_lock_manager_v1 v1
+[LOG]   | got iface: wp_cursor_shape_manager_v1 v1
+[LOG]    > Bound to wp_cursor_shape_manager_v1 v1
+[LOG]   | got iface: wp_tearing_control_manager_v1 v1
+[LOG]   | got iface: wp_single_pixel_buffer_manager_v1 v1
+[LOG]   | got iface: xwayland_shell_v1 v1
+[LOG]   | got iface: hyprland_toplevel_export_manager_v1 v2
+[LOG]   | got iface: wp_fractional_scale_manager_v1 v1
+[LOG]    > Bound to wp_fractional_scale_manager_v1 v1
+[LOG]   | got iface: zwp_text_input_manager_v1 v1
+[LOG]   | got iface: hyprland_global_shortcuts_manager_v1 v1
+[LOG]   | got iface: zwlr_screencopy_manager_v1 v3
+[LOG]    > Bound to zwlr_screencopy_manager_v1 v3
+[LOG]   | got iface: zxdg_output_manager_v1 v3
+[LOG]   | got iface: wl_output v4
+[LOG]    > Bound to wl_output v4
+[LOG] [core] dmabufFeedbackMainDevice
+[LOG] output 49 make Unknown model Unknown
+[LOG] output 49 name eDP-1
+[LOG] output 49 description (null) (null) (eDP-1)
+[LOG] output 49 done
+[LOG] Running on Hyprland
+[LOG] Locking session
+[LOG] onLockLocked called
+[LOG] got fractional 1
+[LOG] got fractional 1.6
+[LOG] configure with serial 222
+[LOG] Configuring surface for logical [Vector2D: x: 1599, y: 999] and pixel [Vector2D: x: 2558, y: 1598]
+[LOG] Framebuffer created, status 36053
+[LOG] Framebuffer created, status 36053
+[LOG] Framebuffer created, status 36053
+[LOG] Authenticating
+[ERR] auth: Authentication failed for hyprlock
+[LOG] auth: authenticated for su
+[LOG] Unlocking session
+[LOG] Unlocked, exiting!
+[LOG] Reached the end, exiting
+ok
+ok
+[ERR] Config has errors:
+Config error in file /home/teo/.config/hypr/hyprlock.conf at line 38: config option <input-field:font_family> does not exist.
+Proceeding ignoring faulty entries
+[LOG]   | got iface: wl_shm v1
+[LOG]   | got iface: wl_drm v2
+[LOG]   | got iface: zwp_linux_dmabuf_v1 v4
+[LOG]    > Bound to zwp_linux_dmabuf_v1 v4
+[LOG]   | got iface: wl_compositor v6
+[LOG]    > Bound to wl_compositor v6
+[LOG]   | got iface: wl_subcompositor v1
+[LOG]   | got iface: wl_data_device_manager v3
+[LOG]   | got iface: zwlr_export_dmabuf_manager_v1 v1
+[LOG]   | got iface: zwlr_data_control_manager_v1 v2
+[LOG]   | got iface: zwp_primary_selection_device_manager_v1 v1
+[LOG]   | got iface: wp_viewporter v1
+[LOG]    > Bound to wp_viewporter v1
+[LOG]   | got iface: zwlr_gamma_control_manager_v1 v1
+[LOG]   | got iface: zwlr_output_power_manager_v1 v1
+[LOG]   | got iface: xdg_wm_base v6
+[LOG]   | got iface: wl_seat v9
+[LOG]    > Bound to wl_seat v9
+[LOG]   | got iface: wp_presentation v1
+[LOG]   | got iface: ext_idle_notifier_v1 v1
+[LOG]   | got iface: zwlr_layer_shell_v1 v4
+[LOG]   | got iface: org_kde_kwin_server_decoration_manager v1
+[LOG]   | got iface: zxdg_decoration_manager_v1 v1
+[LOG]   | got iface: zwlr_output_manager_v1 v4
+[LOG]   | got iface: zwp_keyboard_shortcuts_inhibit_manager_v1 v1
+[LOG]   | got iface: zwp_pointer_constraints_v1 v1
+[LOG]   | got iface: zwp_relative_pointer_manager_v1 v1
+[LOG]   | got iface: zwp_virtual_keyboard_manager_v1 v1
+[LOG]   | got iface: zwlr_virtual_pointer_manager_v1 v2
+[LOG]   | got iface: zwlr_foreign_toplevel_manager_v1 v3
+[LOG]   | got iface: wp_drm_lease_device_v1 v1
+[LOG]   | got iface: zwp_tablet_manager_v2 v1
+[LOG]   | got iface: zwp_idle_inhibit_manager_v1 v1
+[LOG]   | got iface: zxdg_exporter_v1 v1
+[LOG]   | got iface: zxdg_importer_v1 v1
+[LOG]   | got iface: zxdg_exporter_v2 v1
+[LOG]   | got iface: zxdg_importer_v2 v1
+[LOG]   | got iface: zwp_pointer_gestures_v1 v3
+[LOG]   | got iface: zwp_text_input_manager_v3 v1
+[LOG]   | got iface: zwp_input_method_manager_v2 v1
+[LOG]   | got iface: xdg_activation_v1 v1
+[LOG]   | got iface: ext_session_lock_manager_v1 v1
+[LOG]    > Bound to ext_session_lock_manager_v1 v1
+[LOG]   | got iface: wp_cursor_shape_manager_v1 v1
+[LOG]    > Bound to wp_cursor_shape_manager_v1 v1
+[LOG]   | got iface: wp_tearing_control_manager_v1 v1
+[LOG]   | got iface: wp_single_pixel_buffer_manager_v1 v1
+[LOG]   | got iface: xwayland_shell_v1 v1
+[LOG]   | got iface: hyprland_toplevel_export_manager_v1 v2
+[LOG]   | got iface: wp_fractional_scale_manager_v1 v1
+[LOG]    > Bound to wp_fractional_scale_manager_v1 v1
+[LOG]   | got iface: zwp_text_input_manager_v1 v1
+[LOG]   | got iface: hyprland_global_shortcuts_manager_v1 v1
+[LOG]   | got iface: zwlr_screencopy_manager_v1 v3
+[LOG]    > Bound to zwlr_screencopy_manager_v1 v3
+[LOG]   | got iface: zxdg_output_manager_v1 v3
+[LOG]   | got iface: wl_output v4
+[LOG]    > Bound to wl_output v4
+[LOG] [core] dmabufFeedbackMainDevice
+[LOG] output 49 make Unknown model Unknown
+[LOG] output 49 name eDP-1
+[LOG] output 49 description (null) (null) (eDP-1)
+[LOG] output 49 done
+[LOG] Running on Hyprland
+[LOG] Locking session
+[LOG] onLockLocked called
+[LOG] got fractional 1
+[LOG] got fractional 1.6
+[LOG] configure with serial 682
+[LOG] Configuring surface for logical [Vector2D: x: 1599, y: 999] and pixel [Vector2D: x: 2558, y: 1598]
+[LOG] Framebuffer created, status 36053
+[LOG] Framebuffer created, status 36053
+[LOG] Framebuffer created, status 36053
+[LOG] Authenticating
+[ERR] auth: Authentication failed for hyprlock
+[LOG] auth: authenticated for su
+[LOG] Unlocking session
+[LOG] Unlocked, exiting!
+[LOG] Reached the end, exiting
+ok
+ok
+[ERR] Config has errors:
+Config error in file /home/teo/.config/hypr/hyprlock.conf at line 38: config option <input-field:font_family> does not exist.
+Proceeding ignoring faulty entries
+[LOG]   | got iface: wl_shm v1
+[LOG]   | got iface: wl_drm v2
+[LOG]   | got iface: zwp_linux_dmabuf_v1 v4
+[LOG]    > Bound to zwp_linux_dmabuf_v1 v4
+[LOG]   | got iface: wl_compositor v6
+[LOG]    > Bound to wl_compositor v6
+[LOG]   | got iface: wl_subcompositor v1
+[LOG]   | got iface: wl_data_device_manager v3
+[LOG]   | got iface: zwlr_export_dmabuf_manager_v1 v1
+[LOG]   | got iface: zwlr_data_control_manager_v1 v2
+[LOG]   | got iface: zwp_primary_selection_device_manager_v1 v1
+[LOG]   | got iface: wp_viewporter v1
+[LOG]    > Bound to wp_viewporter v1
+[LOG]   | got iface: zwlr_gamma_control_manager_v1 v1
+[LOG]   | got iface: zwlr_output_power_manager_v1 v1
+[LOG]   | got iface: xdg_wm_base v6
+[LOG]   | got iface: wl_seat v9
+[LOG]    > Bound to wl_seat v9
+[LOG]   | got iface: wp_presentation v1
+[LOG]   | got iface: ext_idle_notifier_v1 v1
+[LOG]   | got iface: zwlr_layer_shell_v1 v4
+[LOG]   | got iface: org_kde_kwin_server_decoration_manager v1
+[LOG]   | got iface: zxdg_decoration_manager_v1 v1
+[LOG]   | got iface: zwlr_output_manager_v1 v4
+[LOG]   | got iface: zwp_keyboard_shortcuts_inhibit_manager_v1 v1
+[LOG]   | got iface: zwp_pointer_constraints_v1 v1
+[LOG]   | got iface: zwp_relative_pointer_manager_v1 v1
+[LOG]   | got iface: zwp_virtual_keyboard_manager_v1 v1
+[LOG]   | got iface: zwlr_virtual_pointer_manager_v1 v2
+[LOG]   | got iface: zwlr_foreign_toplevel_manager_v1 v3
+[LOG]   | got iface: wp_drm_lease_device_v1 v1
+[LOG]   | got iface: zwp_tablet_manager_v2 v1
+[LOG]   | got iface: zwp_idle_inhibit_manager_v1 v1
+[LOG]   | got iface: zxdg_exporter_v1 v1
+[LOG]   | got iface: zxdg_importer_v1 v1
+[LOG]   | got iface: zxdg_exporter_v2 v1
+[LOG]   | got iface: zxdg_importer_v2 v1
+[LOG]   | got iface: zwp_pointer_gestures_v1 v3
+[LOG]   | got iface: zwp_text_input_manager_v3 v1
+[LOG]   | got iface: zwp_input_method_manager_v2 v1
+[LOG]   | got iface: xdg_activation_v1 v1
+[LOG]   | got iface: ext_session_lock_manager_v1 v1
+[LOG]    > Bound to ext_session_lock_manager_v1 v1
+[LOG]   | got iface: wp_cursor_shape_manager_v1 v1
+[LOG]    > Bound to wp_cursor_shape_manager_v1 v1
+[LOG]   | got iface: wp_tearing_control_manager_v1 v1
+[LOG]   | got iface: wp_single_pixel_buffer_manager_v1 v1
+[LOG]   | got iface: xwayland_shell_v1 v1
+[LOG]   | got iface: hyprland_toplevel_export_manager_v1 v2
+[LOG]   | got iface: wp_fractional_scale_manager_v1 v1
+[LOG]    > Bound to wp_fractional_scale_manager_v1 v1
+[LOG]   | got iface: zwp_text_input_manager_v1 v1
+[LOG]   | got iface: hyprland_global_shortcuts_manager_v1 v1
+[LOG]   | got iface: zwlr_screencopy_manager_v1 v3
+[LOG]    > Bound to zwlr_screencopy_manager_v1 v3
+[LOG]   | got iface: zxdg_output_manager_v1 v3
+[LOG]   | got iface: wl_output v4
+[LOG]    > Bound to wl_output v4
+[LOG] [core] dmabufFeedbackMainDevice
+[LOG] output 49 make Unknown model Unknown
+[LOG] output 49 name eDP-1
+[LOG] output 49 description (null) (null) (eDP-1)
+[LOG] output 49 done
+[LOG] Running on Hyprland
+[LOG] Locking session
+[LOG] onLockLocked called
+[LOG] got fractional 1
+[LOG] got fractional 1.6
+[LOG] configure with serial 4
+[LOG] Configuring surface for logical [Vector2D: x: 1599, y: 999] and pixel [Vector2D: x: 2558, y: 1598]
+[LOG] Framebuffer created, status 36053
+[LOG] Framebuffer created, status 36053
+[LOG] Framebuffer created, status 36053
+[LOG] Authenticating
+[ERR] auth: Authentication failed for hyprlock
+[LOG] auth: authenticated for su
+[LOG] Unlocking session
+[LOG] Unlocked, exiting!
+[LOG] Reached the end, exiting
+ok
+ok
+ok
+[LOG] Registered timeout rule for 120s:
+      on-timeout: hyprlock
+      on-resume: 
+[LOG] Registered timeout rule for 300s:
+      on-timeout: hyprctl dispatch dpms off eDP-1
+      on-resume: hyprctl dispatch dpms on eDP-1
+[LOG]   | got iface: wl_shm v1
+[LOG]   | got iface: wl_drm v2
+[LOG]   | got iface: zwp_linux_dmabuf_v1 v4
+[LOG]   | got iface: wl_compositor v6
+[LOG]   | got iface: wl_subcompositor v1
+[LOG]   | got iface: wl_data_device_manager v3
+[LOG]   | got iface: zwlr_export_dmabuf_manager_v1 v1
+[LOG]   | got iface: zwlr_data_control_manager_v1 v2
+[LOG]   | got iface: zwp_primary_selection_device_manager_v1 v1
+[LOG]   | got iface: wp_viewporter v1
+[LOG]   | got iface: zwlr_gamma_control_manager_v1 v1
+[LOG]   | got iface: zwlr_output_power_manager_v1 v1
+[LOG]   | got iface: xdg_wm_base v6
+[LOG]   | got iface: wl_seat v9
+[LOG]    > Bound to wl_seat v9
+[LOG]   | got iface: wp_presentation v1
+[LOG]   | got iface: ext_idle_notifier_v1 v1
+[LOG]    > Bound to ext_idle_notifier_v1 v1
+[LOG]   | got iface: zwlr_layer_shell_v1 v4
+[LOG]   | got iface: org_kde_kwin_server_decoration_manager v1
+[LOG]   | got iface: zxdg_decoration_manager_v1 v1
+[LOG]   | got iface: zwlr_output_manager_v1 v4
+[LOG]   | got iface: zwp_keyboard_shortcuts_inhibit_manager_v1 v1
+[LOG]   | got iface: zwp_pointer_constraints_v1 v1
+[LOG]   | got iface: zwp_relative_pointer_manager_v1 v1
+[LOG]   | got iface: zwp_virtual_keyboard_manager_v1 v1
+[LOG]   | got iface: zwlr_virtual_pointer_manager_v1 v2
+[LOG]   | got iface: zwlr_foreign_toplevel_manager_v1 v3
+[LOG]   | got iface: wp_drm_lease_device_v1 v1
+[LOG]   | got iface: zwp_tablet_manager_v2 v1
+[LOG]   | got iface: zwp_idle_inhibit_manager_v1 v1
+[LOG]   | got iface: zxdg_exporter_v1 v1
+[LOG]   | got iface: zxdg_importer_v1 v1
+[LOG]   | got iface: zxdg_exporter_v2 v1
+[LOG]   | got iface: zxdg_importer_v2 v1
+[LOG]   | got iface: zwp_pointer_gestures_v1 v3
+[LOG]   | got iface: zwp_text_input_manager_v3 v1
+[LOG]   | got iface: zwp_input_method_manager_v2 v1
+[LOG]   | got iface: xdg_activation_v1 v1
+[LOG]   | got iface: ext_session_lock_manager_v1 v1
+[LOG]   | got iface: wp_cursor_shape_manager_v1 v1
+[LOG]   | got iface: wp_tearing_control_manager_v1 v1
+[LOG]   | got iface: wp_single_pixel_buffer_manager_v1 v1
+[LOG]   | got iface: xwayland_shell_v1 v1
+[LOG]   | got iface: hyprland_toplevel_export_manager_v1 v2
+[LOG]   | got iface: wp_fractional_scale_manager_v1 v1
+[LOG]   | got iface: zwp_text_input_manager_v1 v1
+[LOG]   | got iface: hyprland_global_shortcuts_manager_v1 v1
+[LOG]   | got iface: zwlr_screencopy_manager_v1 v3
+[LOG]   | got iface: zxdg_output_manager_v1 v3
+[LOG]   | got iface: wl_output v4
+[LOG] found 2 rules
+[LOG] wayland done, registering dbus
+[LOG] Using dbus path /org/freedesktop/login1/session/_37
+[LOG] Idled: rule 268d2350
+[LOG] Running hyprlock
+[LOG] Executing hyprlock
+[LOG] Process Created with pid 64504
+[LOG] Idled: rule 268d2398
+[LOG] Running hyprctl dispatch dpms off eDP-1
+[LOG] Executing hyprctl dispatch dpms off eDP-1
+[LOG] Process Created with pid 64964
+[LOG] Resumed: rule 268d2398
+[LOG] Running hyprctl dispatch dpms on eDP-1
+[LOG] Executing hyprctl dispatch dpms on eDP-1
+[LOG] Process Created with pid 65024
+[LOG] Resumed: rule 268d2350
+[LOG] Ignoring, onRestore is empty.
+[LOG] Idled: rule 268d2350
+[LOG] Running hyprlock
+[LOG] Executing hyprlock
+[LOG] Process Created with pid 67143
+[LOG] Idled: rule 268d2398
+[LOG] Running hyprctl dispatch dpms off eDP-1
+[LOG] Executing hyprctl dispatch dpms off eDP-1
+[LOG] Process Created with pid 67660
+[LOG] Resumed: rule 268d2398
+[LOG] Running hyprctl dispatch dpms on eDP-1
+[LOG] Executing hyprctl dispatch dpms on eDP-1
+[LOG] Process Created with pid 67986
+[LOG] Resumed: rule 268d2350
+[LOG] Ignoring, onRestore is empty.
+[LOG] Idled: rule 268d2350
+[LOG] Running hyprlock
+[LOG] Executing hyprlock
+[LOG] Process Created with pid 68286
+[LOG] Idled: rule 268d2398
+[LOG] Running hyprctl dispatch dpms off eDP-1
+[LOG] Executing hyprctl dispatch dpms off eDP-1
+[LOG] Process Created with pid 68750
+[LOG] Resumed: rule 268d2398
+[LOG] Running hyprctl dispatch dpmok
+[ERR] Config has errors:
+Config error in file /home/teo/.config/hypr/hyprlock.conf at line 38: config option <input-field:font_family> does not exist.
+Proceeding ignoring faulty entries
+[LOG]   | got iface: wl_shm v1
+[LOG]   | got iface: wl_drm v2
+[LOG]   | got iface: zwp_linux_dmabuf_v1 v4
+[LOG]    > Bound to zwp_linux_dmabuf_v1 v4
+[LOG]   | got iface: wl_compositor v6
+[LOG]    > Bound to wl_compositor v6
+[LOG]   | got iface: wl_subcompositor v1
+[LOG]   | got iface: wl_data_device_manager v3
+[LOG]   | got iface: zwlr_export_dmabuf_manager_v1 v1
+[LOG]   | got iface: zwlr_data_control_manager_v1 v2
+[LOG]   | got iface: zwp_primary_selection_device_manager_v1 v1
+[LOG]   | got iface: wp_viewporter v1
+[LOG]    > Bound to wp_viewporter v1
+[LOG]   | got iface: zwlr_gamma_control_manager_v1 v1
+[LOG]   | got iface: zwlr_output_power_manager_v1 v1
+[LOG]   | got iface: xdg_wm_base v6
+[LOG]   | got iface: wl_seat v9
+[LOG]    > Bound to wl_seat v9
+[LOG]   | got iface: wp_presentation v1
+[LOG]   | got iface: ext_idle_notifier_v1 v1
+[LOG]   | got iface: zwlr_layer_shell_v1 v4
+[LOG]   | got iface: org_kde_kwin_server_decoration_manager v1
+[LOG]   | got iface: zxdg_decoration_manager_v1 v1
+[LOG]   | got iface: zwlr_output_manager_v1 v4
+[LOG]   | got iface: zwp_keyboard_shortcuts_inhibit_manager_v1 v1
+[LOG]   | got iface: zwp_pointer_constraints_v1 v1
+[LOG]   | got iface: zwp_relative_pointer_manager_v1 v1
+[LOG]   | got iface: zwp_virtual_keyboard_manager_v1 v1
+[LOG]   | got iface: zwlr_virtual_pointer_manager_v1 v2
+[LOG]   | got iface: zwlr_foreign_toplevel_manager_v1 v3
+[LOG]   | got iface: wp_drm_lease_device_v1 v1
+[LOG]   | got iface: zwp_tablet_manager_v2 v1
+[LOG]   | got iface: zwp_idle_inhibit_manager_v1 v1
+[LOG]   | got iface: zxdg_exporter_v1 v1
+[LOG]   | got iface: zxdg_importer_v1 v1
+[LOG]   | got iface: zxdg_exporter_v2 v1
+[LOG]   | got iface: zxdg_importer_v2 v1
+[LOG]   | got iface: zwp_pointer_gestures_v1 v3
+[LOG]   | got iface: zwp_text_input_manager_v3 v1
+[LOG]   | got iface: zwp_input_method_manager_v2 v1
+[LOG]   | got iface: xdg_activation_v1 v1
+[LOG]   | got iface: ext_session_lock_manager_v1 v1
+[LOG]    > Bound to ext_session_lock_manager_v1 v1
+[LOG]   | got iface: wp_cursor_shape_manager_v1 v1
+[LOG]    > Bound to wp_cursor_shape_manager_v1 v1
+[LOG]   | got iface: wp_tearing_control_manager_v1 v1
+[LOG]   | got iface: wp_single_pixel_buffer_manager_v1 v1
+[LOG]   | got iface: xwayland_shell_v1 v1
+[LOG]   | got iface: hyprland_toplevel_export_manager_v1 v2
+[LOG]   | got iface: wp_fractional_scale_manager_v1 v1
+[LOG]    > Bound to wp_fractional_scale_manager_v1 v1
+[LOG]   | got iface: zwp_text_input_manager_v1 v1
+[LOG]   | got iface: hyprland_global_shortcuts_manager_v1 v1
+[LOG]   | got iface: zwlr_screencopy_manager_v1 v3
+[LOG]    > Bound to zwlr_screencopy_manager_v1 v3
+[LOG]   | got iface: zxdg_output_manager_v1 v3
+[LOG]   | got iface: wl_output v4
+[LOG]    > Bound to wl_output v4
+[LOG] [core] dmabufFeedbackMainDevice
+[LOG] output 49 make Unknown model Unknown
+[LOG] output 49 name eDP-1
+[LOG] output 49 description (null) (null) (eDP-1)
+[LOG] output 49 done
+[LOG] Running on Hyprland
+[LOG] Locking session
+[LOG] onLockLocked called
+[LOG] got fractional 1
+[LOG] got fractional 1.6
+[LOG] configure with serial 157
+[LOG] Configuring surface for logical [Vector2D: x: 1599, y: 999] and pixel [Vector2D: x: 2558, y: 1598]
+[LOG] Framebuffer created, status 36053
+[LOG] Framebuffer created, status 36053
+[LOG] Framebuffer created, status 36053
+[LOG] Authenticating
+[ERR] auth: Authentication failed for hyprlock
+[LOG] auth: authenticated for su
+[LOG] Unlocking session
+[LOG] Unlocked, exiting!
+[LOG] Reached the end, exiting
+ok
+ok
+[ERR] Config has errors:
+Config error in file /home/teo/.config/hypr/hyprlock.conf at line 38: config option <input-field:font_family> does not exist.
+Proceeding ignoring faulty entries
+[LOG]   | got iface: wl_shm v1
+[LOG]   | got iface: wl_drm v2
+[LOG]   | got iface: zwp_linux_dmabuf_v1 v4
+[LOG]    > Bound to zwp_linux_dmabuf_v1 v4
+[LOG]   | got iface: wl_compositor v6
+[LOG]    > Bound to wl_compositor v6
+[LOG]   | got iface: wl_subcompositor v1
+[LOG]   | got iface: wl_data_device_manager v3
+[LOG]   | got iface: zwlr_export_dmabuf_manager_v1 v1
+[LOG]   | got iface: zwlr_data_control_manager_v1 v2
+[LOG]   | got iface: zwp_primary_selection_device_manager_v1 v1
+[LOG]   | got iface: wp_viewporter v1
+[LOG]    > Bound to wp_viewporter v1
+[LOG]   | got iface: zwlr_gamma_control_manager_v1 v1
+[LOG]   | got iface: zwlr_output_power_manager_v1 v1
+[LOG]   | got iface: xdg_wm_base v6
+[LOG]   | got iface: wl_seat v9
+[LOG]    > Bound to wl_seat v9
+[LOG]   | got iface: wp_presentation v1
+[LOG]   | got iface: ext_idle_notifier_v1 v1
+[LOG]   | got iface: zwlr_layer_shell_v1 v4
+[LOG]   | got iface: org_kde_kwin_server_decoration_manager v1
+[LOG]   | got iface: zxdg_decoration_manager_v1 v1
+[LOG]   | got iface: zwlr_output_manager_v1 v4
+[LOG]   | got iface: zwp_keyboard_shortcuts_inhibit_manager_v1 v1
+[LOG]   | got iface: zwp_pointer_constraints_v1 v1
+[LOG]   | got iface: zwp_relative_pointer_manager_v1 v1
+[LOG]   | got iface: zwp_virtual_keyboard_manager_v1 v1
+[LOG]   | got iface: zwlr_virtual_pointer_manager_v1 v2
+[LOG]   | got iface: zwlr_foreign_toplevel_manager_v1 v3
+[LOG]   | got iface: wp_drm_lease_device_v1 v1
+[LOG]   | got iface: zwp_tablet_manager_v2 v1
+[LOG]   | got iface: zwp_idle_inhibit_manager_v1 v1
+[LOG]   | got iface: zxdg_exporter_v1 v1
+[LOG]   | got iface: zxdg_importer_v1 v1
+[LOG]   | got iface: zxdg_exporter_v2 v1
+[LOG]   | got iface: zxdg_importer_v2 v1
+[LOG]   | got iface: zwp_pointer_gestures_v1 v3
+[LOG]   | got iface: zwp_text_input_manager_v3 v1
+[LOG]   | got iface: zwp_input_method_manager_v2 v1
+[LOG]   | got iface: xdg_activation_v1 v1
+[LOG]   | got iface: ext_session_lock_manager_v1 v1
+[LOG]    > Bound to ext_session_lock_manager_v1 v1
+[LOG]   | got iface: wp_cursor_shape_manager_v1 v1
+[LOG]    > Bound to wp_cursor_shape_manager_v1 v1
+[LOG]   | got iface: wp_tearing_control_manager_v1 v1
+[LOG]   | got iface: wp_single_pixel_buffer_manager_v1 v1
+[LOG]   | got iface: xwayland_shell_v1 v1
+[LOG]   | got iface: hyprland_toplevel_export_manager_v1 v2
+[LOG]   | got iface: wp_fractional_scale_manager_v1 v1
+[LOG]    > Bound to wp_fractional_scale_manager_v1 v1
+[LOG]   | got iface: zwp_text_input_manager_v1 v1
+[LOG]   | got iface: hyprland_global_shortcuts_manager_v1 v1
+[LOG]   | got iface: zwlr_screencopy_manager_v1 v3
+[LOG]    > Bound to zwlr_screencopy_manager_v1 v3
+[LOG]   | got iface: zxdg_output_manager_v1 v3
+[LOG]   | got iface: wl_output v4
+[LOG]    > Bound to wl_output v4
+[LOG] [core] dmabufFeedbackMainDevice
+[LOG] output 49 make Unknown model Unknown
+[LOG] output 49 name eDP-1
+[LOG] output 49 description (null) (null) (eDP-1)
+[LOG] output 49 done
+[LOG] Running on Hyprland
+[LOG] Locking session
+[LOG] onLockLocked called
+[LOG] got fractional 1
+[LOG] got fractional 1.6
+[LOG] configure with serial 696
+[LOG] Configuring surface for logical [Vector2D: x: 1599, y: 999] and pixel [Vector2D: x: 2558, y: 1598]
+[LOG] Framebuffer created, status 36053
+[LOG] Framebuffer created, status 36053
+[LOG] Framebuffer created, status 36053
+[LOG] Authenticating
+[ERR] auth: Authentication failed for hyprlock
+[LOG] auth: authenticated for su
+[LOG] Unlocking session
+[LOG] Unlocked, exiting!
+[LOG] Reached the end, exiting
+[ERR] Config has errors:
+Config error in file /home/teo/.config/hypr/hyprlock.conf at line 38: config option <input-field:font_family> does not exist.
+Proceeding ignoring faulty entries
+[LOG]   | got iface: wl_shm v1
+[LOG]   | got iface: wl_drm v2
+[LOG]   | got iface: zwp_linux_dmabuf_v1 v4
+[LOG]    > Bound to zwp_linux_dmabuf_v1 v4
+[LOG]   | got iface: wl_compositor v6
+[LOG]    > Bound to wl_compositor v6
+[LOG]   | got iface: wl_subcompositor v1
+[LOG]   | got iface: wl_data_device_manager v3
+[LOG]   | got iface: zwlr_export_dmabuf_manager_v1 v1
+[LOG]   | got iface: zwlr_data_control_manager_v1 v2
+[LOG]   | got iface: zwp_primary_selection_device_manager_v1 v1
+[LOG]   | got iface: wp_viewporter v1
+[LOG]    > Bound to wp_viewporter v1
+[LOG]   | got iface: zwlr_gamma_control_manager_v1 v1
+[LOG]   | got iface: zwlr_output_power_manager_v1 v1
+[LOG]   | got iface: xdg_wm_base v6
+[LOG]   | got iface: wl_seat v9
+[LOG]    > Bound to wl_seat v9
+[LOG]   | got iface: wp_presentation v1
+[LOG]   | got iface: ext_idle_notifier_v1 v1
+[LOG]   | got iface: zwlr_layer_shell_v1 v4
+[LOG]   | got iface: org_kde_kwin_server_decoration_manager v1
+[LOG]   | got iface: zxdg_decoration_manager_v1 v1
+[LOG]   | got iface: zwlr_output_manager_v1 v4
+[LOG]   | got iface: zwp_keyboard_shortcuts_inhibit_manager_v1 v1
+[LOG]   | got iface: zwp_pointer_constraints_v1 v1
+[LOG]   | got iface: zwp_relative_pointer_manager_v1 v1
+[LOG]   | got iface: zwp_virtual_keyboard_manager_v1 v1
+[LOG]   | got iface: zwlr_virtual_pointer_manager_v1 v2
+[LOG]   | got iface: zwlr_foreign_toplevel_manager_v1 v3
+[LOG]   | got iface: wp_drm_lease_device_v1 v1
+[LOG]   | got iface: zwp_tablet_manager_v2 v1
+[LOG]   | got iface: zwp_idle_inhibit_manager_v1 v1
+[LOG]   | got iface: zxdg_exporter_v1 v1
+[LOG]   | got iface: zxdg_importer_v1 v1
+[LOG]   | got iface: zxdg_exporter_v2 v1
+[LOG]   | got iface: zxdg_importer_v2 v1
+[LOG]   | got iface: zwp_pointer_gestures_v1 v3
+[LOG]   | got iface: zwp_text_input_manager_v3 v1
+[LOG]   | got iface: zwp_input_method_manager_v2 v1
+[LOG]   | got iface: xdg_activation_v1 v1
+[LOG]   | got iface: ext_session_lock_manager_v1 v1
+[LOG]    > Bound to ext_session_lock_manager_v1 v1
+[LOG]   | got iface: wp_cursor_shape_manager_v1 v1
+[LOG]    > Bound to wp_cursor_shape_manager_v1 v1
+[LOG]   | got iface: wp_tearing_control_manager_v1 v1
+[LOG]   | got iface: wp_single_pixel_buffer_manager_v1 v1
+[LOG]   | got iface: xwayland_shell_v1 v1
+[LOG]   | got iface: hyprland_toplevel_export_manager_v1 v2
+[LOG]   | got iface: wp_fractional_scale_manager_v1 v1
+[LOG]    > Bound to wp_fractional_scale_manager_v1 v1
+[LOG]   | got iface: zwp_text_input_manager_v1 v1
+[LOG]   | got iface: hyprland_global_shortcuts_manager_v1 v1
+[LOG]   | got iface: zwlr_screencopy_manager_v1 v3
+[LOG]    > Bound to zwlr_screencopy_manager_v1 v3
+[LOG]   | got iface: zxdg_output_manager_v1 v3
+[LOG]   | got iface: wl_output v4
+[LOG]    > Bound to wl_output v4
+[LOG] [core] dmabufFeedbackMainDevice
+[LOG] output 49 make Unknown model Unknown
+[LOG] output 49 name eDP-1
+[LOG] output 49 description (null) (null) (eDP-1)
+[LOG] output 49 done
+[LOG] Running on Hyprland
+[LOG] Locking session
+[LOG] onLockLocked called
+[LOG] got fractional 1
+[LOG] got fractional 1.6
+[LOG] configure with serial 821
+[LOG] Configuring surface for logical [Vector2D: x: 1599, y: 999] and pixel [Vector2D: x: 2558, y: 1598]
+[LOG] Framebuffer created, status 36053
+[LOG] Framebuffer created, status 36053
+[LOG] Framebuffer created, status 36053
+[LOG] Authenticating
+[ERR] auth: Authentication failed for hyprlock
+[LOG] auth: authenticated for su
+[LOG] Unlocking session
+[LOG] Unlocked, exiting!
+[LOG] Reached the end, exiting
+[ERR] Config has errors:
+Config error in file /home/teo/.config/hypr/hyprlock.conf at line 38: config option <input-field:font_family> does not exist.
+Proceeding ignoring faulty entries
+[LOG]   | got iface: wl_shm v1
+[LOG]   | got iface: wl_drm v2
+[LOG]   | got iface: zwp_linux_dmabuf_v1 v4
+[LOG]    > Bound to zwp_linux_dmabuf_v1 v4
+[LOG]   | got iface: wl_compositor v6
+[LOG]    > Bound to wl_compositor v6
+[LOG]   | got iface: wl_subcompositor v1
+[LOG]   | got iface: wl_data_device_manager v3
+[LOG]   | got iface: zwlr_export_dmabuf_manager_v1 v1
+[LOG]   | got iface: zwlr_data_control_manager_v1 v2
+[LOG]   | got iface: zwp_primary_selection_device_manager_v1 v1
+[LOG]   | got iface: wp_viewporter v1
+[LOG]    > Bound to wp_viewporter v1
+[LOG]   | got iface: zwlr_gamma_control_manager_v1 v1
+[LOG]   | got iface: zwlr_output_power_manager_v1 v1
+[LOG]   | got iface: xdg_wm_base v6
+[LOG]   | got iface: wl_seat v9
+[LOG]    > Bound to wl_seat v9
+[LOG]   | got iface: wp_presentation v1
+[LOG]   | got iface: ext_idle_notifier_v1 v1
+[LOG]   | got iface: zwlr_layer_shell_v1 v4
+[LOG]   | got iface: org_kde_kwin_server_decoration_manager v1
+[LOG]   | got iface: zxdg_decoration_manager_v1 v1
+[LOG]   | got iface: zwlr_output_manager_v1 v4
+[LOG]   | got iface: zwp_keyboard_shortcuts_inhibit_manager_v1 v1
+[LOG]   | got iface: zwp_pointer_constraints_v1 v1
+[LOG]   | got iface: zwp_relative_pointer_manager_v1 v1
+[LOG]   | got iface: zwp_virtual_keyboard_manager_v1 v1
+[LOG]   | got iface: zwlr_virtual_pointer_manager_v1 v2
+[LOG]   | got iface: zwlr_foreign_toplevel_manager_v1 v3
+[LOG]   | got iface: wp_drm_lease_device_v1 v1
+[LOG]   | got iface: zwp_tablet_manager_v2 v1
+[LOG]   | got iface: zwp_idle_inhibit_manager_v1 v1
+[LOG]   | got iface: zxdg_exporter_v1 v1
+[LOG]   | got iface: zxdg_importer_v1 v1
+[LOG]   | got iface: zxdg_exporter_v2 v1
+[LOG]   | got iface: zxdg_importer_v2 v1
+[LOG]   | got iface: zwp_pointer_gestures_v1 v3
+[LOG]   | got iface: zwp_text_input_manager_v3 v1
+[LOG]   | got iface: zwp_input_method_manager_v2 v1
+[LOG]   | got iface: xdg_activation_v1 v1
+[LOG]   | got iface: ext_session_lock_manager_v1 v1
+[LOG]    > Bound to ext_session_lock_manager_v1 v1
+[LOG]   | got iface: wp_cursor_shape_manager_v1 v1
+[LOG]    > Bound to wp_cursor_shape_manager_v1 v1
+[LOG]   | got iface: wp_tearing_control_manager_v1 v1
+[LOG]   | got iface: wp_single_pixel_buffer_manager_v1 v1
+[LOG]   | got iface: xwayland_shell_v1 v1
+[LOG]   | got iface: hyprland_toplevel_export_manager_v1 v2
+[LOG]   | got iface: wp_fractional_scale_manager_v1 v1
+[LOG]    > Bound to wp_fractional_scale_manager_v1 v1
+[LOG]   | got iface: zwp_text_input_manager_v1 v1
+[LOG]   | got iface: hyprland_global_shortcuts_manager_v1 v1
+[LOG]   | got iface: zwlr_screencopy_manager_v1 v3
+[LOG]    > Bound to zwlr_screencopy_manager_v1 v3
+[LOG]   | got iface: zxdg_output_manager_v1 v3
+[LOG]   | got iface: wl_output v4
+[LOG]    > Bound to wl_output v4
+[LOG] [core] dmabufFeedbackMainDevice
+[LOG] output 49 make Unknown model Unknown
+[LOG] output 49 name eDP-1
+[LOG] output 49 description (null) (null) (eDP-1)
+[LOG] output 49 done
+[LOG] Running on Hyprland
+[LOG] Locking session
+[LOG] onLockLocked called
+[LOG] got fractional 1.6
+[LOG] got fractional 1.6
+[LOG] configure with serial 961
+[LOG] Configuring surface for logical [Vector2D: x: 1599, y: 999] and pixel [Vector2D: x: 2558, y: 1598]
+[LOG] Framebuffer created, status 36053
+[LOG] Framebuffer created, status 36053
+[LOG] Framebuffer created, status 36053
+[LOG] Authenticating
+[ERR] auth: Authentication failed for hyprlock
+[LOG] auth: authenticated for su
+[LOG] Unlocking session
+[LOG] Unlocked, exiting!
+[LOG] Reached the end, exiting
+[ERR] Config has errors:
+Config error in file /home/teo/.config/hypr/hyprlock.conf at line 38: config option <input-field:font_family> does not exist.
+Proceeding ignoring faulty entries
+[LOG]   | got iface: wl_shm v1
+[LOG]   | got iface: wl_drm v2
+[LOG]   | got iface: zwp_linux_dmabuf_v1 v4
+[LOG]    > Bound to zwp_linux_dmabuf_v1 v4
+[LOG]   | got iface: wl_compositor v6
+[LOG]    > Bound to wl_compositor v6
+[LOG]   | got iface: wl_subcompositor v1
+[LOG]   | got iface: wl_data_device_manager v3
+[LOG]   | got iface: zwlr_export_dmabuf_manager_v1 v1
+[LOG]   | got iface: zwlr_data_control_manager_v1 v2
+[LOG]   | got iface: zwp_primary_selection_device_manager_v1 v1
+[LOG]   | got iface: wp_viewporter v1
+[LOG]    > Bound to wp_viewporter v1
+[LOG]   | got iface: zwlr_gamma_control_manager_v1 v1
+[LOG]   | got iface: zwlr_output_power_manager_v1 v1
+[LOG]   | got iface: xdg_wm_base v6
+[LOG]   | got iface: wl_seat v9
+[LOG]    > Bound to wl_seat v9
+[LOG]   | got iface: wp_presentation v1
+[LOG]   | got iface: ext_idle_notifier_v1 v1
+[LOG]   | got iface: zwlr_layer_shell_v1 v4
+[LOG]   | got iface: org_kde_kwin_server_decoration_manager v1
+[LOG]   | got iface: zxdg_decoration_manager_v1 v1
+[LOG]   | got iface: zwlr_output_manager_v1 v4
+[LOG]   | got iface: zwp_keyboard_shortcuts_inhibit_manager_v1 v1
+[LOG]   | got iface: zwp_pointer_constraints_v1 v1
+[LOG]   | got iface: zwp_relative_pointer_manager_v1 v1
+[LOG]   | got iface: zwp_virtual_keyboard_manager_v1 v1
+[LOG]   | got iface: zwlr_virtual_pointer_manager_v1 v2
+[LOG]   | got iface: zwlr_foreign_toplevel_manager_v1 v3
+[LOG]   | got iface: wp_drm_lease_device_v1 v1
+[LOG]   | got iface: zwp_tablet_manager_v2 v1
+[LOG]   | got iface: zwp_idle_inhibit_manager_v1 v1
+[LOG]   | got iface: zxdg_exporter_v1 v1
+[LOG]   | got iface: zxdg_importer_v1 v1
+[LOG]   | got iface: zxdg_exporter_v2 v1
+[LOG]   | got iface: zxdg_importer_v2 v1
+[LOG]   | got iface: zwp_pointer_gestures_v1 v3
+[LOG]   | got iface: zwp_text_input_manager_v3 v1
+[LOG]   | got iface: zwp_input_method_manager_v2 v1
+[LOG]   | got iface: xdg_activation_v1 v1
+[LOG]   | got iface: ext_session_lock_manager_v1 v1
+[LOG]    > Bound to ext_session_lock_manager_v1 v1
+[LOG]   | got iface: wp_cursor_shape_manager_v1 v1
+[LOG]    > Bound to wp_cursor_shape_manager_v1 v1
+[LOG]   | got iface: wp_tearing_control_manager_v1 v1
+[LOG]   | got iface: wp_single_pixel_buffer_manager_v1 v1
+[LOG]   | got iface: xwayland_shell_v1 v1
+[LOG]   | got iface: hyprland_toplevel_export_manager_v1 v2
+[LOG]   | got iface: wp_fractional_scale_manager_v1 v1
+[LOG]    > Bound to wp_fractional_scale_manager_v1 v1
+[LOG]   | got iface: zwp_text_input_manager_v1 v1
+[LOG]   | got iface: hyprland_global_shortcuts_manager_v1 v1
+[LOG]   | got iface: zwlr_screencopy_manager_v1 v3
+[LOG]    > Bound to zwlr_screencopy_manager_v1 v3
+[LOG]   | got iface: zxdg_output_manager_v1 v3
+[LOG]   | got iface: wl_output v4
+[LOG]    > Bound to wl_output v4
+[LOG] [core] dmabufFeedbackMainDevice
+[LOG] output 49 make Unknown model Unknown
+[LOG] output 49 name eDP-1
+[LOG] output 49 description (null) (null) (eDP-1)
+[LOG] output 49 done
+[LOG] Running on Hyprland
+[LOG] Locking session
+[LOG] onLockLocked called
+[LOG] got fractional 1
+[LOG] got fractional 1.6
+[LOG] configure with serial 1773
+[LOG] Configuring surface for logical [Vector2D: x: 1599, y: 999] and pixel [Vector2D: x: 2558, y: 1598]
+[LOG] Framebuffer created, status 36053
+[LOG] Framebuffer created, status 36053
+[LOG] Framebuffer created, status 36053
+[LOG] Authenticating
+[ERR] auth: Authentication failed for hyprlock
+[LOG] auth: authenticated for su
+[LOG] Unlocking session
+[LOG] Unlocked, exiting!
+[LOG] Reached the end, exiting
+ok
+ok
+[ERR] Config has errors:
+Config error in file /home/teo/.config/hypr/hyprlock.conf at line 38: config option <input-field:font_family> does not exist.
+Proceeding ignoring faulty entries
+[LOG]   | got iface: wl_shm v1
+[LOG]   | got iface: wl_drm v2
+[LOG]   | got iface: zwp_linux_dmabuf_v1 v4
+[LOG]    > Bound to zwp_linux_dmabuf_v1 v4
+[LOG]   | got iface: wl_compositor v6
+[LOG]    > Bound to wl_compositor v6
+[LOG]   | got iface: wl_subcompositor v1
+[LOG]   | got iface: wl_data_device_manager v3
+[LOG]   | got iface: zwlr_export_dmabuf_manager_v1 v1
+[LOG]   | got iface: zwlr_data_control_manager_v1 v2
+[LOG]   | got iface: zwp_primary_selection_device_manager_v1 v1
+[LOG]   | got iface: wp_viewporter v1
+[LOG]    > Bound to wp_viewporter v1
+[LOG]   | got iface: zwlr_gamma_control_manager_v1 v1
+[LOG]   | got iface: zwlr_output_power_manager_v1 v1
+[LOG]   | got iface: xdg_wm_base v6
+[LOG]   | got iface: wl_seat v9
+[LOG]    > Bound to wl_seat v9
+[LOG]   | got iface: wp_presentation v1
+[LOG]   | got iface: ext_idle_notifier_v1 v1
+[LOG]   | got iface: zwlr_layer_shell_v1 v4
+[LOG]   | got iface: org_kde_kwin_server_decoration_manager v1
+[LOG]   | got iface: zxdg_decoration_manager_v1 v1
+[LOG]   | got iface: zwlr_output_manager_v1 v4
+[LOG]   | got iface: zwp_keyboard_shortcuts_inhibit_manager_v1 v1
+[LOG]   | got iface: zwp_pointer_constraints_v1 v1
+[LOG]   | got iface: zwp_relative_pointer_manager_v1 v1
+[LOG]   | got iface: zwp_virtual_keyboard_manager_v1 v1
+[LOG]   | got iface: zwlr_virtual_pointer_manager_v1 v2
+[LOG]   | got iface: zwlr_foreign_toplevel_manager_v1 v3
+[LOG]   | got iface: wp_drm_lease_device_v1 v1
+[LOG]   | got iface: zwp_tablet_manager_v2 v1
+[LOG]   | got iface: zwp_idle_inhibit_manager_v1 v1
+[LOG]   | got iface: zxdg_exporter_v1 v1
+[LOG]   | got iface: zxdg_importer_v1 v1
+[LOG]   | got iface: zxdg_exporter_v2 v1
+[LOG]   | got iface: zxdg_importer_v2 v1
+[LOG]   | got iface: zwp_pointer_gestures_v1 v3
+[LOG]   | got iface: zwp_text_input_manager_v3 v1
+[LOG]   | got iface: zwp_input_method_manager_v2 v1
+[LOG]   | got iface: xdg_activation_v1 v1
+[LOG]   | got iface: ext_session_lock_manager_v1 v1
+[LOG]    > Bound to ext_session_lock_manager_v1 v1
+[LOG]   | got iface: wp_cursor_shape_manager_v1 v1
+[LOG]    > Bound to wp_cursor_shape_manager_v1 v1
+[LOG]   | got iface: wp_tearing_control_manager_v1 v1
+[LOG]   | got iface: wp_single_pixel_buffer_manager_v1 v1
+[LOG]   | got iface: xwayland_shell_v1 v1
+[LOG]   | got iface: hyprland_toplevel_export_manager_v1 v2
+[LOG]   | got iface: wp_fractional_scale_manager_v1 v1
+[LOG]    > Bound to wp_fractional_scale_manager_v1 v1
+[LOG]   | got iface: zwp_text_input_manager_v1 v1
+[LOG]   | got iface: hyprland_global_shortcuts_manager_v1 v1
+[LOG]   | got iface: zwlr_screencopy_manager_v1 v3
+[LOG]    > Bound to zwlr_screencopy_manager_v1 v3
+[LOG]   | got iface: zxdg_output_manager_v1 v3
+[LOG]   | got iface: wl_output v4
+[LOG]    > Bound to wl_output v4
+[LOG] [core] dmabufFeedbackMainDevice
+[LOG] output 49 make Unknown model Unknown
+[LOG] output 49 name eDP-1
+[LOG] output 49 description (null) (null) (eDP-1)
+[LOG] output 49 done
+[LOG] Running on Hyprland
+[LOG] Locking session
+[LOG] onLockLocked called
+[LOG] got fractional 1.6
+[LOG] got fractional 1.6
+[LOG] configure with serial 1889
+[LOG] Configuring surface for logical [Vector2D: x: 1599, y: 999] and pixel [Vector2D: x: 2558, y: 1598]
+[LOG] Framebuffer created, status 36053
+[LOG] Framebuffer created, status 36053
+[LOG] Framebuffer created, status 36053
+[LOG] Authenticating
+[ERR] auth: Authentication failed for hyprlock
+[LOG] auth: authenticated for su
+[LOG] Unlocking session
+[LOG] Unlocked, exiting!
+[LOG] Reached the end, exiting
+s on eDP-1
+[LOG] Executing hyprctl dispatch dpms on eDP-1
+[LOG] Process Created with pid 68882
+[LOG] Resumed: rule 268d2350
+[LOG] Ignoring, onRestore is empty.
+[LOG] Idled: rule 268d2350
+[LOG] Running hyprlock
+[LOG] Executing hyprlock
+[LOG] Process Created with pid 69752
+[LOG] Idled: rule 268d2398
+[LOG] Running hyprctl dispatch dpms off eDP-1
+[LOG] Executing hyprctl dispatch dpms off eDP-1
+[LOG] Process Created with pid 70152
+[LOG] Resumed: rule 268d2398
+[LOG] Running hyprctl dispatch dpms on eDP-1
+[LOG] Executing hyprctl dispatch dpms on eDP-1
+[LOG] Process Created with pid 70163
+[LOG] Resumed: rule 268d2350
+[LOG] Ignoring, onRestore is empty.
+[LOG] Idled: rule 268d2350
+[LOG] Running hyprlock
+[LOG] Executing hyprlock
+[LOG] Process Created with pid 70424
+[LOG] Resumed: rule 268d2350
+[LOG] Ignoring, onRestore is empty.
+[LOG] Idled: rule 268d2350
+[LOG] Running hyprlock
+[LOG] Executing hyprlock
+[LOG] Process Created with pid 70787
+[LOG] Resumed: rule 268d2350
+[LOG] Ignoring, onRestore is empty.
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1337 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1338 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1339 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1340 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1341 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1342 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1343 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1344 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1345 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] Idled: rule 268d2350
+[LOG] Running hyprlock
+[LOG] Executing hyprlock
+[LOG] Process Created with pid 72099
+[LOG] Resumed: rule 268d2350
+[LOG] Ignoring, onRestore is empty.
+[LOG] Idled: rule 268d2350
+[LOG] Running hyprlock
+[LOG] Executing hyprlock
+[LOG] Process Created with pid 72312
+[LOG] Idled: rule 268d2398
+[LOG] Running hyprctl dispatch dpms off eDP-1
+[LOG] Executing hyprctl dispatch dpms off eDP-1
+[LOG] Process Created with pid 72709
+[LOG] Resumed: rule 268d2398
+[LOG] Running hyprctl dispatch dpms on eDP-1
+[LOG] Executing hyprctl dispatch dpms on eDP-1
+[LOG] Process Created with pid 72715
+[LOG] Resumed: rule 268d2350
+[LOG] Ignoring, onRestore is empty.
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1346 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1347 sent
+[LOG] ScreenSaver inhibit: false db[ERR] Config has errors:
+Config error in file /home/teo/.config/hypr/hyprlock.conf at line 38: config option <input-field:font_family> does not exist.
+Proceeding ignoring faulty entries
+[LOG]   | got iface: wl_shm v1
+[LOG]   | got iface: wl_drm v2
+[LOG]   | got iface: zwp_linux_dmabuf_v1 v4
+[LOG]    > Bound to zwp_linux_dmabuf_v1 v4
+[LOG]   | got iface: wl_compositor v6
+[LOG]    > Bound to wl_compositor v6
+[LOG]   | got iface: wl_subcompositor v1
+[LOG]   | got iface: wl_data_device_manager v3
+[LOG]   | got iface: zwlr_export_dmabuf_manager_v1 v1
+[LOG]   | got iface: zwlr_data_control_manager_v1 v2
+[LOG]   | got iface: zwp_primary_selection_device_manager_v1 v1
+[LOG]   | got iface: wp_viewporter v1
+[LOG]    > Bound to wp_viewporter v1
+[LOG]   | got iface: zwlr_gamma_control_manager_v1 v1
+[LOG]   | got iface: zwlr_output_power_manager_v1 v1
+[LOG]   | got iface: xdg_wm_base v6
+[LOG]   | got iface: wl_seat v9
+[LOG]    > Bound to wl_seat v9
+[LOG]   | got iface: wp_presentation v1
+[LOG]   | got iface: ext_idle_notifier_v1 v1
+[LOG]   | got iface: zwlr_layer_shell_v1 v4
+[LOG]   | got iface: org_kde_kwin_server_decoration_manager v1
+[LOG]   | got iface: zxdg_decoration_manager_v1 v1
+[LOG]   | got iface: zwlr_output_manager_v1 v4
+[LOG]   | got iface: zwp_keyboard_shortcuts_inhibit_manager_v1 v1
+[LOG]   | got iface: zwp_pointer_constraints_v1 v1
+[LOG]   | got iface: zwp_relative_pointer_manager_v1 v1
+[LOG]   | got iface: zwp_virtual_keyboard_manager_v1 v1
+[LOG]   | got iface: zwlr_virtual_pointer_manager_v1 v2
+[LOG]   | got iface: zwlr_foreign_toplevel_manager_v1 v3
+[LOG]   | got iface: wp_drm_lease_device_v1 v1
+[LOG]   | got iface: zwp_tablet_manager_v2 v1
+[LOG]   | got iface: zwp_idle_inhibit_manager_v1 v1
+[LOG]   | got iface: zxdg_exporter_v1 v1
+[LOG]   | got iface: zxdg_importer_v1 v1
+[LOG]   | got iface: zxdg_exporter_v2 v1
+[LOG]   | got iface: zxdg_importer_v2 v1
+[LOG]   | got iface: zwp_pointer_gestures_v1 v3
+[LOG]   | got iface: zwp_text_input_manager_v3 v1
+[LOG]   | got iface: zwp_input_method_manager_v2 v1
+[LOG]   | got iface: xdg_activation_v1 v1
+[LOG]   | got iface: ext_session_lock_manager_v1 v1
+[LOG]    > Bound to ext_session_lock_manager_v1 v1
+[LOG]   | got iface: wp_cursor_shape_manager_v1 v1
+[LOG]    > Bound to wp_cursor_shape_manager_v1 v1
+[LOG]   | got iface: wp_tearing_control_manager_v1 v1
+[LOG]   | got iface: wp_single_pixel_buffer_manager_v1 v1
+[LOG]   | got iface: xwayland_shell_v1 v1
+[LOG]   | got iface: hyprland_toplevel_export_manager_v1 v2
+[LOG]   | got iface: wp_fractional_scale_manager_v1 v1
+[LOG]    > Bound to wp_fractional_scale_manager_v1 v1
+[LOG]   | got iface: zwp_text_input_manager_v1 v1
+[LOG]   | got iface: hyprland_global_shortcuts_manager_v1 v1
+[LOG]   | got iface: zwlr_screencopy_manager_v1 v3
+[LOG]    > Bound to zwlr_screencopy_manager_v1 v3
+[LOG]   | got iface: zxdg_output_manager_v1 v3
+[LOG]   | got iface: wl_output v4
+[LOG]    > Bound to wl_output v4
+[LOG] [core] dmabufFeedbackMainDevice
+[LOG] output 49 make Unknown model Unknown
+[LOG] output 49 name eDP-1
+[LOG] output 49 description (null) (null) (eDP-1)
+[LOG] output 49 done
+[LOG] Running on Hyprland
+[LOG] Locking session
+[LOG] onLockLocked called
+[LOG] got fractional 1.6
+[LOG] got fractional 1.6
+[LOG] configure with serial 3524
+[LOG] Configuring surface for logical [Vector2D: x: 1599, y: 999] and pixel [Vector2D: x: 2558, y: 1598]
+[LOG] Framebuffer created, status 36053
+[LOG] Framebuffer created, status 36053
+[LOG] Framebuffer created, status 36053
+[LOG] Authenticating
+[ERR] auth: Authentication failed for hyprlock
+[LOG] auth: authenticated for su
+[LOG] Unlocking session
+[LOG] Unlocked, exiting!
+[LOG] Reached the end, exiting
+ok
+ok
+[ERR] Config has errors:
+Config error in file /home/teo/.config/hypr/hyprlock.conf at line 38: config option <input-field:font_family> does not exist.
+Proceeding ignoring faulty entries
+[LOG]   | got iface: wl_shm v1
+[LOG]   | got iface: wl_drm v2
+[LOG]   | got iface: zwp_linux_dmabuf_v1 v4
+[LOG]    > Bound to zwp_linux_dmabuf_v1 v4
+[LOG]   | got iface: wl_compositor v6
+[LOG]    > Bound to wl_compositor v6
+[LOG]   | got iface: wl_subcompositor v1
+[LOG]   | got iface: wl_data_device_manager v3
+[LOG]   | got iface: zwlr_export_dmabuf_manager_v1 v1
+[LOG]   | got iface: zwlr_data_control_manager_v1 v2
+[LOG]   | got iface: zwp_primary_selection_device_manager_v1 v1
+[LOG]   | got iface: wp_viewporter v1
+[LOG]    > Bound to wp_viewporter v1
+[LOG]   | got iface: zwlr_gamma_control_manager_v1 v1
+[LOG]   | got iface: zwlr_output_power_manager_v1 v1
+[LOG]   | got iface: xdg_wm_base v6
+[LOG]   | got iface: wl_seat v9
+[LOG]    > Bound to wl_seat v9
+[LOG]   | got iface: wp_presentation v1
+[LOG]   | got iface: ext_idle_notifier_v1 v1
+[LOG]   | got iface: zwlr_layer_shell_v1 v4
+[LOG]   | got iface: org_kde_kwin_server_decoration_manager v1
+[LOG]   | got iface: zxdg_decoration_manager_v1 v1
+[LOG]   | got iface: zwlr_output_manager_v1 v4
+[LOG]   | got iface: zwp_keyboard_shortcuts_inhibit_manager_v1 v1
+[LOG]   | got iface: zwp_pointer_constraints_v1 v1
+[LOG]   | got iface: zwp_relative_pointer_manager_v1 v1
+[LOG]   | got iface: zwp_virtual_keyboard_manager_v1 v1
+[LOG]   | got iface: zwlr_virtual_pointer_manager_v1 v2
+[LOG]   | got iface: zwlr_foreign_toplevel_manager_v1 v3
+[LOG]   | got iface: wp_drm_lease_device_v1 v1
+[LOG]   | got iface: zwp_tablet_manager_v2 v1
+[LOG]   | got iface: zwp_idle_inhibit_manager_v1 v1
+[LOG]   | got iface: zxdg_exporter_v1 v1
+[LOG]   | got iface: zxdg_importer_v1 v1
+[LOG]   | got iface: zxdg_exporter_v2 v1
+[LOG]   | got iface: zxdg_importer_v2 v1
+[LOG]   | got iface: zwp_pointer_gestures_v1 v3
+[LOG]   | got iface: zwp_text_input_manager_v3 v1
+[LOG]   | got iface: zwp_input_method_manager_v2 v1
+[LOG]   | got iface: xdg_activation_v1 v1
+[LOG]   | got iface: ext_session_lock_manager_v1 v1
+[LOG]    > Bound to ext_session_lock_manager_v1 v1
+[LOG]   | got iface: wp_cursor_shape_manager_v1 v1
+[LOG]    > Bound to wp_cursor_shape_manager_v1 v1
+[LOG]   | got iface: wp_tearing_control_manager_v1 v1
+[LOG]   | got iface: wp_single_pixel_buffer_manager_v1 v1
+[LOG]   | got iface: xwayland_shell_v1 v1
+[LOG]   | got iface: hyprland_toplevel_export_manager_v1 v2
+[LOG]   | got iface: wp_fractional_scale_manager_v1 v1
+[LOG]    > Bound to wp_fractional_scale_manager_v1 v1
+[LOG]   | got iface: zwp_text_input_manager_v1 v1
+[LOG]   | got iface: hyprland_global_shortcuts_manager_v1 v1
+[LOG]   | got iface: zwlr_screencopy_manager_v1 v3
+[LOG]    > Bound to zwlr_screencopy_manager_v1 v3
+[LOG]   | got iface: zxdg_output_manager_v1 v3
+[LOG]   | got iface: wl_output v4
+[LOG]    > Bound to wl_output v4
+[LOG] [core] dmabufFeedbackMainDevice
+[LOG] output 49 make Unknown model Unknown
+[LOG] output 49 name eDP-1
+[LOG] output 49 description (null) (null) (eDP-1)
+[LOG] output 49 done
+[LOG] Running on Hyprland
+[LOG] Locking session
+[LOG] onLockLocked called
+[LOG] got fractional 1.6
+[LOG] got fractional 1.6
+[LOG] configure with serial 3746
+[LOG] Configuring surface for logical [Vector2D: x: 1599, y: 999] and pixel [Vector2D: x: 2558, y: 1598]
+[LOG] Framebuffer created, status 36053
+[LOG] Framebuffer created, status 36053
+[LOG] Framebuffer created, status 36053
+[LOG] Authenticating
+[ERR] auth: Authentication failed for hyprlock
+[LOG] auth: authenticated for su
+[LOG] Unlocking session
+[LOG] Unlocked, exiting!
+[LOG] Reached the end, exiting
