@@ -29,7 +29,9 @@
 - **Top Bar:** [`waybar`](https://github.com/Alexays/Waybar)
 - **Launcher:** [`anyrun`](https://github.com/Kirottu/anyrun)
 - **Wallpaper Manager:** [`swww`](https://github.com/Horus645/swww)
-- **Locking:** [`hyprlock`](https://github.com/hyprwm/hyprlock) and [`hypridle`](https://github.com/hyprwm/hypridle)
+- **Locking:**
+  - [`hyprlock`](https://github.com/hyprwm/hyprlock)
+  - [`hypridle`](https://github.com/hyprwm/hypridle)
 - **Notifications:** [`mako`](https://github.com/emersion/mako)
 - **Audio Control:** [`pavucontrol`](https://github.com/pulseaudio/pavucontrol)
 - **Brightness Control:** [`brightnessctl`](https://github.com/Hummer12007/brightnessctl)
