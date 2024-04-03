@@ -42,6 +42,7 @@
   padding: 0.3rem;
   margin-top: 0.01rem;
   margin-bottom: 0;
+  /* background-color: rgba(69, 71, 90, 0.8); */
 }
 
 /* ------ Entry ------ */
@@ -94,4 +95,5 @@ box#main {
 
   /* Color */
   background-color: rgba(0, 0, 0, 0.8);
+  /*   background-color: rgba(30, 30, 46, 0.8); @base w/ 0.8 alpha */
 }

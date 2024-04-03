@@ -2,8 +2,10 @@
 export PF_INFO="ascii title os uptime host"
 export PF_ASCII="Catppuccin"
 
+# Exec pfetch
 pfetch
 
+# Start p10k
 if [[ -r "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh" ]]; then
   source "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh"
 fi
@@ -19,30 +21,29 @@ export PATH="$PATH:/opt/android/sdk/cmdline-tools/tools/bin"
 # Java Home
 export JAVA_HOME="/home/teo/.sdkman/candidates/java/current/"
 
+# Set OMZ to use p10k
 ZSH_THEME="powerlevel10k/powerlevel10k"
 
 # Load Plugins
 plugins=(git aliases archlinux branch github zsh-autosuggestions zsh-syntax-highlighting zsh-completions zsh-interactive-cd zsh-navigation-tools)
 source $ZSH/oh-my-zsh.sh
 
-# Use LunarVim and keybindings
-alias vim='lvim'
-alias nvim='lvim'
+# Use keybindings
 bindkey -v
 
 # Cmatrix & Pipes.sh
 alias matrix='cmatrix -s -C cyan'
 alias pipes='pipes.sh -t 3 -R -p 5'
 
-# Replace ls with exa
+# Replace ls with eza
 alias ls='eza -al --color=always --group-directories-first --icons' # preferred listing
 alias la='eza -a --color=always --group-directories-first --icons'  # all files and dirs
 alias ll='eza -l --color=always --group-directories-first --icons'  # long format
 
-#continue download
+# Continue Downloads
 alias wget='wget -c'
 
-#shutdown or reboot
+# Shutdown and Reboot Aliases
 alias sr='sudo reboot'
 alias ssn='sudo shutdown now'
 

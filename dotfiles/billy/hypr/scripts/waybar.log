@@ -1,6 +1,0 @@
-[2024-03-25 14:56:51.631] [info] Using configuration file /home/teo/.config/waybar/config
-[2024-03-25 14:56:51.636] [info] Discovered appearance 'dark'
-[2024-03-25 14:56:51.636] [info] Using CSS file /home/teo/.config/waybar/style.css
-[2024-03-25 14:56:51.641] [info] Hyprland IPC starting
-[2024-03-25 14:56:51.642] [warning] Mapping is not an object
-[2024-03-25 14:56:51.816] [info] Bar configured (width: 1589, height: 40) for output: eDP-1

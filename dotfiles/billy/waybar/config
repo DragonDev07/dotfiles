@@ -127,13 +127,4 @@
     "format": "  ",
     "tooltip": false,
   },
-
-  "custom/spotify": {
-    "exec": "/usr/bin/python3 $HOME/.config/waybar/custom-scripts/mediaplayer.py --player spotify --verbose",
-    "format": "{}  ",
-    "return-type": "json",
-    "on-click": "playerctl play-pause",
-    "on-scroll-up": "playerctl next",
-    "on-scroll-down": "playerctl previous"
-  },
 }

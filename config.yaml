@@ -16,19 +16,6 @@ dotfiles:
     dst: ~/.config/kitty
     src: common/kitty
 
-  # ------ SPOTIFY ------ #
-  billy_spotifyd:
-    dst: ~/.config/spotifyd
-    src: billy/spotifyd
-
-  billy_spotify_tui:
-    dst: ~/.config/spotify-tui
-    src: billy/spotify-tui
-
-  billy_sptlrx:
-    dst: ~/.config/sptlrx
-    src: billy/sptlrx
-
   # ------ Hyprland and Such ------ #
   billy_hypr:
     dst: ~/.config/hypr
@@ -50,8 +37,6 @@ profiles:
   Billy:
     dotfiles:
       - common_kitty
-      - billy_spotifyd
-      - billy_spotify_tui
       - billy_zshrc
       - billy_p10k
       - billy_hypr
