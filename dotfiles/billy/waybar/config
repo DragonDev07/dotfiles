@@ -23,7 +23,7 @@
     "custom/spacer",
     "battery",
     "custom/spacer",
-    "network"
+    "network",
   ],
 
   // ------ Module Settings ------ //
@@ -38,14 +38,14 @@
       "3": "3",
       "4": "4",
       "5": "5",
-      "default": " "
+      "default": " ",
     },
     "persistent-workspaces": {
       "1": [],
       "2": [],
       "3": [],
       "4": [],
-    }
+    },
   },
 
   // Hyprland Window
@@ -53,19 +53,19 @@
     "format": " {}",
     "rewrite": {
       "(.*) - NVIM": " NeoVim",
-      "(.*) — Mozilla Firefox": "󰈹 Mozilla Firefox"
-    }
+      "(.*) — Mozilla Firefox": "󰈹 Mozilla Firefox",
+    },
   },
 
   // Clock
   "clock": {
     "format": "{:%H:%M}",
-    "format-alt": "{:%b %d %Y}"
+    "format-alt": "{:%b %d %Y}",
   },
 
   // Tray
   "tray": {
-    "spacing": 10
+    "spacing": 10,
   },
 
   // Pulseaudio
@@ -76,10 +76,10 @@
     "format-muted": " 󰝟 ",
     "format-icons": {
       "headphone": "",
-      "default": ["󰝟", ""]
+      "default": ["󰝟", ""],
     },
     "tooltip": false,
-    "on-click": "export GTK_THEME='Catppuccin-Mocha-Standard-Mauve-Dark' && pavucontrol"
+    "on-click": "export GTK_THEME='Catppuccin-Mocha-Standard-Mauve-Dark' && pavucontrol",
   },
 
   // Network
@@ -91,7 +91,7 @@
     "tooltip-format-wifi": "{essid} ({signalStrength}%)",
     "tooltip-format-ethernet": "{ifname} ",
     "tooltip-format-disconnected": "Disconnected",
-    "on-click": "export GTK_THEME='Catppuccin-Mocha-Standard-Mauve-Dark' && nm-connection-editor"
+    "on-click": "export GTK_THEME='Catppuccin-Mocha-Standard-Mauve-Dark' && nm-connection-editor",
   },
 
   // Backlight
@@ -101,7 +101,7 @@
     "format-icons": [" ", " ", " ", " ", " ", " ", " ", " ", " "],
     "on-scroll-down": "brightnessctl set 5%-",
     "on-scroll-up": "brightnessctl set 5%+",
-    "rotate": 0
+    "rotate": 0,
   },
 
   // Battery
@@ -112,8 +112,8 @@
     "format-plugged": "{capacity}% 󰚥",
     "states": {
       "critical": 15,
-      "warning": 30
-    }
+      "warning": 30,
+    },
   },
 
   // Bluetooth
@@ -123,7 +123,7 @@
     "tooltip-format": "",
     "tooltip-format-connected": "{controller_alias}\n{device_enumerate}",
     "tooltip-format-enumerate-connected": " {device_alias}",
-    "on-click": "export GTK_THEME='Catppuccin-Mocha-Standard-Mauve-Dark' && blueman-manager"
+    "on-click": "export GTK_THEME='Catppuccin-Mocha-Standard-Mauve-Dark' && blueman-manager",
   },
 
   // ------ Custom Modules ------ //
@@ -131,12 +131,12 @@
   "custom/distro": {
     "format": "󰣛",
     "on-click": "exec anyrun",
-    "tooltip": false
+    "tooltip": false,
   },
 
   // Spacer
   "custom/spacer": {
     "format": " ",
-    "tooltip": false
-  }
+    "tooltip": false,
+  },
 }

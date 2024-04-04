@@ -43171,3 +43171,1513 @@ window#waybar.background.top.empty.eDP-1..mode-default:dir(ltr)
 [2024-04-03 19:43:55.859] [debug] hyprland IPC received windowtitle>>aaab64e4f540
 [2024-04-03 19:43:55.861] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
 [2024-04-03 19:43:55.862] [debug] hyprland IPC received activewindow>>kitty,./dotdrop.sh update
+[2024-04-03 19:44:02.698] [debug] hyprland IPC received windowtitle>>aaab64e4f540
+[2024-04-03 19:44:02.699] [debug] hyprland IPC received activewindow>>kitty,~/Repos/dotfiles
+[2024-04-03 19:44:02.702] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
+[2024-04-03 19:44:02.703] [debug] hyprland IPC received windowtitle>>aaab64e4f540
+[2024-04-03 19:44:02.704] [debug] hyprland IPC received activewindow>>kitty,teo@Billy:~/Repos/dotfiles
+[2024-04-03 19:44:02.706] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
+[2024-04-03 19:44:04.999] [debug] hyprland IPC received windowtitle>>aaab64e4f540
+[2024-04-03 19:44:05.000] [debug] hyprland IPC received activewindow>>kitty,clear
+[2024-04-03 19:44:05.003] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
+[2024-04-03 19:44:05.005] [debug] hyprland IPC received windowtitle>>aaab64e4f540
+[2024-04-03 19:44:05.006] [debug] hyprland IPC received activewindow>>kitty,~/Repos/dotfiles
+[2024-04-03 19:44:05.010] [debug] hyprland IPC received windowtitle>>aaab64e4f540
+[2024-04-03 19:44:05.011] [debug] hyprland IPC received activewindow>>kitty,teo@Billy:~/Repos/dotfiles
+[2024-04-03 19:44:05.013] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
+[2024-04-03 19:44:05.014] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
+[2024-04-03 19:44:08.852] [debug] hyprland IPC received windowtitle>>aaab64e4f540
+[2024-04-03 19:44:08.853] [debug] hyprland IPC received activewindow>>kitty,git add .
+[2024-04-03 19:44:08.854] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
+[2024-04-03 19:44:08.901] [debug] hyprland IPC received windowtitle>>aaab64e4f540
+[2024-04-03 19:44:08.902] [debug] hyprland IPC received activewindow>>kitty,~/Repos/dotfiles
+[2024-04-03 19:44:08.904] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
+[2024-04-03 19:44:08.905] [debug] hyprland IPC received windowtitle>>aaab64e4f540
+[2024-04-03 19:44:08.908] [debug] hyprland IPC received activewindow>>kitty,teo@Billy:~/Repos/dotfiles
+[2024-04-03 19:44:08.913] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
+[2024-04-03 19:44:13.732] [debug] hyprland IPC received windowtitle>>aaab64e4f540
+[2024-04-03 19:44:13.733] [debug] hyprland IPC received activewindow>>kitty,git commit -m "New waybar config"
+[2024-04-03 19:44:13.735] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
+[2024-04-03 19:44:13.754] [debug] hyprland IPC received windowtitle>>aaab64e4f540
+[2024-04-03 19:44:13.757] [debug] hyprland IPC received activewindow>>kitty,~/Repos/dotfiles
+[2024-04-03 19:44:13.762] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
+[2024-04-03 19:44:13.763] [debug] hyprland IPC received windowtitle>>aaab64e4f540
+[2024-04-03 19:44:13.765] [debug] hyprland IPC received activewindow>>kitty,teo@Billy:~/Repos/dotfiles
+[2024-04-03 19:44:13.770] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
+[2024-04-03 19:44:14.795] [debug] hyprland IPC received windowtitle>>aaab64e4f540
+[2024-04-03 19:44:14.796] [debug] hyprland IPC received activewindow>>kitty,git push
+[2024-04-03 19:44:14.798] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
+[2024-04-03 19:44:15.873] [debug] hyprland IPC received windowtitle>>aaab64e4f540
+[2024-04-03 19:44:15.874] [debug] hyprland IPC received activewindow>>kitty,~/Repos/dotfiles
+[2024-04-03 19:44:15.876] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
+[2024-04-03 19:44:15.877] [debug] hyprland IPC received windowtitle>>aaab64e4f540
+[2024-04-03 19:44:15.878] [debug] hyprland IPC received activewindow>>kitty,teo@Billy:~/Repos/dotfiles
+[2024-04-03 19:44:15.881] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
+[2024-04-03 19:44:27.364] [debug] hyprland IPC received windowtitle>>aaab64e4f540
+[2024-04-03 19:44:27.366] [debug] hyprland IPC received activewindow>>kitty,~/Repos/dotfiles
+[2024-04-03 19:44:27.367] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
+[2024-04-03 19:44:27.369] [debug] hyprland IPC received windowtitle>>aaab64e4f540
+[2024-04-03 19:44:27.370] [debug] hyprland IPC received activewindow>>kitty,teo@Billy:~/Repos/dotfiles
+[2024-04-03 19:44:27.371] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
+[2024-04-03 19:44:29.562] [debug] hyprland IPC received windowtitle>>aaab64e4f540
+[2024-04-03 19:44:29.563] [debug] hyprland IPC received activewindow>>kitty,cd dotfiles
+[2024-04-03 19:44:29.568] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
+[2024-04-03 19:44:29.569] [debug] hyprland IPC received windowtitle>>aaab64e4f540
+[2024-04-03 19:44:29.570] [debug] hyprland IPC received activewindow>>kitty,…/Repos/dotfiles/dotfiles
+[2024-04-03 19:44:29.575] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
+[2024-04-03 19:44:29.576] [debug] hyprland IPC received windowtitle>>aaab64e4f540
+[2024-04-03 19:44:29.578] [debug] hyprland IPC received activewindow>>kitty,teo@Billy:~/Repos/dotfiles/dotfiles
+[2024-04-03 19:44:29.579] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
+[2024-04-03 19:44:35.717] [debug] hyprland IPC received activewindow>>firefox,BS in Computer Engineering | Fowler School of Engineering | Chapman University — Mozilla Firefox
+[2024-04-03 19:44:35.719] [debug] hyprland IPC received activewindowv2>>aaab64dfdd70
+[2024-04-03 19:44:35.720] [debug] hyprland IPC received workspace>>1
+[2024-04-03 19:44:35.722] [debug] hyprland IPC received workspacev2>>1,1
+[2024-04-03 19:44:35.722] [trace] Removing solo class: kitty
+[2024-04-03 19:44:35.722] [trace] Adding solo class: firefox
+[2024-04-03 19:44:36.843] [debug] hyprland IPC received windowtitle>>aaab64dfdd70
+[2024-04-03 19:44:36.844] [debug] hyprland IPC received activewindowv2>>aaab64dfdd70
+[2024-04-03 19:44:36.845] [debug] hyprland IPC received activewindow>>firefox,[KDE] Daily driving NixOS has been a blast. : r/unixporn — Mozilla Firefox
+[2024-04-03 19:44:37.459] [debug] hyprland IPC received activewindow>>kitty,teo@Billy:~/Repos/dotfiles/dotfiles
+[2024-04-03 19:44:37.460] [trace] Removing solo class: firefox
+[2024-04-03 19:44:37.461] [trace] Adding solo class: kitty
+[2024-04-03 19:44:37.463] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
+[2024-04-03 19:44:37.465] [debug] hyprland IPC received workspace>>2
+[2024-04-03 19:44:37.466] [debug] hyprland IPC received workspacev2>>2,2
+[2024-04-03 19:44:43.438] [debug] hyprland IPC received windowtitle>>aaab64e4f540
+[2024-04-03 19:44:43.439] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
+[2024-04-03 19:44:43.440] [debug] hyprland IPC received activewindow>>kitty,mkdir deprecated
+[2024-04-03 19:44:43.442] [debug] hyprland IPC received windowtitle>>aaab64e4f540
+[2024-04-03 19:44:43.443] [debug] hyprland IPC received activewindow>>kitty,…/Repos/dotfiles/dotfiles
+[2024-04-03 19:44:43.445] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
+[2024-04-03 19:44:43.446] [debug] hyprland IPC received windowtitle>>aaab64e4f540
+[2024-04-03 19:44:43.447] [debug] hyprland IPC received activewindow>>kitty,teo@Billy:~/Repos/dotfiles/dotfiles
+[2024-04-03 19:44:43.449] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
+[2024-04-03 19:44:51.744] [debug] hyprland IPC received windowtitle>>aaab64e4f540
+[2024-04-03 19:44:51.745] [debug] hyprland IPC received activewindow>>kitty,cp -r ~/.config/waybar.old deprecated/.
+[2024-04-03 19:44:51.747] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
+[2024-04-03 19:44:51.748] [debug] hyprland IPC received windowtitle>>aaab64e4f540
+[2024-04-03 19:44:51.749] [debug] hyprland IPC received activewindow>>kitty,…/Repos/dotfiles/dotfiles
+[2024-04-03 19:44:51.751] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
+[2024-04-03 19:44:51.752] [debug] hyprland IPC received windowtitle>>aaab64e4f540
+[2024-04-03 19:44:51.753] [debug] hyprland IPC received activewindow>>kitty,teo@Billy:~/Repos/dotfiles/dotfiles
+[2024-04-03 19:44:51.755] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
+[2024-04-03 19:44:56.964] [debug] hyprland IPC received windowtitle>>aaab64e4f540
+[2024-04-03 19:44:56.965] [debug] hyprland IPC received activewindow>>kitty,clear
+[2024-04-03 19:44:56.967] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
+[2024-04-03 19:44:56.968] [debug] hyprland IPC received windowtitle>>aaab64e4f540
+[2024-04-03 19:44:56.969] [debug] hyprland IPC received activewindow>>kitty,…/Repos/dotfiles/dotfiles
+[2024-04-03 19:44:56.970] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
+[2024-04-03 19:44:56.971] [debug] hyprland IPC received windowtitle>>aaab64e4f540
+[2024-04-03 19:44:56.973] [debug] hyprland IPC received activewindow>>kitty,teo@Billy:~/Repos/dotfiles/dotfiles
+[2024-04-03 19:44:56.974] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
+[2024-04-03 19:44:57.245] [debug] hyprland IPC received windowtitle>>aaab64e4f540
+[2024-04-03 19:44:57.246] [debug] hyprland IPC received activewindow>>kitty,eza -al --color=always --group-directories-first --icons
+[2024-04-03 19:44:57.248] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
+[2024-04-03 19:44:57.249] [debug] hyprland IPC received windowtitle>>aaab64e4f540
+[2024-04-03 19:44:57.251] [debug] hyprland IPC received activewindow>>kitty,ls
+[2024-04-03 19:44:57.253] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
+[2024-04-03 19:44:57.258] [debug] hyprland IPC received windowtitle>>aaab64e4f540
+[2024-04-03 19:44:57.259] [debug] hyprland IPC received activewindow>>kitty,…/Repos/dotfiles/dotfiles
+[2024-04-03 19:44:57.261] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
+[2024-04-03 19:44:57.262] [debug] hyprland IPC received windowtitle>>aaab64e4f540
+[2024-04-03 19:44:57.263] [debug] hyprland IPC received activewindow>>kitty,teo@Billy:~/Repos/dotfiles/dotfiles
+[2024-04-03 19:44:57.266] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
+[2024-04-03 19:45:01.384] [debug] hyprland IPC received windowtitle>>aaab64e4f540
+[2024-04-03 19:45:01.385] [debug] hyprland IPC received activewindow>>kitty,eza -al --color=always --group-directories-first --icons deprcated
+[2024-04-03 19:45:01.388] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
+[2024-04-03 19:45:01.389] [debug] hyprland IPC received windowtitle>>aaab64e4f540
+[2024-04-03 19:45:01.390] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
+[2024-04-03 19:45:01.391] [debug] hyprland IPC received activewindow>>kitty,ls deprcated
+[2024-04-03 19:45:01.393] [debug] hyprland IPC received windowtitle>>aaab64e4f540
+[2024-04-03 19:45:01.394] [debug] hyprland IPC received activewindow>>kitty,…/Repos/dotfiles/dotfiles
+[2024-04-03 19:45:01.395] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
+[2024-04-03 19:45:01.396] [debug] hyprland IPC received windowtitle>>aaab64e4f540
+[2024-04-03 19:45:01.397] [debug] hyprland IPC received activewindow>>kitty,teo@Billy:~/Repos/dotfiles/dotfiles
+[2024-04-03 19:45:01.399] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
+[2024-04-03 19:45:07.285] [debug] hyprland IPC received windowtitle>>aaab64e4f540
+[2024-04-03 19:45:07.286] [debug] hyprland IPC received activewindow>>kitty,eza -al --color=always --group-directories-first --icons deprecated
+[2024-04-03 19:45:07.287] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
+[2024-04-03 19:45:07.288] [debug] hyprland IPC received windowtitle>>aaab64e4f540
+[2024-04-03 19:45:07.290] [debug] hyprland IPC received activewindow>>kitty,ls deprecated
+[2024-04-03 19:45:07.291] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
+[2024-04-03 19:45:07.292] [debug] hyprland IPC received windowtitle>>aaab64e4f540
+[2024-04-03 19:45:07.293] [debug] hyprland IPC received activewindow>>kitty,…/Repos/dotfiles/dotfiles
+[2024-04-03 19:45:07.295] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
+[2024-04-03 19:45:07.296] [debug] hyprland IPC received windowtitle>>aaab64e4f540
+[2024-04-03 19:45:07.297] [debug] hyprland IPC received activewindow>>kitty,teo@Billy:~/Repos/dotfiles/dotfiles
+[2024-04-03 19:45:07.299] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
+[2024-04-03 19:45:08.930] [debug] hyprland IPC received windowtitle>>aaab64e4f540
+[2024-04-03 19:45:08.931] [debug] hyprland IPC received activewindow>>kitty,clear
+[2024-04-03 19:45:08.935] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
+[2024-04-03 19:45:08.936] [debug] hyprland IPC received windowtitle>>aaab64e4f540
+[2024-04-03 19:45:08.937] [debug] hyprland IPC received activewindow>>kitty,…/Repos/dotfiles/dotfiles
+[2024-04-03 19:45:08.940] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
+[2024-04-03 19:45:08.941] [debug] hyprland IPC received windowtitle>>aaab64e4f540
+[2024-04-03 19:45:08.942] [debug] hyprland IPC received activewindow>>kitty,teo@Billy:~/Repos/dotfiles/dotfiles
+[2024-04-03 19:45:08.943] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
+[2024-04-03 19:45:09.950] [debug] hyprland IPC received windowtitle>>aaab64e4f540
+[2024-04-03 19:45:09.951] [debug] hyprland IPC received activewindow>>kitty,cd ..
+[2024-04-03 19:45:09.953] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
+[2024-04-03 19:45:09.954] [debug] hyprland IPC received windowtitle>>aaab64e4f540
+[2024-04-03 19:45:09.956] [debug] hyprland IPC received activewindow>>kitty,~/Repos/dotfiles
+[2024-04-03 19:45:09.958] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
+[2024-04-03 19:45:09.959] [debug] hyprland IPC received windowtitle>>aaab64e4f540
+[2024-04-03 19:45:09.960] [debug] hyprland IPC received activewindow>>kitty,teo@Billy:~/Repos/dotfiles
+[2024-04-03 19:45:09.962] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
+[2024-04-03 19:45:11.115] [debug] hyprland IPC received windowtitle>>aaab64e4f540
+[2024-04-03 19:45:11.116] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
+[2024-04-03 19:45:11.119] [debug] hyprland IPC received activewindow>>kitty,git add .
+[2024-04-03 19:45:11.126] [debug] hyprland IPC received windowtitle>>aaab64e4f540
+[2024-04-03 19:45:11.127] [debug] hyprland IPC received activewindow>>kitty,~/Repos/dotfiles
+[2024-04-03 19:45:11.130] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
+[2024-04-03 19:45:11.131] [debug] hyprland IPC received windowtitle>>aaab64e4f540
+[2024-04-03 19:45:11.132] [debug] hyprland IPC received activewindow>>kitty,teo@Billy:~/Repos/dotfiles
+[2024-04-03 19:45:11.134] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
+[2024-04-03 19:45:22.405] [debug] hyprland IPC received windowtitle>>aaab64e4f540
+[2024-04-03 19:45:22.406] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
+[2024-04-03 19:45:22.407] [debug] hyprland IPC received activewindow>>kitty,git commit -m "Import old waybar config for backup purposes"
+[2024-04-03 19:45:22.414] [debug] hyprland IPC received windowtitle>>aaab64e4f540
+[2024-04-03 19:45:22.415] [debug] hyprland IPC received activewindow>>kitty,~/Repos/dotfiles
+[2024-04-03 19:45:22.417] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
+[2024-04-03 19:45:22.418] [debug] hyprland IPC received windowtitle>>aaab64e4f540
+[2024-04-03 19:45:22.419] [debug] hyprland IPC received activewindow>>kitty,teo@Billy:~/Repos/dotfiles
+[2024-04-03 19:45:22.422] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
+[2024-04-03 19:45:23.357] [debug] hyprland IPC received windowtitle>>aaab64e4f540
+[2024-04-03 19:45:23.358] [debug] hyprland IPC received activewindow>>kitty,git push
+[2024-04-03 19:45:23.360] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
+[2024-04-03 19:45:24.209] [debug] hyprland IPC received windowtitle>>aaab64e4f540
+[2024-04-03 19:45:24.210] [debug] hyprland IPC received activewindow>>kitty,~/Repos/dotfiles
+[2024-04-03 19:45:24.213] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
+[2024-04-03 19:45:24.214] [debug] hyprland IPC received windowtitle>>aaab64e4f540
+[2024-04-03 19:45:24.216] [debug] hyprland IPC received activewindow>>kitty,teo@Billy:~/Repos/dotfiles
+[2024-04-03 19:45:24.218] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
+[2024-04-03 19:45:30.060] [debug] hyprland IPC received windowtitle>>aaab64e4f540
+[2024-04-03 19:45:30.061] [debug] hyprland IPC received activewindow>>kitty,rm -rf ~/.config/waybar.old
+[2024-04-03 19:45:30.064] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
+[2024-04-03 19:45:30.065] [debug] hyprland IPC received windowtitle>>aaab64e4f540
+[2024-04-03 19:45:30.066] [debug] hyprland IPC received activewindow>>kitty,~/Repos/dotfiles
+[2024-04-03 19:45:30.069] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
+[2024-04-03 19:45:30.070] [debug] hyprland IPC received windowtitle>>aaab64e4f540
+[2024-04-03 19:45:30.072] [debug] hyprland IPC received activewindow>>kitty,teo@Billy:~/Repos/dotfiles
+[2024-04-03 19:45:30.075] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
+[2024-04-03 19:45:30.707] [debug] hyprland IPC received windowtitle>>aaab64e4f540
+[2024-04-03 19:45:30.708] [debug] hyprland IPC received activewindow>>kitty,clear
+[2024-04-03 19:45:30.711] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
+[2024-04-03 19:45:30.712] [debug] hyprland IPC received windowtitle>>aaab64e4f540
+[2024-04-03 19:45:30.713] [debug] hyprland IPC received activewindow>>kitty,~/Repos/dotfiles
+[2024-04-03 19:45:30.715] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
+[2024-04-03 19:45:30.716] [debug] hyprland IPC received windowtitle>>aaab64e4f540
+[2024-04-03 19:45:30.717] [debug] hyprland IPC received activewindow>>kitty,teo@Billy:~/Repos/dotfiles
+[2024-04-03 19:45:30.719] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
+[2024-04-03 19:45:31.921] [debug] hyprland IPC received windowtitle>>aaab64e4f540
+[2024-04-03 19:45:31.922] [debug] hyprland IPC received activewindow>>kitty,clear
+[2024-04-03 19:45:31.925] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
+[2024-04-03 19:45:31.926] [debug] hyprland IPC received windowtitle>>aaab64e4f540
+[2024-04-03 19:45:31.927] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
+[2024-04-03 19:45:31.928] [debug] hyprland IPC received activewindow>>kitty,~/Repos/dotfiles
+[2024-04-03 19:45:31.930] [debug] hyprland IPC received windowtitle>>aaab64e4f540
+[2024-04-03 19:45:31.931] [debug] hyprland IPC received activewindow>>kitty,teo@Billy:~/Repos/dotfiles
+[2024-04-03 19:45:31.932] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
+[2024-04-03 19:45:32.242] [debug] hyprland IPC received windowtitle>>aaab64e4f540
+[2024-04-03 19:45:32.243] [debug] hyprland IPC received activewindow>>kitty,cd
+[2024-04-03 19:45:32.246] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
+[2024-04-03 19:45:32.247] [debug] hyprland IPC received windowtitle>>aaab64e4f540
+[2024-04-03 19:45:32.248] [debug] hyprland IPC received activewindow>>kitty,~
+[2024-04-03 19:45:32.250] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
+[2024-04-03 19:45:32.252] [debug] hyprland IPC received windowtitle>>aaab64e4f540
+[2024-04-03 19:45:32.253] [debug] hyprland IPC received activewindow>>kitty,teo@Billy:~
+[2024-04-03 19:45:32.255] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
+[2024-04-03 19:45:33.214] [debug] hyprland IPC received windowtitle>>aaab64e4f540
+[2024-04-03 19:45:33.215] [debug] hyprland IPC received activewindow>>kitty,exit
+[2024-04-03 19:45:33.218] [debug] hyprland IPC received activewindowv2>>aaab64e4f540
+[2024-04-03 19:45:33.269] [debug] hyprland IPC received closewindow>>aaab64e4f540
+[2024-04-03 19:45:33.278] [trace] Removing solo class: kitty
+[2024-04-03 19:45:33.278] [debug] hyprland IPC received activewindow>>,
+[2024-04-03 19:45:33.280] [debug] hyprland IPC received activewindowv2>>,
+[2024-04-03 19:45:33.825] [debug] hyprland IPC received activewindow>>firefox,[KDE] Daily driving NixOS has been a blast. : r/unixporn — Mozilla Firefox
+[2024-04-03 19:45:33.830] [debug] hyprland IPC received activewindowv2>>aaab64dfdd70
+[2024-04-03 19:45:33.831] [trace] Adding solo class: firefox
+[2024-04-03 19:45:33.831] [debug] hyprland IPC received workspace>>1
+[2024-04-03 19:45:33.833] [debug] hyprland IPC received workspacev2>>1,1
+[2024-04-03 19:45:33.841] [debug] hyprland IPC received destroyworkspace>>2
+[2024-04-03 19:45:33.842] [debug] hyprland IPC received destroyworkspacev2>>2,2
+[2024-04-03 19:45:35.108] [debug] hyprland IPC received windowtitle>>aaab64dfdd70
+[2024-04-03 19:45:35.109] [debug] hyprland IPC received activewindow>>firefox,I Asked Best Buy to Fix my PC… They FAILED - YouTube — Mozilla Firefox
+[2024-04-03 19:45:35.110] [debug] hyprland IPC received activewindowv2>>aaab64dfdd70
+[2024-04-03 19:45:35.645] [debug] hyprland IPC received windowtitle>>aaab64dfdd70
+[2024-04-03 19:45:35.646] [debug] hyprland IPC received activewindow>>firefox,Rocket Powered Pastebin — Mozilla Firefox
+[2024-04-03 19:45:35.652] [error] Hyprland IPC: Couldn't write (4)
+[2024-04-03 19:45:35.652] [trace] Removing solo class: firefox
+[2024-04-03 19:45:35.653] [debug] hyprland IPC received activewindowv2>>aaab64dfdd70
+[2024-04-03 19:45:36.230] [debug] hyprland IPC received windowtitle>>aaab64dfdd70
+[2024-04-03 19:45:36.231] [debug] hyprland IPC received activewindow>>firefox,Mozilla Firefox
+[2024-04-03 19:45:36.231] [trace] Adding solo class: firefox
+[2024-04-03 19:45:36.232] [debug] hyprland IPC received activewindowv2>>aaab64dfdd70
+[2024-04-03 19:45:37.037] [debug] hyprland IPC received windowtitle>>aaab64dfdd70
+[2024-04-03 19:45:37.038] [debug] hyprland IPC received activewindow>>firefox,Rocket Powered Pastebin — Mozilla Firefox
+[2024-04-03 19:45:37.044] [debug] hyprland IPC received activewindowv2>>aaab64dfdd70
+[2024-04-03 19:45:37.232] [debug] hyprland IPC received windowtitle>>aaab64dfdd70
+[2024-04-03 19:45:37.233] [debug] hyprland IPC received activewindowv2>>aaab64dfdd70
+[2024-04-03 19:45:37.234] [debug] hyprland IPC received activewindow>>firefox,New Tab — Mozilla Firefox
+[2024-04-03 19:45:54.079] [debug] hyprland IPC received createworkspace>>2
+[2024-04-03 19:45:54.081] [debug] hyprland IPC received createworkspacev2>>2,2
+[2024-04-03 19:45:54.082] [debug] hyprland IPC received activewindow>>,
+[2024-04-03 19:45:54.083] [trace] Removing solo class: firefox
+[2024-04-03 19:45:54.084] [debug] hyprland IPC received activewindowv2>>,
+[2024-04-03 19:45:54.085] [debug] hyprland IPC received workspace>>2
+[2024-04-03 19:45:54.086] [debug] hyprland IPC received workspacev2>>2,2
+[2024-04-03 19:45:54.494] [debug] hyprland IPC received activewindow>>firefox,New Tab — Mozilla Firefox
+[2024-04-03 19:45:54.495] [trace] Adding solo class: firefox
+[2024-04-03 19:45:54.496] [debug] hyprland IPC received activewindowv2>>aaab64dfdd70
+[2024-04-03 19:45:54.497] [debug] hyprland IPC received workspace>>1
+[2024-04-03 19:45:54.498] [debug] hyprland IPC received workspacev2>>1,1
+[2024-04-03 19:45:54.504] [debug] hyprland IPC received destroyworkspace>>2
+[2024-04-03 19:45:54.506] [debug] hyprland IPC received destroyworkspacev2>>2,2
+[2024-04-03 19:45:56.498] [debug] network: if2 down
+[2024-04-03 19:53:33.727] [debug] network: new default route via 172.20.0.1 on if2 metric 600
+[2024-04-03 19:53:33.728] [debug] network: wlp1s0f0, new addr 172.20.8.173/20
+[2024-04-03 19:53:33.728] [debug] network: wlp1s0f0, new addr 172.20.8.173/20
+[2024-04-03 19:53:37.652] [debug] hyprland IPC received closewindow>>aaab64dfdd70
+[2024-04-03 19:53:37.662] [trace] Removing solo class: firefox
+[2024-04-03 19:53:37.663] [debug] hyprland IPC received activewindow>>,
+[2024-04-03 19:53:37.664] [debug] hyprland IPC received activewindowv2>>,
+[2024-04-03 19:53:59.395] [debug] network: if2 down
+[2024-04-04 07:38:55.523] [debug] network: new default route via 172.20.0.1 on if2 metric 600
+[2024-04-04 07:38:55.525] [debug] network: wlp1s0f0, new addr 172.20.8.173/20
+[2024-04-04 07:38:55.525] [debug] network: wlp1s0f0, new addr 172.20.8.173/20
+[2024-04-04 07:39:21.314] [debug] network: if2 down
+[2024-04-04 13:33:55.376] [debug] network: new default route via 172.20.0.1 on if2 metric 600
+[2024-04-04 13:33:55.377] [debug] network: wlp1s0f0, new addr 172.20.8.173/20
+[2024-04-04 13:33:55.377] [debug] network: wlp1s0f0, new addr 172.20.8.173/20
+[2024-04-04 13:34:09.275] [debug] hyprland IPC received createworkspace>>2
+[2024-04-04 13:34:09.278] [debug] hyprland IPC received createworkspacev2>>2,2
+[2024-04-04 13:34:09.279] [debug] hyprland IPC received workspace>>2
+[2024-04-04 13:34:09.280] [debug] hyprland IPC received workspacev2>>2,2
+[2024-04-04 13:34:09.281] [debug] hyprland IPC received destroyworkspace>>1
+[2024-04-04 13:34:09.282] [debug] hyprland IPC received destroyworkspacev2>>1,1
+[2024-04-04 13:34:09.891] [debug] hyprland IPC received createworkspace>>1
+[2024-04-04 13:34:09.892] [debug] hyprland IPC received createworkspacev2>>1,1
+[2024-04-04 13:34:09.893] [debug] hyprland IPC received workspace>>1
+[2024-04-04 13:34:09.894] [debug] hyprland IPC received workspacev2>>1,1
+[2024-04-04 13:34:09.898] [debug] hyprland IPC received destroyworkspace>>2
+[2024-04-04 13:34:09.900] [debug] hyprland IPC received destroyworkspacev2>>2,2
+[2024-04-04 13:34:19.972] [debug] hyprland IPC received activewindow>>kitty,zsh
+[2024-04-04 13:34:19.974] [trace] Adding solo class: kitty
+[2024-04-04 13:34:19.975] [debug] hyprland IPC received activewindowv2>>aaab64b51b80
+[2024-04-04 13:34:19.976] [debug] hyprland IPC received openwindow>>aaab64b51b80,1,kitty,zsh
+[2024-04-04 13:34:20.142] [debug] hyprland IPC received windowtitle>>aaab64b51b80
+[2024-04-04 13:34:20.143] [debug] hyprland IPC received activewindow>>kitty,~
+[2024-04-04 13:34:20.144] [debug] hyprland IPC received activewindowv2>>aaab64b51b80
+[2024-04-04 13:34:20.181] [debug] hyprland IPC received windowtitle>>aaab64b51b80
+[2024-04-04 13:34:20.182] [debug] hyprland IPC received activewindow>>kitty,teo@Billy:~
+[2024-04-04 13:34:20.184] [debug] hyprland IPC received activewindowv2>>aaab64b51b80
+[2024-04-04 13:34:23.944] [debug] hyprland IPC received windowtitle>>aaab64b51b80
+[2024-04-04 13:34:23.946] [debug] hyprland IPC received activewindow>>kitty,cd .config/waybar
+[2024-04-04 13:34:23.952] [debug] hyprland IPC received activewindowv2>>aaab64b51b80
+[2024-04-04 13:34:23.954] [debug] hyprland IPC received windowtitle>>aaab64b51b80
+[2024-04-04 13:34:23.955] [debug] hyprland IPC received activewindow>>kitty,~/.config/waybar
+[2024-04-04 13:34:23.960] [debug] hyprland IPC received activewindowv2>>aaab64b51b80
+[2024-04-04 13:34:23.962] [debug] hyprland IPC received windowtitle>>aaab64b51b80
+[2024-04-04 13:34:23.963] [debug] hyprland IPC received activewindow>>kitty,teo@Billy:~/.config/waybar
+[2024-04-04 13:34:23.968] [debug] hyprland IPC received activewindowv2>>aaab64b51b80
+[2024-04-04 13:34:24.720] [debug] hyprland IPC received windowtitle>>aaab64b51b80
+[2024-04-04 13:34:24.721] [debug] hyprland IPC received activewindow>>kitty,clear
+[2024-04-04 13:34:24.723] [debug] hyprland IPC received activewindowv2>>aaab64b51b80
+[2024-04-04 13:34:24.724] [debug] hyprland IPC received windowtitle>>aaab64b51b80
+[2024-04-04 13:34:24.725] [debug] hyprland IPC received activewindow>>kitty,~/.config/waybar
+[2024-04-04 13:34:24.728] [debug] hyprland IPC received activewindowv2>>aaab64b51b80
+[2024-04-04 13:34:24.729] [debug] hyprland IPC received windowtitle>>aaab64b51b80
+[2024-04-04 13:34:24.730] [debug] hyprland IPC received activewindow>>kitty,teo@Billy:~/.config/waybar
+[2024-04-04 13:34:24.732] [debug] hyprland IPC received activewindowv2>>aaab64b51b80
+[2024-04-04 13:34:26.716] [debug] hyprland IPC received windowtitle>>aaab64b51b80
+[2024-04-04 13:34:26.717] [debug] hyprland IPC received activewindow>>kitty,lvim style.css
+[2024-04-04 13:34:26.720] [debug] hyprland IPC received activewindowv2>>aaab64b51b80
+[2024-04-04 13:34:26.854] [debug] hyprland IPC received windowtitle>>aaab64b51b80
+[2024-04-04 13:34:26.855] [debug] hyprland IPC received activewindow>>kitty,style.css (~/.config/waybar) - NVIM
+[2024-04-04 13:34:26.857] [debug] hyprland IPC received activewindowv2>>aaab64b51b80
+[2024-04-04 13:34:50.388] [debug] hyprland IPC received windowtitle>>aaab64b51b80
+[2024-04-04 13:34:50.389] [debug] hyprland IPC received activewindowv2>>aaab64b51b80
+[2024-04-04 13:34:50.390] [debug] hyprland IPC received activewindow>>kitty,style.css + (~/.config/waybar) - NVIM
+[2024-04-04 13:34:51.308] [debug] hyprland IPC received windowtitle>>aaab64b51b80
+[2024-04-04 13:34:51.309] [debug] hyprland IPC received activewindow>>kitty,style.css (~/.config/waybar) - NVIM
+[2024-04-04 13:34:51.311] [debug] hyprland IPC received activewindowv2>>aaab64b51b80
+[2024-04-04 13:34:52.961] [debug] hyprland IPC received windowtitle>>aaab64b51b80
+[2024-04-04 13:34:52.963] [debug] hyprland IPC received activewindow>>kitty,style.css + (~/.config/waybar) - NVIM
+[2024-04-04 13:34:52.964] [debug] hyprland IPC received activewindowv2>>aaab64b51b80
+[2024-04-04 13:34:54.252] [debug] hyprland IPC received windowtitle>>aaab64b51b80
+[2024-04-04 13:34:54.253] [debug] hyprland IPC received activewindow>>kitty,style.css (~/.config/waybar) - NVIM
+[2024-04-04 13:34:54.258] [debug] hyprland IPC received activewindowv2>>aaab64b51b80
+[2024-04-04 13:34:58.509] [debug] hyprland IPC received windowtitle>>aaab64b51b80
+[2024-04-04 13:34:58.510] [debug] hyprland IPC received activewindow>>kitty,zsh;#toggleterm#1 - (term://~/.config/waybar//58139:/usr/bin) - NVIM
+[2024-04-04 13:34:58.514] [debug] hyprland IPC received activewindowv2>>aaab64b51b80
+[2024-04-04 13:36:29.339] [debug] Try expanding: $XDG_CONFIG_HOME/waybar/config
+[2024-04-04 13:36:29.339] [debug] Try expanding: $XDG_CONFIG_HOME/waybar/config.jsonc
+[2024-04-04 13:36:29.339] [debug] Try expanding: $HOME/.config/waybar/config
+[2024-04-04 13:36:29.339] [debug] Try expanding: $HOME/.config/waybar/config.jsonc
+[2024-04-04 13:36:29.339] [debug] Found config file: $HOME/.config/waybar/config.jsonc
+[2024-04-04 13:36:29.339] [info] Using configuration file /home/teo/.config/waybar/config.jsonc
+[2024-04-04 13:36:29.391] [info] Discovered appearance 'dark'
+[2024-04-04 13:36:29.391] [debug] Try expanding: $XDG_CONFIG_HOME/waybar/style-dark.css
+[2024-04-04 13:36:29.391] [debug] Try expanding: $XDG_CONFIG_HOME/waybar/style.css
+[2024-04-04 13:36:29.391] [debug] Try expanding: $HOME/.config/waybar/style-dark.css
+[2024-04-04 13:36:29.391] [debug] Try expanding: $HOME/.config/waybar/style.css
+[2024-04-04 13:36:29.391] [debug] Found config file: $HOME/.config/waybar/style.css
+[2024-04-04 13:36:29.391] [info] Using CSS file /home/teo/.config/waybar/style.css
+[2024-04-04 13:36:29.395] [debug] Output detection done: eDP-1 ((null) (null))
+[2024-04-04 13:36:29.395] [warning] Mapping is not an object
+[2024-04-04 13:36:29.395] [info] Hyprland IPC starting
+[2024-04-04 13:36:29.399] [debug] network: new default route via 172.20.0.1 on if2 metric 600
+[2024-04-04 13:36:29.400] [debug] network: wlp1s0f0, new addr 172.20.8.173/20
+[2024-04-04 13:36:29.400] [debug] network: wlp1s0f0, new addr 172.20.8.173/20
+[2024-04-04 13:36:29.419] [debug] GTK widget tree:
+window#waybar.background.top.empty.eDP-1..mode-default:dir(ltr)
+  decoration:dir(ltr)
+  box.horizontal:dir(ltr)
+    box.horizontal.modules-left:dir(ltr)
+      widget:dir(ltr)
+        label#custom-distro:dir(ltr)
+      widget:dir(ltr)
+        box#workspaces.horizontal:dir(ltr)
+          button.flat:dir(ltr)
+            box.horizontal:dir(ltr)
+              label:dir(ltr)
+          button.flat:dir(ltr)
+            box.horizontal:dir(ltr)
+              label:dir(ltr)
+          button.flat:dir(ltr)
+            box.horizontal:dir(ltr)
+              label:dir(ltr)
+          button.flat:dir(ltr)
+            box.horizontal:dir(ltr)
+              label:dir(ltr)
+      widget:dir(ltr)
+        box.horizontal:dir(ltr)
+          image:dir(ltr)
+          label#window:dir(ltr)
+    box.horizontal.modules-center:dir(ltr)
+      widget:dir(ltr)
+        label#clock:dir(ltr)
+    box.horizontal.modules-right:dir(ltr)
+      widget:dir(ltr)
+        label#backlight:dir(ltr)
+      widget:dir(ltr)
+        label#custom-spacer:dir(ltr)
+      widget:dir(ltr)
+        label#pulseaudio:dir(ltr)
+      widget:dir(ltr)
+        label#custom-spacer:dir(ltr)
+      widget:dir(ltr)
+        label#battery:dir(ltr)
+      widget:dir(ltr)
+        label#custom-spacer:dir(ltr)
+      widget:dir(ltr)
+        label#network:dir(ltr)
+
+[2024-04-04 13:36:29.422] [info] Bar configured (width: 1589, height: 34) for output: eDP-1
+[2024-04-04 13:36:29.423] [debug] hyprland IPC received openlayer>>waybar
+[2024-04-04 13:36:29.674] [debug] hyprland IPC received openlayer>>swww
+[2024-04-04 13:36:31.894] [debug] hyprland IPC received createworkspace>>2
+[2024-04-04 13:36:31.896] [debug] hyprland IPC received createworkspacev2>>2,2
+[2024-04-04 13:36:31.897] [debug] hyprland IPC received workspace>>2
+[2024-04-04 13:36:31.898] [debug] hyprland IPC received workspacev2>>2,2
+[2024-04-04 13:36:31.899] [debug] hyprland IPC received destroyworkspace>>1
+[2024-04-04 13:36:31.900] [debug] hyprland IPC received destroyworkspacev2>>1,1
+[2024-04-04 13:36:32.278] [debug] hyprland IPC received createworkspace>>3
+[2024-04-04 13:36:32.280] [debug] hyprland IPC received createworkspacev2>>3,3
+[2024-04-04 13:36:32.281] [debug] hyprland IPC received workspace>>3
+[2024-04-04 13:36:32.282] [debug] hyprland IPC received workspacev2>>3,3
+[2024-04-04 13:36:32.283] [debug] hyprland IPC received destroyworkspace>>2
+[2024-04-04 13:36:32.284] [debug] hyprland IPC received destroyworkspacev2>>2,2
+[2024-04-04 13:36:37.818] [debug] hyprland IPC received activewindow>>firefox,Mozilla Firefox
+[2024-04-04 13:36:37.828] [trace] Adding solo class: firefox
+[2024-04-04 13:36:37.829] [debug] hyprland IPC received activewindowv2>>aaaad6cb1480
+[2024-04-04 13:36:37.830] [debug] hyprland IPC received openwindow>>aaaad6cb1480,3,firefox,Mozilla Firefox
+[2024-04-04 13:36:42.273] [debug] hyprland IPC received createworkspace>>4
+[2024-04-04 13:36:42.275] [debug] hyprland IPC received createworkspacev2>>4,4
+[2024-04-04 13:36:42.276] [debug] hyprland IPC received activewindow>>,
+[2024-04-04 13:36:42.281] [debug] hyprland IPC received activewindowv2>>,
+[2024-04-04 13:36:42.282] [trace] Removing solo class: firefox
+[2024-04-04 13:36:42.285] [debug] hyprland IPC received workspace>>4
+[2024-04-04 13:36:42.286] [debug] hyprland IPC received workspacev2>>4,4
+[2024-04-04 13:36:42.658] [debug] hyprland IPC received activewindow>>kitty,zsh
+[2024-04-04 13:36:42.659] [trace] Adding solo class: kitty
+[2024-04-04 13:36:42.662] [debug] hyprland IPC received activewindowv2>>aaaad6d40cd0
+[2024-04-04 13:36:42.663] [debug] hyprland IPC received openwindow>>aaaad6d40cd0,4,kitty,zsh
+[2024-04-04 13:36:42.825] [debug] hyprland IPC received windowtitle>>aaaad6d40cd0
+[2024-04-04 13:36:42.826] [debug] hyprland IPC received activewindow>>kitty,~
+[2024-04-04 13:36:42.828] [debug] hyprland IPC received activewindowv2>>aaaad6d40cd0
+[2024-04-04 13:36:42.829] [debug] hyprland IPC received windowtitle>>aaaad6d40cd0
+[2024-04-04 13:36:42.831] [debug] hyprland IPC received activewindow>>kitty,teo@Billy:~
+[2024-04-04 13:36:42.832] [debug] hyprland IPC received activewindowv2>>aaaad6d40cd0
+[2024-04-04 13:36:44.749] [debug] hyprland IPC received windowtitle>>aaaad6d40cd0
+[2024-04-04 13:36:44.750] [debug] hyprland IPC received activewindow>>kitty,cd .config/waybar
+[2024-04-04 13:36:44.759] [debug] hyprland IPC received activewindowv2>>aaaad6d40cd0
+[2024-04-04 13:36:44.760] [debug] hyprland IPC received windowtitle>>aaaad6d40cd0
+[2024-04-04 13:36:44.761] [debug] hyprland IPC received activewindow>>kitty,~/.config/waybar
+[2024-04-04 13:36:44.765] [debug] hyprland IPC received activewindowv2>>aaaad6d40cd0
+[2024-04-04 13:36:44.766] [debug] hyprland IPC received windowtitle>>aaaad6d40cd0
+[2024-04-04 13:36:44.767] [debug] hyprland IPC received activewindow>>kitty,teo@Billy:~/.config/waybar
+[2024-04-04 13:36:44.770] [debug] hyprland IPC received activewindowv2>>aaaad6d40cd0
+[2024-04-04 13:36:47.557] [debug] hyprland IPC received windowtitle>>aaaad6d40cd0
+[2024-04-04 13:36:47.558] [debug] hyprland IPC received activewindow>>kitty,mv config.jsonc config
+[2024-04-04 13:36:47.561] [debug] hyprland IPC received activewindowv2>>aaaad6d40cd0
+[2024-04-04 13:36:47.562] [debug] hyprland IPC received windowtitle>>aaaad6d40cd0
+[2024-04-04 13:36:47.563] [debug] hyprland IPC received activewindow>>kitty,~/.config/waybar
+[2024-04-04 13:36:47.566] [debug] hyprland IPC received activewindowv2>>aaaad6d40cd0
+[2024-04-04 13:36:47.567] [debug] hyprland IPC received windowtitle>>aaaad6d40cd0
+[2024-04-04 13:36:47.568] [debug] hyprland IPC received activewindow>>kitty,teo@Billy:~/.config/waybar
+[2024-04-04 13:36:47.570] [debug] hyprland IPC received activewindowv2>>aaaad6d40cd0
+[2024-04-04 13:36:48.496] [debug] hyprland IPC received windowtitle>>aaaad6d40cd0
+[2024-04-04 13:36:48.497] [debug] hyprland IPC received activewindow>>kitty,clear
+[2024-04-04 13:36:48.501] [debug] hyprland IPC received activewindowv2>>aaaad6d40cd0
+[2024-04-04 13:36:48.502] [debug] hyprland IPC received windowtitle>>aaaad6d40cd0
+[2024-04-04 13:36:48.503] [debug] hyprland IPC received activewindow>>kitty,~/.config/waybar
+[2024-04-04 13:36:48.505] [debug] hyprland IPC received activewindowv2>>aaaad6d40cd0
+[2024-04-04 13:36:48.506] [debug] hyprland IPC received windowtitle>>aaaad6d40cd0
+[2024-04-04 13:36:48.507] [debug] hyprland IPC received activewindow>>kitty,teo@Billy:~/.config/waybar
+[2024-04-04 13:36:48.509] [debug] hyprland IPC received activewindowv2>>aaaad6d40cd0
+[2024-04-04 13:36:53.837] [debug] Try expanding: $XDG_CONFIG_HOME/waybar/config
+[2024-04-04 13:36:53.837] [debug] Try expanding: $XDG_CONFIG_HOME/waybar/config.jsonc
+[2024-04-04 13:36:53.837] [debug] Try expanding: $HOME/.config/waybar/config
+[2024-04-04 13:36:53.837] [debug] Found config file: $HOME/.config/waybar/config
+[2024-04-04 13:36:53.837] [info] Using configuration file /home/teo/.config/waybar/config
+[2024-04-04 13:36:53.887] [info] Discovered appearance 'dark'
+[2024-04-04 13:36:53.887] [debug] Try expanding: $XDG_CONFIG_HOME/waybar/style-dark.css
+[2024-04-04 13:36:53.887] [debug] Try expanding: $XDG_CONFIG_HOME/waybar/style.css
+[2024-04-04 13:36:53.887] [debug] Try expanding: $HOME/.config/waybar/style-dark.css
+[2024-04-04 13:36:53.887] [debug] Try expanding: $HOME/.config/waybar/style.css
+[2024-04-04 13:36:53.887] [debug] Found config file: $HOME/.config/waybar/style.css
+[2024-04-04 13:36:53.887] [info] Using CSS file /home/teo/.config/waybar/style.css
+[2024-04-04 13:36:53.891] [debug] Output detection done: eDP-1 ((null) (null))
+[2024-04-04 13:36:53.892] [warning] Mapping is not an object
+[2024-04-04 13:36:53.892] [info] Hyprland IPC starting
+[2024-04-04 13:36:53.895] [debug] network: new default route via 172.20.0.1 on if2 metric 600
+[2024-04-04 13:36:53.895] [debug] network: wlp1s0f0, new addr 172.20.8.173/20
+[2024-04-04 13:36:53.895] [debug] network: wlp1s0f0, new addr 172.20.8.173/20
+[2024-04-04 13:36:53.908] [debug] GTK widget tree:
+window#waybar.background.top.empty.eDP-1..mode-default:dir(ltr)
+  decoration:dir(ltr)
+  box.horizontal:dir(ltr)
+    box.horizontal.modules-left:dir(ltr)
+      widget:dir(ltr)
+        label#custom-distro:dir(ltr)
+      widget:dir(ltr)
+        box#workspaces.horizontal:dir(ltr)
+          button.flat:dir(ltr)
+            box.horizontal:dir(ltr)
+              label:dir(ltr)
+          button.flat:dir(ltr)
+            box.horizontal:dir(ltr)
+              label:dir(ltr)
+          button.flat:dir(ltr)
+            box.horizontal:dir(ltr)
+              label:dir(ltr)
+          button.flat:dir(ltr)
+            box.horizontal:dir(ltr)
+              label:dir(ltr)
+      widget:dir(ltr)
+        box.horizontal:dir(ltr)
+          image:dir(ltr)
+          label#window:dir(ltr)
+    box.horizontal.modules-center:dir(ltr)
+      widget:dir(ltr)
+        label#clock:dir(ltr)
+    box.horizontal.modules-right:dir(ltr)
+      widget:dir(ltr)
+        label#backlight:dir(ltr)
+      widget:dir(ltr)
+        label#custom-spacer:dir(ltr)
+      widget:dir(ltr)
+        label#pulseaudio:dir(ltr)
+      widget:dir(ltr)
+        label#custom-spacer:dir(ltr)
+      widget:dir(ltr)
+        label#battery:dir(ltr)
+      widget:dir(ltr)
+        label#custom-spacer:dir(ltr)
+      widget:dir(ltr)
+        label#network:dir(ltr)
+
+[2024-04-04 13:36:53.912] [info] Bar configured (width: 1589, height: 34) for output: eDP-1
+[2024-04-04 13:36:53.913] [debug] hyprland IPC received openlayer>>waybar
+[2024-04-04 13:36:54.141] [debug] hyprland IPC received openlayer>>swww
+[2024-04-04 13:36:57.170] [debug] hyprland IPC received activewindow>>firefox,Mozilla Firefox
+[2024-04-04 13:36:57.180] [trace] Adding solo class: firefox
+[2024-04-04 13:36:57.180] [debug] hyprland IPC received activewindowv2>>aaaafbe6af60
+[2024-04-04 13:36:57.181] [debug] hyprland IPC received openwindow>>aaaafbe6af60,1,firefox,Mozilla Firefox
+[2024-04-04 13:36:58.605] [debug] hyprland IPC received createworkspace>>2
+[2024-04-04 13:36:58.606] [debug] hyprland IPC received createworkspacev2>>2,2
+[2024-04-04 13:36:58.607] [debug] hyprland IPC received activewindow>>,
+[2024-04-04 13:36:58.608] [trace] Removing solo class: firefox
+[2024-04-04 13:36:58.609] [debug] hyprland IPC received activewindowv2>>,
+[2024-04-04 13:36:58.610] [debug] hyprland IPC received workspace>>2
+[2024-04-04 13:36:58.611] [debug] hyprland IPC received workspacev2>>2,2
+[2024-04-04 13:36:58.981] [debug] hyprland IPC received createworkspace>>3
+[2024-04-04 13:36:58.983] [debug] hyprland IPC received createworkspacev2>>3,3
+[2024-04-04 13:36:58.984] [debug] hyprland IPC received workspace>>3
+[2024-04-04 13:36:58.985] [debug] hyprland IPC received workspacev2>>3,3
+[2024-04-04 13:36:58.995] [debug] hyprland IPC received destroyworkspace>>2
+[2024-04-04 13:36:58.996] [debug] hyprland IPC received destroyworkspacev2>>2,2
+[2024-04-04 13:36:59.325] [debug] hyprland IPC received activewindow>>firefox,Mozilla Firefox
+[2024-04-04 13:36:59.327] [trace] Adding solo class: firefox
+[2024-04-04 13:36:59.328] [debug] hyprland IPC received activewindowv2>>aaaafbe6af60
+[2024-04-04 13:36:59.329] [debug] hyprland IPC received workspace>>1
+[2024-04-04 13:36:59.331] [debug] hyprland IPC received workspacev2>>1,1
+[2024-04-04 13:36:59.332] [debug] hyprland IPC received destroyworkspace>>3
+[2024-04-04 13:36:59.333] [debug] hyprland IPC received destroyworkspacev2>>3,3
+[2024-04-04 13:38:57.195] [debug] hyprland IPC received createworkspace>>2
+[2024-04-04 13:38:57.197] [debug] hyprland IPC received createworkspacev2>>2,2
+[2024-04-04 13:38:57.198] [debug] hyprland IPC received activewindow>>,
+[2024-04-04 13:38:57.200] [debug] hyprland IPC received activewindowv2>>,
+[2024-04-04 13:38:57.201] [debug] hyprland IPC received workspace>>2
+[2024-04-04 13:38:57.202] [trace] Removing solo class: firefox
+[2024-04-04 13:38:57.202] [debug] hyprland IPC received workspacev2>>2,2
+[2024-04-04 13:38:58.897] [debug] hyprland IPC received activewindow>>firefox,Mozilla Firefox
+[2024-04-04 13:38:58.899] [trace] Adding solo class: firefox
+[2024-04-04 13:38:58.900] [debug] hyprland IPC received activewindowv2>>aaaafbe6af60
+[2024-04-04 13:38:58.901] [debug] hyprland IPC received workspace>>1
+[2024-04-04 13:38:58.902] [debug] hyprland IPC received workspacev2>>1,1
+[2024-04-04 13:38:58.910] [debug] hyprland IPC received destroyworkspace>>2
+[2024-04-04 13:38:58.911] [debug] hyprland IPC received destroyworkspacev2>>2,2
+[2024-04-04 13:39:00.127] [debug] hyprland IPC received createworkspace>>2
+[2024-04-04 13:39:00.129] [debug] hyprland IPC received createworkspacev2>>2,2
+[2024-04-04 13:39:00.131] [debug] hyprland IPC received activewindow>>,
+[2024-04-04 13:39:00.134] [debug] hyprland IPC received activewindowv2>>,
+[2024-04-04 13:39:00.135] [debug] hyprland IPC received workspace>>2
+[2024-04-04 13:39:00.136] [trace] Removing solo class: firefox
+[2024-04-04 13:39:00.136] [debug] hyprland IPC received workspacev2>>2,2
+[2024-04-04 13:39:02.477] [debug] hyprland IPC received createworkspace>>3
+[2024-04-04 13:39:02.483] [debug] hyprland IPC received createworkspacev2>>3,3
+[2024-04-04 13:39:02.484] [debug] hyprland IPC received workspace>>3
+[2024-04-04 13:39:02.485] [debug] hyprland IPC received workspacev2>>3,3
+[2024-04-04 13:39:02.487] [debug] hyprland IPC received destroyworkspace>>2
+[2024-04-04 13:39:02.488] [debug] hyprland IPC received destroyworkspacev2>>2,2
+[2024-04-04 13:39:03.049] [debug] hyprland IPC received createworkspace>>4
+[2024-04-04 13:39:03.051] [debug] hyprland IPC received createworkspacev2>>4,4
+[2024-04-04 13:39:03.052] [debug] hyprland IPC received workspace>>4
+[2024-04-04 13:39:03.053] [debug] hyprland IPC received workspacev2>>4,4
+[2024-04-04 13:39:03.060] [debug] hyprland IPC received destroyworkspace>>3
+[2024-04-04 13:39:03.061] [debug] hyprland IPC received destroyworkspacev2>>3,3
+[2024-04-04 13:39:03.705] [debug] hyprland IPC received createworkspace>>3
+[2024-04-04 13:39:03.707] [debug] hyprland IPC received createworkspacev2>>3,3
+[2024-04-04 13:39:03.708] [debug] hyprland IPC received workspace>>3
+[2024-04-04 13:39:03.709] [debug] hyprland IPC received workspacev2>>3,3
+[2024-04-04 13:39:03.710] [debug] hyprland IPC received destroyworkspace>>4
+[2024-04-04 13:39:03.711] [debug] hyprland IPC received destroyworkspacev2>>4,4
+[2024-04-04 13:39:03.949] [debug] hyprland IPC received createworkspace>>2
+[2024-04-04 13:39:03.951] [debug] hyprland IPC received createworkspacev2>>2,2
+[2024-04-04 13:39:03.952] [debug] hyprland IPC received workspace>>2
+[2024-04-04 13:39:03.953] [debug] hyprland IPC received workspacev2>>2,2
+[2024-04-04 13:39:03.960] [debug] hyprland IPC received destroyworkspace>>3
+[2024-04-04 13:39:03.961] [debug] hyprland IPC received destroyworkspacev2>>3,3
+[2024-04-04 13:39:04.217] [debug] hyprland IPC received activewindow>>firefox,Mozilla Firefox
+[2024-04-04 13:39:04.219] [trace] Adding solo class: firefox
+[2024-04-04 13:39:04.220] [debug] hyprland IPC received activewindowv2>>aaaafbe6af60
+[2024-04-04 13:39:04.221] [debug] hyprland IPC received workspace>>1
+[2024-04-04 13:39:04.222] [debug] hyprland IPC received workspacev2>>1,1
+[2024-04-04 13:39:04.229] [debug] hyprland IPC received destroyworkspace>>2
+[2024-04-04 13:39:04.232] [debug] hyprland IPC received destroyworkspacev2>>2,2
+[2024-04-04 13:39:04.378] [debug] hyprland IPC received createworkspace>>2
+[2024-04-04 13:39:04.382] [debug] hyprland IPC received createworkspacev2>>2,2
+[2024-04-04 13:39:04.384] [debug] hyprland IPC received activewindow>>,
+[2024-04-04 13:39:04.387] [debug] hyprland IPC received activewindowv2>>,
+[2024-04-04 13:39:04.388] [debug] hyprland IPC received workspace>>2
+[2024-04-04 13:39:04.388] [trace] Removing solo class: firefox
+[2024-04-04 13:39:04.389] [debug] hyprland IPC received workspacev2>>2,2
+[2024-04-04 13:39:04.877] [debug] hyprland IPC received createworkspace>>3
+[2024-04-04 13:39:04.879] [debug] hyprland IPC received createworkspacev2>>3,3
+[2024-04-04 13:39:04.880] [debug] hyprland IPC received workspace>>3
+[2024-04-04 13:39:04.882] [debug] hyprland IPC received workspacev2>>3,3
+[2024-04-04 13:39:04.895] [debug] hyprland IPC received destroyworkspace>>2
+[2024-04-04 13:39:04.896] [debug] hyprland IPC received destroyworkspacev2>>2,2
+[2024-04-04 13:39:05.169] [debug] hyprland IPC received createworkspace>>4
+[2024-04-04 13:39:05.171] [debug] hyprland IPC received createworkspacev2>>4,4
+[2024-04-04 13:39:05.172] [debug] hyprland IPC received workspace>>4
+[2024-04-04 13:39:05.173] [debug] hyprland IPC received workspacev2>>4,4
+[2024-04-04 13:39:05.177] [debug] hyprland IPC received destroyworkspace>>3
+[2024-04-04 13:39:05.178] [debug] hyprland IPC received destroyworkspacev2>>3,3
+[2024-04-04 13:39:06.637] [debug] hyprland IPC received createworkspace>>3
+[2024-04-04 13:39:06.643] [debug] hyprland IPC received createworkspacev2>>3,3
+[2024-04-04 13:39:06.644] [debug] hyprland IPC received workspace>>3
+[2024-04-04 13:39:06.645] [debug] hyprland IPC received workspacev2>>3,3
+[2024-04-04 13:39:06.646] [debug] hyprland IPC received destroyworkspace>>4
+[2024-04-04 13:39:06.647] [debug] hyprland IPC received destroyworkspacev2>>4,4
+[2024-04-04 13:39:06.949] [debug] hyprland IPC received createworkspace>>2
+[2024-04-04 13:39:06.951] [debug] hyprland IPC received createworkspacev2>>2,2
+[2024-04-04 13:39:06.952] [debug] hyprland IPC received workspace>>2
+[2024-04-04 13:39:06.953] [debug] hyprland IPC received workspacev2>>2,2
+[2024-04-04 13:39:06.960] [debug] hyprland IPC received destroyworkspace>>3
+[2024-04-04 13:39:06.961] [debug] hyprland IPC received destroyworkspacev2>>3,3
+[2024-04-04 13:39:07.193] [debug] hyprland IPC received activewindow>>firefox,Mozilla Firefox
+[2024-04-04 13:39:07.195] [trace] Adding solo class: firefox
+[2024-04-04 13:39:07.196] [debug] hyprland IPC received activewindowv2>>aaaafbe6af60
+[2024-04-04 13:39:07.197] [debug] hyprland IPC received workspace>>1
+[2024-04-04 13:39:07.198] [debug] hyprland IPC received workspacev2>>1,1
+[2024-04-04 13:39:07.199] [debug] hyprland IPC received destroyworkspace>>2
+[2024-04-04 13:39:07.200] [debug] hyprland IPC received destroyworkspacev2>>2,2
+[2024-04-04 13:39:08.754] [debug] hyprland IPC received createworkspace>>2
+[2024-04-04 13:39:08.757] [debug] hyprland IPC received createworkspacev2>>2,2
+[2024-04-04 13:39:08.758] [debug] hyprland IPC received activewindow>>,
+[2024-04-04 13:39:08.760] [debug] hyprland IPC received activewindowv2>>,
+[2024-04-04 13:39:08.761] [debug] hyprland IPC received workspace>>2
+[2024-04-04 13:39:08.762] [debug] hyprland IPC received workspacev2>>2,2
+[2024-04-04 13:39:08.765] [trace] Removing solo class: firefox
+[2024-04-04 13:39:09.192] [debug] hyprland IPC received activewindow>>kitty,zsh
+[2024-04-04 13:39:09.194] [debug] hyprland IPC received activewindowv2>>aaaafbea9b60
+[2024-04-04 13:39:09.194] [trace] Adding solo class: kitty
+[2024-04-04 13:39:09.195] [debug] hyprland IPC received openwindow>>aaaafbea9b60,2,kitty,zsh
+[2024-04-04 13:39:09.358] [debug] hyprland IPC received windowtitle>>aaaafbea9b60
+[2024-04-04 13:39:09.359] [debug] hyprland IPC received activewindow>>kitty,~
+[2024-04-04 13:39:09.362] [debug] hyprland IPC received activewindowv2>>aaaafbea9b60
+[2024-04-04 13:39:09.396] [debug] hyprland IPC received windowtitle>>aaaafbea9b60
+[2024-04-04 13:39:09.397] [debug] hyprland IPC received activewindow>>kitty,teo@Billy:~
+[2024-04-04 13:39:09.399] [debug] hyprland IPC received activewindowv2>>aaaafbea9b60
+[2024-04-04 13:39:10.463] [debug] hyprland IPC received windowtitle>>aaaafbea9b60
+[2024-04-04 13:39:10.465] [debug] hyprland IPC received activewindow>>kitty,cd .config/waybar
+[2024-04-04 13:39:10.467] [debug] hyprland IPC received activewindowv2>>aaaafbea9b60
+[2024-04-04 13:39:10.468] [debug] hyprland IPC received windowtitle>>aaaafbea9b60
+[2024-04-04 13:39:10.469] [debug] hyprland IPC received activewindow>>kitty,~/.config/waybar
+[2024-04-04 13:39:10.472] [debug] hyprland IPC received activewindowv2>>aaaafbea9b60
+[2024-04-04 13:39:10.474] [debug] hyprland IPC received windowtitle>>aaaafbea9b60
+[2024-04-04 13:39:10.475] [debug] hyprland IPC received activewindow>>kitty,teo@Billy:~/.config/waybar
+[2024-04-04 13:39:10.478] [debug] hyprland IPC received activewindowv2>>aaaafbea9b60
+[2024-04-04 13:39:11.198] [debug] hyprland IPC received windowtitle>>aaaafbea9b60
+[2024-04-04 13:39:11.199] [debug] hyprland IPC received activewindow>>kitty,clear
+[2024-04-04 13:39:11.202] [debug] hyprland IPC received activewindowv2>>aaaafbea9b60
+[2024-04-04 13:39:11.203] [debug] hyprland IPC received windowtitle>>aaaafbea9b60
+[2024-04-04 13:39:11.204] [debug] hyprland IPC received activewindow>>kitty,~/.config/waybar
+[2024-04-04 13:39:11.206] [debug] hyprland IPC received activewindowv2>>aaaafbea9b60
+[2024-04-04 13:39:11.207] [debug] hyprland IPC received windowtitle>>aaaafbea9b60
+[2024-04-04 13:39:11.208] [debug] hyprland IPC received activewindow>>kitty,teo@Billy:~/.config/waybar
+[2024-04-04 13:39:11.210] [debug] hyprland IPC received activewindowv2>>aaaafbea9b60
+[2024-04-04 13:39:11.581] [debug] hyprland IPC received windowtitle>>aaaafbea9b60
+[2024-04-04 13:39:11.582] [debug] hyprland IPC received activewindow>>kitty,eza -al --color=always --group-directories-first --icons
+[2024-04-04 13:39:11.584] [debug] hyprland IPC received activewindowv2>>aaaafbea9b60
+[2024-04-04 13:39:11.585] [debug] hyprland IPC received windowtitle>>aaaafbea9b60
+[2024-04-04 13:39:11.586] [debug] hyprland IPC received activewindow>>kitty,ls
+[2024-04-04 13:39:11.589] [debug] hyprland IPC received activewindowv2>>aaaafbea9b60
+[2024-04-04 13:39:11.590] [debug] hyprland IPC received windowtitle>>aaaafbea9b60
+[2024-04-04 13:39:11.591] [debug] hyprland IPC received activewindow>>kitty,~/.config/waybar
+[2024-04-04 13:39:11.595] [debug] hyprland IPC received activewindowv2>>aaaafbea9b60
+[2024-04-04 13:39:11.596] [debug] hyprland IPC received windowtitle>>aaaafbea9b60
+[2024-04-04 13:39:11.597] [debug] hyprland IPC received activewindow>>kitty,teo@Billy:~/.config/waybar
+[2024-04-04 13:39:11.599] [debug] hyprland IPC received activewindowv2>>aaaafbea9b60
+[2024-04-04 13:39:13.745] [debug] hyprland IPC received windowtitle>>aaaafbea9b60
+[2024-04-04 13:39:13.746] [debug] hyprland IPC received activewindowv2>>aaaafbea9b60
+[2024-04-04 13:39:13.747] [debug] hyprland IPC received activewindow>>kitty,lvim config
+[2024-04-04 13:39:13.879] [debug] hyprland IPC received windowtitle>>aaaafbea9b60
+[2024-04-04 13:39:13.881] [debug] hyprland IPC received activewindow>>kitty,config (~/.config/waybar) - NVIM
+[2024-04-04 13:39:13.883] [debug] hyprland IPC received activewindowv2>>aaaafbea9b60
+[2024-04-04 13:39:32.864] [debug] hyprland IPC received windowtitle>>aaaafbea9b60
+[2024-04-04 13:39:32.865] [debug] hyprland IPC received activewindow>>kitty,config + (~/.config/waybar) - NVIM
+[2024-04-04 13:39:32.868] [debug] hyprland IPC received activewindowv2>>aaaafbea9b60
+[2024-04-04 13:39:33.816] [debug] hyprland IPC received windowtitle>>aaaafbea9b60
+[2024-04-04 13:39:33.817] [debug] hyprland IPC received activewindow>>kitty,config (~/.config/waybar) - NVIM
+[2024-04-04 13:39:33.820] [debug] hyprland IPC received activewindowv2>>aaaafbea9b60
+[2024-04-04 13:39:34.830] [debug] hyprland IPC received windowtitle>>aaaafbea9b60
+[2024-04-04 13:39:34.831] [debug] hyprland IPC received activewindow>>kitty,NvimTree_1 - (~/.config/waybar) - NVIM
+[2024-04-04 13:39:34.832] [debug] hyprland IPC received activewindowv2>>aaaafbea9b60
+[2024-04-04 13:39:36.378] [debug] hyprland IPC received windowtitle>>aaaafbea9b60
+[2024-04-04 13:39:36.379] [debug] hyprland IPC received activewindowv2>>aaaafbea9b60
+[2024-04-04 13:39:36.380] [debug] hyprland IPC received activewindow>>kitty,config (~/.config/waybar) - NVIM
+[2024-04-04 13:39:36.382] [debug] hyprland IPC received activewindow>>kitty,style.css (~/.config/waybar) - NVIM
+[2024-04-04 13:39:36.383] [debug] hyprland IPC received windowtitle>>aaaafbea9b60
+[2024-04-04 13:39:36.384] [debug] hyprland IPC received activewindowv2>>aaaafbea9b60
+[2024-04-04 13:39:54.171] [debug] hyprland IPC received windowtitle>>aaaafbea9b60
+[2024-04-04 13:39:54.174] [debug] hyprland IPC received activewindow>>kitty,style.css + (~/.config/waybar) - NVIM
+[2024-04-04 13:39:54.177] [debug] hyprland IPC received activewindowv2>>aaaafbea9b60
+[2024-04-04 13:39:57.999] [debug] hyprland IPC received windowtitle>>aaaafbea9b60
+[2024-04-04 13:39:58.000] [debug] hyprland IPC received activewindowv2>>aaaafbea9b60
+[2024-04-04 13:39:58.001] [debug] hyprland IPC received activewindow>>kitty,style.css (~/.config/waybar) - NVIM
+[2024-04-04 13:40:00.860] [debug] hyprland IPC received windowtitle>>aaaafbea9b60
+[2024-04-04 13:40:00.861] [debug] hyprland IPC received activewindow>>kitty,config (~/.config/waybar) - NVIM
+[2024-04-04 13:40:00.864] [debug] hyprland IPC received activewindowv2>>aaaafbea9b60
+[2024-04-04 13:40:02.921] [debug] hyprland IPC received windowtitle>>aaaafbea9b60
+[2024-04-04 13:40:02.922] [debug] hyprland IPC received activewindow>>kitty,config + (~/.config/waybar) - NVIM
+[2024-04-04 13:40:02.924] [debug] hyprland IPC received activewindowv2>>aaaafbea9b60
+[2024-04-04 13:40:03.525] [debug] hyprland IPC received windowtitle>>aaaafbea9b60
+[2024-04-04 13:40:03.529] [debug] hyprland IPC received activewindow>>kitty,config (~/.config/waybar) - NVIM
+[2024-04-04 13:40:03.533] [debug] hyprland IPC received activewindowv2>>aaaafbea9b60
+[2024-04-04 13:40:04.809] [debug] hyprland IPC received windowtitle>>aaaafbea9b60
+[2024-04-04 13:40:04.810] [debug] hyprland IPC received activewindow>>kitty,zsh;#toggleterm#1 - (term://~/.config/waybar//61107:/usr/bin) - NVIM
+[2024-04-04 13:40:04.812] [debug] hyprland IPC received activewindowv2>>aaaafbea9b60
+[2024-04-04 13:40:43.616] [debug] Try expanding: $XDG_CONFIG_HOME/waybar/config
+[2024-04-04 13:40:43.616] [debug] Try expanding: $XDG_CONFIG_HOME/waybar/config.jsonc
+[2024-04-04 13:40:43.616] [debug] Try expanding: $HOME/.config/waybar/config
+[2024-04-04 13:40:43.616] [debug] Found config file: $HOME/.config/waybar/config
+[2024-04-04 13:40:43.616] [info] Using configuration file /home/teo/.config/waybar/config
+[2024-04-04 13:40:43.678] [info] Discovered appearance 'dark'
+[2024-04-04 13:40:43.678] [debug] Try expanding: $XDG_CONFIG_HOME/waybar/style-dark.css
+[2024-04-04 13:40:43.678] [debug] Try expanding: $XDG_CONFIG_HOME/waybar/style.css
+[2024-04-04 13:40:43.678] [debug] Try expanding: $HOME/.config/waybar/style-dark.css
+[2024-04-04 13:40:43.678] [debug] Try expanding: $HOME/.config/waybar/style.css
+[2024-04-04 13:40:43.678] [debug] Found config file: $HOME/.config/waybar/style.css
+[2024-04-04 13:40:43.678] [info] Using CSS file /home/teo/.config/waybar/style.css
+[2024-04-04 13:40:43.691] [debug] Output detection done: eDP-1 ((null) (null))
+[2024-04-04 13:40:43.693] [warning] Mapping is not an object
+[2024-04-04 13:40:43.693] [info] Hyprland IPC starting
+[2024-04-04 13:40:43.701] [debug] network: new default route via 172.20.0.1 on if2 metric 600
+[2024-04-04 13:40:43.701] [debug] network: wlp1s0f0, new addr 172.20.8.173/20
+[2024-04-04 13:40:43.701] [debug] network: wlp1s0f0, new addr 172.20.8.173/20
+[2024-04-04 13:40:43.716] [debug] GTK widget tree:
+window#waybar.background.top.empty.eDP-1..mode-default:dir(ltr)
+  decoration:dir(ltr)
+  box.horizontal:dir(ltr)
+    box.horizontal.modules-left:dir(ltr)
+      widget:dir(ltr)
+        label#custom-distro:dir(ltr)
+      widget:dir(ltr)
+        box#workspaces.horizontal:dir(ltr)
+          button.flat:dir(ltr)
+            box.horizontal:dir(ltr)
+              label:dir(ltr)
+          button.flat:dir(ltr)
+            box.horizontal:dir(ltr)
+              label:dir(ltr)
+          button.flat:dir(ltr)
+            box.horizontal:dir(ltr)
+              label:dir(ltr)
+          button.flat:dir(ltr)
+            box.horizontal:dir(ltr)
+              label:dir(ltr)
+      widget:dir(ltr)
+        box.horizontal:dir(ltr)
+          image:dir(ltr)
+          label#window:dir(ltr)
+    box.horizontal.modules-center:dir(ltr)
+      widget:dir(ltr)
+        label#clock:dir(ltr)
+    box.horizontal.modules-right:dir(ltr)
+      widget:dir(ltr)
+        label#backlight:dir(ltr)
+      widget:dir(ltr)
+        label#custom-spacer:dir(ltr)
+      widget:dir(ltr)
+        label#pulseaudio:dir(ltr)
+      widget:dir(ltr)
+        label#custom-spacer:dir(ltr)
+      widget:dir(ltr)
+        label#battery:dir(ltr)
+      widget:dir(ltr)
+        label#custom-spacer:dir(ltr)
+      widget:dir(ltr)
+        label#network:dir(ltr)
+
+[2024-04-04 13:40:43.722] [info] Bar configured (width: 1589, height: 34) for output: eDP-1
+[2024-04-04 13:40:43.724] [debug] hyprland IPC received openlayer>>waybar
+[2024-04-04 13:40:43.908] [debug] hyprland IPC received openlayer>>swww
+[2024-04-04 13:50:09.378] [debug] network: wlp1s0f0, new addr 172.20.8.173/20
+[2024-04-04 13:50:09.379] [debug] network: wlp1s0f0, new addr 172.20.8.173/20
+[2024-04-04 13:52:59.806] [debug] hyprland IPC received activewindow>>kitty,zsh
+[2024-04-04 13:52:59.807] [trace] Adding solo class: kitty
+[2024-04-04 13:52:59.808] [debug] hyprland IPC received activewindowv2>>aaab44f46800
+[2024-04-04 13:52:59.809] [debug] hyprland IPC received openwindow>>aaab44f46800,1,kitty,zsh
+[2024-04-04 13:52:59.963] [debug] hyprland IPC received windowtitle>>aaab44f46800
+[2024-04-04 13:52:59.964] [debug] hyprland IPC received activewindow>>kitty,~
+[2024-04-04 13:52:59.966] [debug] hyprland IPC received activewindowv2>>aaab44f46800
+[2024-04-04 13:52:59.968] [debug] hyprland IPC received windowtitle>>aaab44f46800
+[2024-04-04 13:52:59.969] [debug] hyprland IPC received activewindow>>kitty,teo@Billy:~
+[2024-04-04 13:52:59.971] [debug] hyprland IPC received activewindowv2>>aaab44f46800
+[2024-04-04 13:53:01.739] [debug] hyprland IPC received windowtitle>>aaab44f46800
+[2024-04-04 13:53:01.741] [debug] hyprland IPC received activewindowv2>>aaab44f46800
+[2024-04-04 13:53:01.742] [debug] hyprland IPC received activewindow>>kitty,cd .config/waybar
+[2024-04-04 13:53:01.746] [debug] hyprland IPC received windowtitle>>aaab44f46800
+[2024-04-04 13:53:01.747] [debug] hyprland IPC received activewindow>>kitty,~/.config/waybar
+[2024-04-04 13:53:01.750] [debug] hyprland IPC received activewindowv2>>aaab44f46800
+[2024-04-04 13:53:01.751] [debug] hyprland IPC received windowtitle>>aaab44f46800
+[2024-04-04 13:53:01.752] [debug] hyprland IPC received activewindow>>kitty,teo@Billy:~/.config/waybar
+[2024-04-04 13:53:01.754] [debug] hyprland IPC received activewindowv2>>aaab44f46800
+[2024-04-04 13:53:02.601] [debug] hyprland IPC received windowtitle>>aaab44f46800
+[2024-04-04 13:53:02.603] [debug] hyprland IPC received activewindow>>kitty,clear
+[2024-04-04 13:53:02.605] [debug] hyprland IPC received activewindowv2>>aaab44f46800
+[2024-04-04 13:53:02.606] [debug] hyprland IPC received windowtitle>>aaab44f46800
+[2024-04-04 13:53:02.607] [debug] hyprland IPC received activewindow>>kitty,~/.config/waybar
+[2024-04-04 13:53:02.609] [debug] hyprland IPC received activewindowv2>>aaab44f46800
+[2024-04-04 13:53:02.610] [debug] hyprland IPC received windowtitle>>aaab44f46800
+[2024-04-04 13:53:02.611] [debug] hyprland IPC received activewindow>>kitty,teo@Billy:~/.config/waybar
+[2024-04-04 13:53:02.617] [debug] hyprland IPC received activewindowv2>>aaab44f46800
+[2024-04-04 13:53:02.848] [debug] hyprland IPC received windowtitle>>aaab44f46800
+[2024-04-04 13:53:02.849] [debug] hyprland IPC received activewindow>>kitty,eza -al --color=always --group-directories-first --icons
+[2024-04-04 13:53:02.853] [debug] hyprland IPC received activewindowv2>>aaab44f46800
+[2024-04-04 13:53:02.854] [debug] hyprland IPC received windowtitle>>aaab44f46800
+[2024-04-04 13:53:02.855] [debug] hyprland IPC received activewindow>>kitty,ls
+[2024-04-04 13:53:02.860] [debug] hyprland IPC received activewindowv2>>aaab44f46800
+[2024-04-04 13:53:02.861] [debug] hyprland IPC received windowtitle>>aaab44f46800
+[2024-04-04 13:53:02.862] [debug] hyprland IPC received activewindow>>kitty,~/.config/waybar
+[2024-04-04 13:53:02.865] [debug] hyprland IPC received activewindowv2>>aaab44f46800
+[2024-04-04 13:53:02.866] [debug] hyprland IPC received windowtitle>>aaab44f46800
+[2024-04-04 13:53:02.867] [debug] hyprland IPC received activewindow>>kitty,teo@Billy:~/.config/waybar
+[2024-04-04 13:53:02.869] [debug] hyprland IPC received activewindowv2>>aaab44f46800
+[2024-04-04 13:53:04.104] [debug] hyprland IPC received windowtitle>>aaab44f46800
+[2024-04-04 13:53:04.105] [debug] hyprland IPC received activewindowv2>>aaab44f46800
+[2024-04-04 13:53:04.107] [debug] hyprland IPC received activewindow>>kitty,lvim config
+[2024-04-04 13:53:04.225] [debug] hyprland IPC received windowtitle>>aaab44f46800
+[2024-04-04 13:53:04.226] [debug] hyprland IPC received activewindow>>kitty,config (~/.config/waybar) - NVIM
+[2024-04-04 13:53:04.227] [debug] hyprland IPC received activewindowv2>>aaab44f46800
+[2024-04-04 13:53:13.458] [debug] hyprland IPC received windowtitle>>aaab44f46800
+[2024-04-04 13:53:13.459] [debug] hyprland IPC received activewindow>>kitty,kitten
+[2024-04-04 13:53:13.461] [debug] hyprland IPC received activewindowv2>>aaab44f46800
+[2024-04-04 13:53:13.525] [debug] hyprland IPC received windowtitle>>aaab44f46800
+[2024-04-04 13:53:13.526] [debug] hyprland IPC received activewindow>>kitty,Close OS window
+[2024-04-04 13:53:13.528] [debug] hyprland IPC received activewindowv2>>aaab44f46800
+[2024-04-04 13:53:14.187] [debug] hyprland IPC received closewindow>>aaab44f46800
+[2024-04-04 13:53:14.193] [trace] Removing solo class: kitty
+[2024-04-04 13:53:14.194] [debug] hyprland IPC received activewindow>>,
+[2024-04-04 13:53:14.195] [debug] hyprland IPC received activewindowv2>>,
+[2024-04-04 13:53:16.067] [debug] hyprland IPC received activewindow>>firefox,Mozilla Firefox
+[2024-04-04 13:53:16.070] [trace] Adding solo class: firefox
+[2024-04-04 13:53:16.070] [debug] hyprland IPC received activewindowv2>>aaab44f75760
+[2024-04-04 13:53:16.072] [debug] hyprland IPC received openwindow>>aaab44f75760,1,firefox,Mozilla Firefox
+[2024-04-04 13:53:19.078] [debug] hyprland IPC received createworkspace>>2
+[2024-04-04 13:53:19.102] [debug] hyprland IPC received createworkspacev2>>2,2
+[2024-04-04 13:53:19.103] [debug] hyprland IPC received activewindow>>,
+[2024-04-04 13:53:19.104] [trace] Removing solo class: firefox
+[2024-04-04 13:53:19.105] [debug] hyprland IPC received activewindowv2>>,
+[2024-04-04 13:53:19.106] [debug] hyprland IPC received workspace>>2
+[2024-04-04 13:53:19.108] [debug] hyprland IPC received workspacev2>>2,2
+[2024-04-04 13:53:19.550] [debug] hyprland IPC received createworkspace>>3
+[2024-04-04 13:53:19.551] [debug] hyprland IPC received createworkspacev2>>3,3
+[2024-04-04 13:53:19.553] [debug] hyprland IPC received workspace>>3
+[2024-04-04 13:53:19.554] [debug] hyprland IPC received workspacev2>>3,3
+[2024-04-04 13:53:19.561] [debug] hyprland IPC received destroyworkspace>>2
+[2024-04-04 13:53:19.563] [debug] hyprland IPC received destroyworkspacev2>>2,2
+[2024-04-04 13:53:19.910] [debug] hyprland IPC received createworkspace>>4
+[2024-04-04 13:53:19.913] [debug] hyprland IPC received createworkspacev2>>4,4
+[2024-04-04 13:53:19.914] [debug] hyprland IPC received workspace>>4
+[2024-04-04 13:53:19.915] [debug] hyprland IPC received workspacev2>>4,4
+[2024-04-04 13:53:19.916] [debug] hyprland IPC received destroyworkspace>>3
+[2024-04-04 13:53:19.917] [debug] hyprland IPC received destroyworkspacev2>>3,3
+[2024-04-04 13:53:20.418] [debug] hyprland IPC received createworkspace>>3
+[2024-04-04 13:53:20.419] [debug] hyprland IPC received createworkspacev2>>3,3
+[2024-04-04 13:53:20.421] [debug] hyprland IPC received workspace>>3
+[2024-04-04 13:53:20.422] [debug] hyprland IPC received workspacev2>>3,3
+[2024-04-04 13:53:20.428] [debug] hyprland IPC received destroyworkspace>>4
+[2024-04-04 13:53:20.429] [debug] hyprland IPC received destroyworkspacev2>>4,4
+[2024-04-04 13:53:20.638] [debug] hyprland IPC received createworkspace>>2
+[2024-04-04 13:53:20.640] [debug] hyprland IPC received createworkspacev2>>2,2
+[2024-04-04 13:53:20.641] [debug] hyprland IPC received workspace>>2
+[2024-04-04 13:53:20.642] [debug] hyprland IPC received workspacev2>>2,2
+[2024-04-04 13:53:20.645] [debug] hyprland IPC received destroyworkspace>>3
+[2024-04-04 13:53:20.646] [debug] hyprland IPC received destroyworkspacev2>>3,3
+[2024-04-04 13:53:20.890] [debug] hyprland IPC received activewindow>>firefox,Mozilla Firefox
+[2024-04-04 13:53:20.891] [trace] Adding solo class: firefox
+[2024-04-04 13:53:20.892] [debug] hyprland IPC received activewindowv2>>aaab44f75760
+[2024-04-04 13:53:20.893] [debug] hyprland IPC received workspace>>1
+[2024-04-04 13:53:20.894] [debug] hyprland IPC received workspacev2>>1,1
+[2024-04-04 13:53:20.897] [debug] hyprland IPC received destroyworkspace>>2
+[2024-04-04 13:53:20.898] [debug] hyprland IPC received destroyworkspacev2>>2,2
+[2024-04-04 13:53:28.153] [debug] hyprland IPC received createworkspace>>2
+[2024-04-04 13:53:28.160] [debug] hyprland IPC received createworkspacev2>>2,2
+[2024-04-04 13:53:28.161] [debug] hyprland IPC received activewindow>>,
+[2024-04-04 13:53:28.162] [trace] Removing solo class: firefox
+[2024-04-04 13:53:28.164] [debug] hyprland IPC received activewindowv2>>,
+[2024-04-04 13:53:28.165] [debug] hyprland IPC received workspace>>2
+[2024-04-04 13:53:28.166] [debug] hyprland IPC received workspacev2>>2,2
+[2024-04-04 13:53:28.593] [debug] hyprland IPC received createworkspace>>3
+[2024-04-04 13:53:28.595] [debug] hyprland IPC received createworkspacev2>>3,3
+[2024-04-04 13:53:28.596] [debug] hyprland IPC received workspace>>3
+[2024-04-04 13:53:28.597] [debug] hyprland IPC received workspacev2>>3,3
+[2024-04-04 13:53:28.598] [debug] hyprland IPC received destroyworkspace>>2
+[2024-04-04 13:53:28.599] [debug] hyprland IPC received destroyworkspacev2>>2,2
+[2024-04-04 13:53:31.181] [debug] Added child to reap list: 63585
+[2024-04-04 13:53:31.365] [debug] hyprland IPC received activewindow>>pavucontrol,Volume Control
+[2024-04-04 13:53:31.368] [debug] hyprland IPC received activewindowv2>>aaab44f80520
+[2024-04-04 13:53:31.369] [debug] hyprland IPC received openwindow>>aaab44f80520,3,pavucontrol,Volume Control
+[2024-04-04 13:53:55.725] [debug] hyprland IPC received closewindow>>aaab44f80520
+[2024-04-04 13:53:55.729] [debug] Received SIGCHLD in signalThread
+[2024-04-04 13:53:55.729] [debug] Reaped child with PID: 63585
+[2024-04-04 13:53:55.733] [debug] hyprland IPC received activewindow>>,
+[2024-04-04 13:53:55.734] [debug] hyprland IPC received activewindowv2>>,
+[2024-04-04 13:53:56.737] [debug] hyprland IPC received activewindow>>kitty,zsh
+[2024-04-04 13:53:56.739] [trace] Adding solo class: kitty
+[2024-04-04 13:53:56.740] [debug] hyprland IPC received openwindow>>aaab44f80520,3,kitty,zsh
+[2024-04-04 13:53:56.742] [debug] hyprland IPC received activewindowv2>>aaab44f80520
+[2024-04-04 13:53:56.853] [debug] hyprland IPC received windowtitle>>aaab44f80520
+[2024-04-04 13:53:56.854] [debug] hyprland IPC received activewindow>>kitty,~
+[2024-04-04 13:53:56.856] [debug] hyprland IPC received activewindowv2>>aaab44f80520
+[2024-04-04 13:53:56.890] [debug] hyprland IPC received windowtitle>>aaab44f80520
+[2024-04-04 13:53:56.891] [debug] hyprland IPC received activewindowv2>>aaab44f80520
+[2024-04-04 13:53:56.892] [debug] hyprland IPC received activewindow>>kitty,teo@Billy:~
+[2024-04-04 13:53:59.974] [debug] hyprland IPC received windowtitle>>aaab44f80520
+[2024-04-04 13:53:59.975] [debug] hyprland IPC received activewindow>>kitty,sudo dnf update
+[2024-04-04 13:53:59.977] [debug] hyprland IPC received activewindowv2>>aaab44f80520
+[2024-04-04 13:54:41.905] [debug] hyprland IPC received windowtitle>>aaab44f80520
+[2024-04-04 13:54:41.906] [debug] hyprland IPC received activewindow>>kitty,~
+[2024-04-04 13:54:41.908] [debug] hyprland IPC received activewindowv2>>aaab44f80520
+[2024-04-04 13:54:41.909] [debug] hyprland IPC received windowtitle>>aaab44f80520
+[2024-04-04 13:54:41.910] [debug] hyprland IPC received activewindow>>kitty,teo@Billy:~
+[2024-04-04 13:54:41.911] [debug] hyprland IPC received activewindowv2>>aaab44f80520
+[2024-04-04 13:54:43.764] [debug] hyprland IPC received windowtitle>>aaab44f80520
+[2024-04-04 13:54:43.765] [debug] hyprland IPC received activewindow>>kitty,sudo reboot
+[2024-04-04 13:54:43.767] [debug] hyprland IPC received activewindowv2>>aaab44f80520
+[2024-04-04 13:54:43.768] [debug] hyprland IPC received windowtitle>>aaab44f80520
+[2024-04-04 13:54:43.769] [debug] hyprland IPC received activewindow>>kitty,sr
+[2024-04-04 13:54:43.771] [debug] hyprland IPC received activewindowv2>>aaab44f80520
+[2024-04-04 13:54:43.804] [debug] hyprland IPC received windowtitle>>aaab44f80520
+[2024-04-04 13:54:43.805] [debug] hyprland IPC received activewindow>>kitty,~
+[2024-04-04 13:54:43.808] [debug] hyprland IPC received activewindowv2>>aaab44f80520
+[2024-04-04 13:54:43.809] [debug] hyprland IPC received windowtitle>>aaab44f80520
+[2024-04-04 13:54:43.810] [debug] hyprland IPC received activewindow>>kitty,teo@Billy:~
+[2024-04-04 13:54:43.813] [debug] hyprland IPC received activewindowv2>>aaab44f80520
+[2024-04-04 13:59:22.122] [debug] Try expanding: $XDG_CONFIG_HOME/waybar/config
+[2024-04-04 13:59:22.122] [debug] Try expanding: $XDG_CONFIG_HOME/waybar/config.jsonc
+[2024-04-04 13:59:22.122] [debug] Try expanding: $HOME/.config/waybar/config
+[2024-04-04 13:59:22.122] [debug] Found config file: $HOME/.config/waybar/config
+[2024-04-04 13:59:22.122] [info] Using configuration file /home/teo/.config/waybar/config
+[2024-04-04 13:59:22.257] [info] Discovered appearance 'dark'
+[2024-04-04 13:59:22.257] [debug] Try expanding: $XDG_CONFIG_HOME/waybar/style-dark.css
+[2024-04-04 13:59:22.257] [debug] Try expanding: $XDG_CONFIG_HOME/waybar/style.css
+[2024-04-04 13:59:22.257] [debug] Try expanding: $HOME/.config/waybar/style-dark.css
+[2024-04-04 13:59:22.257] [debug] Try expanding: $HOME/.config/waybar/style.css
+[2024-04-04 13:59:22.257] [debug] Found config file: $HOME/.config/waybar/style.css
+[2024-04-04 13:59:22.257] [info] Using CSS file /home/teo/.config/waybar/style.css
+[2024-04-04 13:59:22.262] [debug] Output detection done: eDP-1 ((null) (null))
+[2024-04-04 13:59:22.263] [warning] Mapping is not an object
+[2024-04-04 13:59:22.263] [info] Hyprland IPC starting
+[2024-04-04 13:59:22.271] [debug] network: new default route via 172.20.0.1 on if2 metric 600
+[2024-04-04 13:59:22.271] [debug] network: wlp1s0f0, new addr 172.20.8.173/20
+[2024-04-04 13:59:22.271] [debug] network: wlp1s0f0, new addr 172.20.8.173/20
+[2024-04-04 13:59:22.293] [debug] GTK widget tree:
+window#waybar.background.top.empty.eDP-1..mode-default:dir(ltr)
+  decoration:dir(ltr)
+  box.horizontal:dir(ltr)
+    box.horizontal.modules-left:dir(ltr)
+      widget:dir(ltr)
+        label#custom-distro:dir(ltr)
+      widget:dir(ltr)
+        box#workspaces.horizontal:dir(ltr)
+          button.flat:dir(ltr)
+            box.horizontal:dir(ltr)
+              label:dir(ltr)
+          button.flat:dir(ltr)
+            box.horizontal:dir(ltr)
+              label:dir(ltr)
+          button.flat:dir(ltr)
+            box.horizontal:dir(ltr)
+              label:dir(ltr)
+          button.flat:dir(ltr)
+            box.horizontal:dir(ltr)
+              label:dir(ltr)
+      widget:dir(ltr)
+        box.horizontal:dir(ltr)
+          image:dir(ltr)
+          label#window:dir(ltr)
+    box.horizontal.modules-center:dir(ltr)
+      widget:dir(ltr)
+        label#clock:dir(ltr)
+    box.horizontal.modules-right:dir(ltr)
+      widget:dir(ltr)
+        label#backlight:dir(ltr)
+      widget:dir(ltr)
+        label#custom-spacer:dir(ltr)
+      widget:dir(ltr)
+        label#pulseaudio:dir(ltr)
+      widget:dir(ltr)
+        label#custom-spacer:dir(ltr)
+      widget:dir(ltr)
+        label#battery:dir(ltr)
+      widget:dir(ltr)
+        label#custom-spacer:dir(ltr)
+      widget:dir(ltr)
+        label#network:dir(ltr)
+
+[2024-04-04 13:59:22.299] [info] Bar configured (width: 1589, height: 34) for output: eDP-1
+[2024-04-04 13:59:22.301] [debug] hyprland IPC received openlayer>>waybar
+[2024-04-04 13:59:22.381] [debug] hyprland IPC received openlayer>>swww
+[2024-04-04 13:59:50.426] [debug] hyprland IPC received activewindow>>kitty,zsh
+[2024-04-04 13:59:50.439] [trace] Adding solo class: kitty
+[2024-04-04 13:59:50.440] [debug] hyprland IPC received activewindowv2>>aaaba7ba5050
+[2024-04-04 13:59:50.441] [debug] hyprland IPC received openwindow>>aaaba7ba5050,1,kitty,zsh
+[2024-04-04 13:59:50.665] [debug] hyprland IPC received windowtitle>>aaaba7ba5050
+[2024-04-04 13:59:50.666] [debug] hyprland IPC received activewindow>>kitty,~
+[2024-04-04 13:59:50.667] [debug] hyprland IPC received activewindowv2>>aaaba7ba5050
+[2024-04-04 13:59:50.713] [debug] hyprland IPC received windowtitle>>aaaba7ba5050
+[2024-04-04 13:59:50.714] [debug] hyprland IPC received activewindow>>kitty,teo@Billy:~
+[2024-04-04 13:59:50.715] [debug] hyprland IPC received activewindowv2>>aaaba7ba5050
+[2024-04-04 13:59:52.204] [debug] hyprland IPC received windowtitle>>aaaba7ba5050
+[2024-04-04 13:59:52.205] [debug] hyprland IPC received activewindow>>kitty,cd .config/waybar
+[2024-04-04 13:59:52.207] [debug] hyprland IPC received activewindowv2>>aaaba7ba5050
+[2024-04-04 13:59:52.208] [debug] hyprland IPC received windowtitle>>aaaba7ba5050
+[2024-04-04 13:59:52.209] [debug] hyprland IPC received activewindow>>kitty,~/.config/waybar
+[2024-04-04 13:59:52.210] [debug] hyprland IPC received activewindowv2>>aaaba7ba5050
+[2024-04-04 13:59:52.211] [debug] hyprland IPC received windowtitle>>aaaba7ba5050
+[2024-04-04 13:59:52.213] [debug] hyprland IPC received activewindow>>kitty,teo@Billy:~/.config/waybar
+[2024-04-04 13:59:52.214] [debug] hyprland IPC received activewindowv2>>aaaba7ba5050
+[2024-04-04 13:59:52.876] [debug] hyprland IPC received windowtitle>>aaaba7ba5050
+[2024-04-04 13:59:52.877] [debug] hyprland IPC received activewindow>>kitty,clear
+[2024-04-04 13:59:52.879] [debug] hyprland IPC received activewindowv2>>aaaba7ba5050
+[2024-04-04 13:59:52.880] [debug] hyprland IPC received windowtitle>>aaaba7ba5050
+[2024-04-04 13:59:52.881] [debug] hyprland IPC received activewindow>>kitty,~/.config/waybar
+[2024-04-04 13:59:52.883] [debug] hyprland IPC received activewindowv2>>aaaba7ba5050
+[2024-04-04 13:59:52.884] [debug] hyprland IPC received windowtitle>>aaaba7ba5050
+[2024-04-04 13:59:52.885] [debug] hyprland IPC received activewindow>>kitty,teo@Billy:~/.config/waybar
+[2024-04-04 13:59:52.887] [debug] hyprland IPC received activewindowv2>>aaaba7ba5050
+[2024-04-04 13:59:54.507] [debug] hyprland IPC received windowtitle>>aaaba7ba5050
+[2024-04-04 13:59:54.508] [debug] hyprland IPC received activewindow>>kitty,lvim config
+[2024-04-04 13:59:54.509] [debug] hyprland IPC received activewindowv2>>aaaba7ba5050
+[2024-04-04 13:59:54.835] [debug] hyprland IPC received windowtitle>>aaaba7ba5050
+[2024-04-04 13:59:54.836] [debug] hyprland IPC received activewindow>>kitty,config (~/.config/waybar) - NVIM
+[2024-04-04 13:59:54.838] [debug] hyprland IPC received activewindowv2>>aaaba7ba5050
+[2024-04-04 13:59:58.702] [debug] hyprland IPC received windowtitle>>aaaba7ba5050
+[2024-04-04 13:59:58.703] [debug] hyprland IPC received activewindow>>kitty,config + (~/.config/waybar) - NVIM
+[2024-04-04 13:59:58.706] [debug] hyprland IPC received activewindowv2>>aaaba7ba5050
+[2024-04-04 14:00:00.554] [debug] hyprland IPC received windowtitle>>aaaba7ba5050
+[2024-04-04 14:00:00.556] [debug] hyprland IPC received activewindow>>kitty,config (~/.config/waybar) - NVIM
+[2024-04-04 14:00:00.558] [debug] hyprland IPC received activewindowv2>>aaaba7ba5050
+[2024-04-04 14:00:00.917] [debug] hyprland IPC received windowtitle>>aaaba7ba5050
+[2024-04-04 14:00:00.918] [debug] hyprland IPC received activewindow>>kitty,zsh;#toggleterm#1 - (term://~/.config/waybar//1829:/usr/bin) - NVIM
+[2024-04-04 14:00:00.921] [debug] hyprland IPC received activewindowv2>>aaaba7ba5050
+[2024-04-04 14:00:37.374] [debug] Try expanding: $XDG_CONFIG_HOME/waybar/config
+[2024-04-04 14:00:37.374] [debug] Try expanding: $XDG_CONFIG_HOME/waybar/config.jsonc
+[2024-04-04 14:00:37.374] [debug] Try expanding: $HOME/.config/waybar/config
+[2024-04-04 14:00:37.374] [debug] Found config file: $HOME/.config/waybar/config
+[2024-04-04 14:00:37.374] [info] Using configuration file /home/teo/.config/waybar/config
+[2024-04-04 14:00:37.435] [info] Discovered appearance 'dark'
+[2024-04-04 14:00:37.435] [debug] Try expanding: $XDG_CONFIG_HOME/waybar/style-dark.css
+[2024-04-04 14:00:37.435] [debug] Try expanding: $XDG_CONFIG_HOME/waybar/style.css
+[2024-04-04 14:00:37.435] [debug] Try expanding: $HOME/.config/waybar/style-dark.css
+[2024-04-04 14:00:37.435] [debug] Try expanding: $HOME/.config/waybar/style.css
+[2024-04-04 14:00:37.435] [debug] Found config file: $HOME/.config/waybar/style.css
+[2024-04-04 14:00:37.435] [info] Using CSS file /home/teo/.config/waybar/style.css
+[2024-04-04 14:00:37.439] [debug] Output detection done: eDP-1 ((null) (null))
+[2024-04-04 14:00:37.440] [warning] Mapping is not an object
+[2024-04-04 14:00:37.440] [info] Hyprland IPC starting
+[2024-04-04 14:00:37.443] [debug] network: new default route via 172.20.0.1 on if2 metric 600
+[2024-04-04 14:00:37.444] [debug] network: wlp1s0f0, new addr 172.20.8.173/20
+[2024-04-04 14:00:37.444] [debug] network: wlp1s0f0, new addr 172.20.8.173/20
+[2024-04-04 14:00:37.454] [debug] GTK widget tree:
+window#waybar.background.top.empty.eDP-1..mode-default:dir(ltr)
+  decoration:dir(ltr)
+  box.horizontal:dir(ltr)
+    box.horizontal.modules-left:dir(ltr)
+      widget:dir(ltr)
+        label#custom-distro:dir(ltr)
+      widget:dir(ltr)
+        box#workspaces.horizontal:dir(ltr)
+          button.flat:dir(ltr)
+            box.horizontal:dir(ltr)
+              label:dir(ltr)
+          button.flat:dir(ltr)
+            box.horizontal:dir(ltr)
+              label:dir(ltr)
+          button.flat:dir(ltr)
+            box.horizontal:dir(ltr)
+              label:dir(ltr)
+          button.flat:dir(ltr)
+            box.horizontal:dir(ltr)
+              label:dir(ltr)
+      widget:dir(ltr)
+        box.horizontal:dir(ltr)
+          image:dir(ltr)
+          label#window:dir(ltr)
+    box.horizontal.modules-center:dir(ltr)
+      widget:dir(ltr)
+        label#clock:dir(ltr)
+    box.horizontal.modules-right:dir(ltr)
+      widget:dir(ltr)
+        label#backlight:dir(ltr)
+      widget:dir(ltr)
+        label#custom-spacer:dir(ltr)
+      widget:dir(ltr)
+        label#pulseaudio:dir(ltr)
+      widget:dir(ltr)
+        label#custom-spacer:dir(ltr)
+      widget:dir(ltr)
+        label#battery:dir(ltr)
+      widget:dir(ltr)
+        label#custom-spacer:dir(ltr)
+      widget:dir(ltr)
+        label#network:dir(ltr)
+
+[2024-04-04 14:00:37.458] [info] Bar configured (width: 1589, height: 34) for output: eDP-1
+[2024-04-04 14:00:37.459] [debug] hyprland IPC received openlayer>>waybar
+[2024-04-04 14:00:37.661] [debug] hyprland IPC received openlayer>>swww
+[2024-04-04 14:00:45.373] [debug] hyprland IPC received activewindow>>firefox,Mozilla Firefox
+[2024-04-04 14:00:45.385] [trace] Adding solo class: firefox
+[2024-04-04 14:00:45.386] [debug] hyprland IPC received activewindowv2>>aaab726d4d30
+[2024-04-04 14:00:45.387] [debug] hyprland IPC received openwindow>>aaab726d4d30,1,firefox,Mozilla Firefox
+[2024-04-04 14:00:55.687] [debug] hyprland IPC received windowtitle>>aaab726d4d30
+[2024-04-04 14:00:55.688] [debug] hyprland IPC received activewindow>>firefox,firefox transparency - Google Search — Mozilla Firefox
+[2024-04-04 14:00:55.690] [debug] hyprland IPC received activewindowv2>>aaab726d4d30
+[2024-04-04 14:00:57.976] [debug] hyprland IPC received windowtitle>>aaab726d4d30
+[2024-04-04 14:00:57.977] [debug] hyprland IPC received activewindow>>firefox,New Tab — Mozilla Firefox
+[2024-04-04 14:00:57.979] [debug] hyprland IPC received activewindowv2>>aaab726d4d30
+[2024-04-04 14:01:02.665] [debug] hyprland IPC received windowtitle>>aaab726d4d30
+[2024-04-04 14:01:02.666] [debug] hyprland IPC received activewindow>>firefox,Mozilla Firefox
+[2024-04-04 14:01:02.672] [debug] hyprland IPC received activewindowv2>>aaab726d4d30
+[2024-04-04 14:01:02.713] [debug] hyprland IPC received windowtitle>>aaab726d4d30
+[2024-04-04 14:01:02.714] [debug] hyprland IPC received activewindow>>firefox,Variables – Hyprland Wiki — Mozilla Firefox
+[2024-04-04 14:01:02.716] [debug] hyprland IPC received activewindowv2>>aaab726d4d30
+[2024-04-04 14:01:08.740] [debug] hyprland IPC received windowtitle>>aaab726d4d30
+[2024-04-04 14:01:08.741] [debug] hyprland IPC received activewindow>>firefox,Mozilla Firefox
+[2024-04-04 14:01:08.747] [debug] hyprland IPC received activewindowv2>>aaab726d4d30
+[2024-04-04 14:01:08.774] [debug] hyprland IPC received windowtitle>>aaab726d4d30
+[2024-04-04 14:01:08.775] [debug] hyprland IPC received activewindow>>firefox,Workspace Rules – Hyprland Wiki — Mozilla Firefox
+[2024-04-04 14:01:08.777] [debug] hyprland IPC received activewindowv2>>aaab726d4d30
+[2024-04-04 14:01:31.179] [debug] hyprland IPC received windowtitle>>aaab726d4d30
+[2024-04-04 14:01:31.181] [debug] hyprland IPC received activewindow>>firefox,Mozilla Firefox
+[2024-04-04 14:01:31.185] [debug] hyprland IPC received activewindowv2>>aaab726d4d30
+[2024-04-04 14:01:31.209] [debug] hyprland IPC received windowtitle>>aaab726d4d30
+[2024-04-04 14:01:31.211] [debug] hyprland IPC received activewindow>>firefox,Animations – Hyprland Wiki — Mozilla Firefox
+[2024-04-04 14:01:31.213] [debug] hyprland IPC received activewindowv2>>aaab726d4d30
+[2024-04-04 14:01:50.030] [debug] hyprland IPC received windowtitle>>aaab726d4d30
+[2024-04-04 14:01:50.031] [debug] hyprland IPC received activewindow>>firefox,Mozilla Firefox
+[2024-04-04 14:01:50.034] [debug] hyprland IPC received activewindowv2>>aaab726d4d30
+[2024-04-04 14:01:50.044] [debug] hyprland IPC received windowtitle>>aaab726d4d30
+[2024-04-04 14:01:50.045] [debug] hyprland IPC received activewindow>>firefox,Dwindle Layout – Hyprland Wiki — Mozilla Firefox
+[2024-04-04 14:01:50.047] [debug] hyprland IPC received activewindowv2>>aaab726d4d30
+[2024-04-04 14:02:04.690] [debug] hyprland IPC received windowtitle>>aaab726d4d30
+[2024-04-04 14:02:04.691] [debug] hyprland IPC received activewindowv2>>aaab726d4d30
+[2024-04-04 14:02:04.692] [debug] hyprland IPC received activewindow>>firefox,Mozilla Firefox
+[2024-04-04 14:02:04.749] [debug] hyprland IPC received windowtitle>>aaab726d4d30
+[2024-04-04 14:02:04.750] [debug] hyprland IPC received activewindow>>firefox,Window Rules – Hyprland Wiki — Mozilla Firefox
+[2024-04-04 14:02:04.754] [debug] hyprland IPC received activewindowv2>>aaab726d4d30
+[2024-04-04 14:04:27.841] [debug] hyprland IPC received windowtitle>>aaab726d4d30
+[2024-04-04 14:04:27.842] [debug] hyprland IPC received activewindowv2>>aaab726d4d30
+[2024-04-04 14:04:27.847] [debug] hyprland IPC received activewindow>>firefox,Mozilla Firefox
+[2024-04-04 14:04:28.907] [debug] hyprland IPC received windowtitle>>aaab726d4d30
+[2024-04-04 14:04:28.908] [debug] hyprland IPC received activewindow>>firefox,Perplexity — Mozilla Firefox
+[2024-04-04 14:04:28.909] [debug] hyprland IPC received activewindowv2>>aaab726d4d30
+[2024-04-04 14:04:48.265] [debug] hyprland IPC received windowtitle>>aaab726d4d30
+[2024-04-04 14:04:48.267] [debug] hyprland IPC received activewindow>>firefox,How can I make a specific window on hyprland (eg. firefox) be transparent... — Mozilla Firefox
+[2024-04-04 14:04:48.275] [debug] hyprland IPC received activewindowv2>>aaab726d4d30
+[2024-04-04 14:04:51.657] [debug] hyprland IPC received createworkspace>>2
+[2024-04-04 14:04:51.660] [debug] hyprland IPC received createworkspacev2>>2,2
+[2024-04-04 14:04:51.662] [debug] hyprland IPC received activewindow>>,
+[2024-04-04 14:04:51.668] [debug] hyprland IPC received activewindowv2>>,
+[2024-04-04 14:04:51.669] [debug] hyprland IPC received workspace>>2
+[2024-04-04 14:04:51.670] [debug] hyprland IPC received workspacev2>>2,2
+[2024-04-04 14:04:51.670] [trace] Removing solo class: firefox
+[2024-04-04 14:04:52.351] [debug] hyprland IPC received activewindow>>kitty,zsh
+[2024-04-04 14:04:52.353] [trace] Adding solo class: kitty
+[2024-04-04 14:04:52.354] [debug] hyprland IPC received activewindowv2>>aaab72718af0
+[2024-04-04 14:04:52.355] [debug] hyprland IPC received openwindow>>aaab72718af0,2,kitty,zsh
+[2024-04-04 14:04:52.469] [debug] hyprland IPC received windowtitle>>aaab72718af0
+[2024-04-04 14:04:52.470] [debug] hyprland IPC received activewindow>>kitty,~
+[2024-04-04 14:04:52.472] [debug] hyprland IPC received activewindowv2>>aaab72718af0
+[2024-04-04 14:04:52.473] [debug] hyprland IPC received windowtitle>>aaab72718af0
+[2024-04-04 14:04:52.474] [debug] hyprland IPC received activewindow>>kitty,teo@Billy:~
+[2024-04-04 14:04:52.476] [debug] hyprland IPC received activewindowv2>>aaab72718af0
+[2024-04-04 14:04:56.034] [debug] hyprland IPC received windowtitle>>aaab72718af0
+[2024-04-04 14:04:56.035] [debug] hyprland IPC received activewindow>>kitty,cd .config/hypr
+[2024-04-04 14:04:56.037] [debug] hyprland IPC received activewindowv2>>aaab72718af0
+[2024-04-04 14:04:56.038] [debug] hyprland IPC received windowtitle>>aaab72718af0
+[2024-04-04 14:04:56.039] [debug] hyprland IPC received activewindow>>kitty,~/.config/hypr
+[2024-04-04 14:04:56.041] [debug] hyprland IPC received activewindowv2>>aaab72718af0
+[2024-04-04 14:04:56.042] [debug] hyprland IPC received windowtitle>>aaab72718af0
+[2024-04-04 14:04:56.043] [debug] hyprland IPC received activewindow>>kitty,teo@Billy:~/.config/hypr
+[2024-04-04 14:04:56.045] [debug] hyprland IPC received activewindowv2>>aaab72718af0
+[2024-04-04 14:04:57.691] [debug] hyprland IPC received windowtitle>>aaab72718af0
+[2024-04-04 14:04:57.692] [debug] hyprland IPC received activewindowv2>>aaab72718af0
+[2024-04-04 14:04:57.693] [debug] hyprland IPC received activewindow>>kitty,lvim hyprland.conf
+[2024-04-04 14:04:57.828] [debug] hyprland IPC received windowtitle>>aaab72718af0
+[2024-04-04 14:04:57.829] [debug] hyprland IPC received activewindow>>kitty,hyprland.conf (~/.config/hypr) - NVIM
+[2024-04-04 14:04:57.831] [debug] hyprland IPC received activewindowv2>>aaab72718af0
+[2024-04-04 14:05:11.746] [debug] hyprland IPC received windowtitle>>aaab72718af0
+[2024-04-04 14:05:11.747] [debug] hyprland IPC received activewindow>>kitty,hyprland.conf + (~/.config/hypr) - NVIM
+[2024-04-04 14:05:11.749] [debug] hyprland IPC received activewindowv2>>aaab72718af0
+[2024-04-04 14:05:15.795] [debug] hyprland IPC received windowtitle>>aaab72718af0
+[2024-04-04 14:05:15.797] [debug] hyprland IPC received activewindow>>kitty,hyprland.conf (~/.config/hypr) - NVIM
+[2024-04-04 14:05:15.798] [debug] hyprland IPC received activewindowv2>>aaab72718af0
+[2024-04-04 14:05:16.313] [debug] hyprland IPC received activelayout>>apple-internal-keyboard-/-trackpad,English (US)
+[2024-04-04 14:05:16.325] [debug] hyprland IPC received activelayout>>apple-internal-keyboard-/-trackpad,English (US)
+[2024-04-04 14:05:16.337] [debug] hyprland IPC received activelayout>>apple-smc-power/lid-events,English (US)
+[2024-04-04 14:05:16.345] [debug] hyprland IPC received activelayout>>apple-smc-power/lid-events,English (US)
+[2024-04-04 14:05:16.402] [debug] hyprland IPC received configreloaded>>
+[2024-04-04 14:05:18.701] [debug] hyprland IPC received windowtitle>>aaab72718af0
+[2024-04-04 14:05:18.702] [debug] hyprland IPC received activewindow>>kitty,hyprland.conf + (~/.config/hypr) - NVIM
+[2024-04-04 14:05:18.704] [debug] hyprland IPC received activewindowv2>>aaab72718af0
+[2024-04-04 14:05:19.527] [debug] hyprland IPC received windowtitle>>aaab72718af0
+[2024-04-04 14:05:19.528] [debug] hyprland IPC received activewindow>>kitty,hyprland.conf (~/.config/hypr) - NVIM
+[2024-04-04 14:05:19.531] [debug] hyprland IPC received activewindowv2>>aaab72718af0
+[2024-04-04 14:05:20.408] [debug] hyprland IPC received activelayout>>apple-internal-keyboard-/-trackpad,English (US)
+[2024-04-04 14:05:20.414] [debug] hyprland IPC received activelayout>>apple-internal-keyboard-/-trackpad,English (US)
+[2024-04-04 14:05:20.423] [debug] hyprland IPC received activelayout>>apple-smc-power/lid-events,English (US)
+[2024-04-04 14:05:20.431] [debug] hyprland IPC received activelayout>>apple-smc-power/lid-events,English (US)
+[2024-04-04 14:05:20.472] [debug] hyprland IPC received configreloaded>>
+[2024-04-04 14:05:28.901] [debug] hyprland IPC received activewindow>>firefox,How can I make a specific window on hyprland (eg. firefox) be transparent... — Mozilla Firefox
+[2024-04-04 14:05:28.911] [trace] Removing solo class: kitty
+[2024-04-04 14:05:28.911] [trace] Adding solo class: firefox
+[2024-04-04 14:05:28.917] [debug] hyprland IPC received activewindowv2>>aaab726d4d30
+[2024-04-04 14:05:28.918] [debug] hyprland IPC received workspace>>1
+[2024-04-04 14:05:28.919] [debug] hyprland IPC received workspacev2>>1,1
+[2024-04-04 14:05:32.465] [debug] hyprland IPC received windowtitle>>aaab726d4d30
+[2024-04-04 14:05:32.467] [debug] hyprland IPC received activewindow>>firefox,Mozilla Firefox
+[2024-04-04 14:05:32.473] [debug] hyprland IPC received activewindowv2>>aaab726d4d30
+[2024-04-04 14:05:34.184] [debug] hyprland IPC received activewindow>>kitty,hyprland.conf (~/.config/hypr) - NVIM
+[2024-04-04 14:05:34.187] [trace] Removing solo class: firefox
+[2024-04-04 14:05:34.187] [trace] Adding solo class: kitty
+[2024-04-04 14:05:34.188] [debug] hyprland IPC received activewindowv2>>aaab72718af0
+[2024-04-04 14:05:34.189] [debug] hyprland IPC received workspace>>2
+[2024-04-04 14:05:34.190] [debug] hyprland IPC received workspacev2>>2,2
+[2024-04-04 14:05:38.879] [debug] hyprland IPC received windowtitle>>aaab72718af0
+[2024-04-04 14:05:38.880] [debug] hyprland IPC received activewindow>>kitty,hyprland.conf + (~/.config/hypr) - NVIM
+[2024-04-04 14:05:38.882] [debug] hyprland IPC received activewindowv2>>aaab72718af0
+[2024-04-04 14:05:39.544] [debug] hyprland IPC received windowtitle>>aaab72718af0
+[2024-04-04 14:05:39.545] [debug] hyprland IPC received activewindow>>kitty,hyprland.conf (~/.config/hypr) - NVIM
+[2024-04-04 14:05:39.549] [debug] hyprland IPC received activewindowv2>>aaab72718af0
+[2024-04-04 14:05:40.149] [debug] hyprland IPC received activewindow>>firefox,Mozilla Firefox
+[2024-04-04 14:05:40.151] [debug] hyprland IPC received activewindowv2>>aaab726d4d30
+[2024-04-04 14:05:40.153] [debug] hyprland IPC received workspace>>1
+[2024-04-04 14:05:40.153] [trace] Removing solo class: kitty
+[2024-04-04 14:05:40.153] [trace] Adding solo class: firefox
+[2024-04-04 14:05:40.154] [debug] hyprland IPC received workspacev2>>1,1
+[2024-04-04 14:05:40.493] [debug] hyprland IPC received activelayout>>apple-internal-keyboard-/-trackpad,English (US)
+[2024-04-04 14:05:40.501] [debug] hyprland IPC received activelayout>>apple-internal-keyboard-/-trackpad,English (US)
+[2024-04-04 14:05:40.510] [debug] hyprland IPC received activelayout>>apple-smc-power/lid-events,English (US)
+[2024-04-04 14:05:40.516] [debug] hyprland IPC received activelayout>>apple-smc-power/lid-events,English (US)
+[2024-04-04 14:05:40.551] [debug] hyprland IPC received configreloaded>>
+[2024-04-04 14:05:42.948] [debug] hyprland IPC received activewindow>>kitty,hyprland.conf (~/.config/hypr) - NVIM
+[2024-04-04 14:05:42.959] [debug] hyprland IPC received activewindowv2>>aaab72718af0
+[2024-04-04 14:05:42.961] [trace] Removing solo class: firefox
+[2024-04-04 14:05:42.961] [trace] Adding solo class: kitty
+[2024-04-04 14:05:42.961] [debug] hyprland IPC received workspace>>2
+[2024-04-04 14:05:42.962] [debug] hyprland IPC received workspacev2>>2,2
+[2024-04-04 14:05:50.143] [debug] hyprland IPC received windowtitle>>aaab72718af0
+[2024-04-04 14:05:50.144] [debug] hyprland IPC received activewindow>>kitty,hyprland.conf + (~/.config/hypr) - NVIM
+[2024-04-04 14:05:50.146] [debug] hyprland IPC received activewindowv2>>aaab72718af0
+[2024-04-04 14:05:50.892] [debug] hyprland IPC received windowtitle>>aaab72718af0
+[2024-04-04 14:05:50.893] [debug] hyprland IPC received activewindow>>kitty,hyprland.conf (~/.config/hypr) - NVIM
+[2024-04-04 14:05:50.895] [debug] hyprland IPC received activewindowv2>>aaab72718af0
+[2024-04-04 14:05:51.480] [debug] hyprland IPC received activewindow>>firefox,Mozilla Firefox
+[2024-04-04 14:05:51.484] [trace] Removing solo class: kitty
+[2024-04-04 14:05:51.484] [trace] Adding solo class: firefox
+[2024-04-04 14:05:51.485] [debug] hyprland IPC received activewindowv2>>aaab726d4d30
+[2024-04-04 14:05:51.486] [debug] hyprland IPC received workspace>>1
+[2024-04-04 14:05:51.487] [debug] hyprland IPC received workspacev2>>1,1
+[2024-04-04 14:05:51.572] [debug] hyprland IPC received activelayout>>apple-internal-keyboard-/-trackpad,English (US)
+[2024-04-04 14:05:51.579] [debug] hyprland IPC received activelayout>>apple-internal-keyboard-/-trackpad,English (US)
+[2024-04-04 14:05:51.587] [debug] hyprland IPC received activelayout>>apple-smc-power/lid-events,English (US)
+[2024-04-04 14:05:51.592] [debug] hyprland IPC received activelayout>>apple-smc-power/lid-events,English (US)
+[2024-04-04 14:05:51.648] [debug] hyprland IPC received configreloaded>>
+[2024-04-04 14:05:54.992] [debug] hyprland IPC received windowtitle>>aaab726d4d30
+[2024-04-04 14:05:54.994] [debug] hyprland IPC received activewindow>>firefox,New Tab — Mozilla Firefox
+[2024-04-04 14:05:55.001] [debug] hyprland IPC received activewindowv2>>aaab726d4d30
+[2024-04-04 14:05:56.713] [debug] hyprland IPC received windowtitle>>aaab726d4d30
+[2024-04-04 14:05:56.714] [debug] hyprland IPC received activewindow>>firefox,How can I make a specific window on hyprland (eg. firefox) be transparent... — Mozilla Firefox
+[2024-04-04 14:05:56.717] [debug] hyprland IPC received activewindowv2>>aaab726d4d30
+[2024-04-04 14:06:02.010] [debug] hyprland IPC received activewindow>>kitty,hyprland.conf (~/.config/hypr) - NVIM
+[2024-04-04 14:06:02.012] [trace] Removing solo class: firefox
+[2024-04-04 14:06:02.012] [trace] Adding solo class: kitty
+[2024-04-04 14:06:02.013] [debug] hyprland IPC received activewindowv2>>aaab72718af0
+[2024-04-04 14:06:02.014] [debug] hyprland IPC received workspace>>2
+[2024-04-04 14:06:02.015] [debug] hyprland IPC received workspacev2>>2,2
+[2024-04-04 14:06:06.432] [debug] hyprland IPC received windowtitle>>aaab72718af0
+[2024-04-04 14:06:06.433] [debug] hyprland IPC received activewindowv2>>aaab72718af0
+[2024-04-04 14:06:06.434] [debug] hyprland IPC received activewindow>>kitty,hyprland.conf + (~/.config/hypr) - NVIM
+[2024-04-04 14:06:07.097] [debug] hyprland IPC received windowtitle>>aaab72718af0
+[2024-04-04 14:06:07.098] [debug] hyprland IPC received activewindow>>kitty,hyprland.conf (~/.config/hypr) - NVIM
+[2024-04-04 14:06:07.101] [debug] hyprland IPC received activewindowv2>>aaab72718af0
+[2024-04-04 14:06:07.677] [debug] hyprland IPC received activelayout>>apple-internal-keyboard-/-trackpad,English (US)
+[2024-04-04 14:06:07.686] [debug] hyprland IPC received activelayout>>apple-internal-keyboard-/-trackpad,English (US)
+[2024-04-04 14:06:07.701] [debug] hyprland IPC received activelayout>>apple-smc-power/lid-events,English (US)
+[2024-04-04 14:06:07.706] [debug] hyprland IPC received activelayout>>apple-smc-power/lid-events,English (US)
+[2024-04-04 14:06:07.754] [debug] hyprland IPC received configreloaded>>
+[2024-04-04 14:06:07.759] [debug] hyprland IPC received activewindow>>firefox,How can I make a specific window on hyprland (eg. firefox) be transparent... — Mozilla Firefox
+[2024-04-04 14:06:07.761] [debug] hyprland IPC received activewindowv2>>aaab726d4d30
+[2024-04-04 14:06:07.762] [debug] hyprland IPC received workspace>>1
+[2024-04-04 14:06:07.763] [debug] hyprland IPC received workspacev2>>1,1
+[2024-04-04 14:06:07.765] [trace] Removing solo class: kitty
+[2024-04-04 14:06:07.765] [trace] Adding solo class: firefox
+[2024-04-04 14:06:11.395] [debug] hyprland IPC received activewindow>>kitty,hyprland.conf (~/.config/hypr) - NVIM
+[2024-04-04 14:06:11.397] [trace] Removing solo class: firefox
+[2024-04-04 14:06:11.397] [trace] Adding solo class: kitty
+[2024-04-04 14:06:11.398] [debug] hyprland IPC received activewindowv2>>aaab72718af0
+[2024-04-04 14:06:11.399] [debug] hyprland IPC received workspace>>2
+[2024-04-04 14:06:11.400] [debug] hyprland IPC received workspacev2>>2,2
+[2024-04-04 14:06:12.037] [debug] hyprland IPC received activewindow>>firefox,How can I make a specific window on hyprland (eg. firefox) be transparent... — Mozilla Firefox
+[2024-04-04 14:06:12.040] [debug] hyprland IPC received activewindowv2>>aaab726d4d30
+[2024-04-04 14:06:12.041] [debug] hyprland IPC received workspace>>1
+[2024-04-04 14:06:12.042] [debug] hyprland IPC received workspacev2>>1,1
+[2024-04-04 14:06:12.042] [trace] Removing solo class: kitty
+[2024-04-04 14:06:12.053] [trace] Adding solo class: firefox
+[2024-04-04 14:06:12.940] [debug] hyprland IPC received activewindow>>kitty,hyprland.conf (~/.config/hypr) - NVIM
+[2024-04-04 14:06:12.942] [trace] Removing solo class: firefox
+[2024-04-04 14:06:12.942] [trace] Adding solo class: kitty
+[2024-04-04 14:06:12.944] [debug] hyprland IPC received activewindowv2>>aaab72718af0
+[2024-04-04 14:06:12.945] [debug] hyprland IPC received workspace>>2
+[2024-04-04 14:06:12.946] [debug] hyprland IPC received workspacev2>>2,2
+[2024-04-04 14:06:22.660] [debug] hyprland IPC received windowtitle>>aaab72718af0
+[2024-04-04 14:06:22.661] [debug] hyprland IPC received activewindow>>kitty,hyprland.conf + (~/.config/hypr) - NVIM
+[2024-04-04 14:06:22.664] [debug] hyprland IPC received activewindowv2>>aaab72718af0
+[2024-04-04 14:06:23.382] [debug] hyprland IPC received windowtitle>>aaab72718af0
+[2024-04-04 14:06:23.384] [debug] hyprland IPC received activewindow>>kitty,hyprland.conf (~/.config/hypr) - NVIM
+[2024-04-04 14:06:23.386] [debug] hyprland IPC received activewindowv2>>aaab72718af0
+[2024-04-04 14:06:23.771] [debug] hyprland IPC received activelayout>>apple-internal-keyboard-/-trackpad,English (US)
+[2024-04-04 14:06:23.774] [debug] hyprland IPC received activelayout>>apple-internal-keyboard-/-trackpad,English (US)
+[2024-04-04 14:06:23.781] [debug] hyprland IPC received activelayout>>apple-smc-power/lid-events,English (US)
+[2024-04-04 14:06:23.785] [debug] hyprland IPC received activelayout>>apple-smc-power/lid-events,English (US)
+[2024-04-04 14:06:23.818] [debug] hyprland IPC received configreloaded>>
+[2024-04-04 14:06:23.873] [debug] hyprland IPC received activewindow>>firefox,How can I make a specific window on hyprland (eg. firefox) be transparent... — Mozilla Firefox
+[2024-04-04 14:06:23.875] [trace] Removing solo class: kitty
+[2024-04-04 14:06:23.875] [trace] Adding solo class: firefox
+[2024-04-04 14:06:23.876] [debug] hyprland IPC received activewindowv2>>aaab726d4d30
+[2024-04-04 14:06:23.877] [debug] hyprland IPC received workspace>>1
+[2024-04-04 14:06:23.878] [debug] hyprland IPC received workspacev2>>1,1
+[2024-04-04 14:06:26.843] [debug] hyprland IPC received activewindow>>kitty,hyprland.conf (~/.config/hypr) - NVIM
+[2024-04-04 14:06:26.846] [trace] Removing solo class: firefox
+[2024-04-04 14:06:26.846] [trace] Adding solo class: kitty
+[2024-04-04 14:06:26.846] [debug] hyprland IPC received activewindowv2>>aaab72718af0
+[2024-04-04 14:06:26.847] [debug] hyprland IPC received workspace>>2
+[2024-04-04 14:06:26.849] [debug] hyprland IPC received workspacev2>>2,2
+[2024-04-04 14:06:30.519] [debug] hyprland IPC received windowtitle>>aaab72718af0
+[2024-04-04 14:06:30.520] [debug] hyprland IPC received activewindow>>kitty,hyprland.conf + (~/.config/hypr) - NVIM
+[2024-04-04 14:06:30.522] [debug] hyprland IPC received activewindowv2>>aaab72718af0
+[2024-04-04 14:06:31.249] [debug] hyprland IPC received windowtitle>>aaab72718af0
+[2024-04-04 14:06:31.251] [debug] hyprland IPC received activewindow>>kitty,hyprland.conf (~/.config/hypr) - NVIM
+[2024-04-04 14:06:31.254] [debug] hyprland IPC received activewindowv2>>aaab72718af0
+[2024-04-04 14:06:31.743] [debug] hyprland IPC received activewindow>>firefox,How can I make a specific window on hyprland (eg. firefox) be transparent... — Mozilla Firefox
+[2024-04-04 14:06:31.751] [trace] Removing solo class: kitty
+[2024-04-04 14:06:31.751] [trace] Adding solo class: firefox
+[2024-04-04 14:06:31.760] [debug] hyprland IPC received activewindowv2>>aaab726d4d30
+[2024-04-04 14:06:31.761] [debug] hyprland IPC received workspace>>1
+[2024-04-04 14:06:31.762] [debug] hyprland IPC received workspacev2>>1,1
+[2024-04-04 14:06:31.833] [debug] hyprland IPC received activelayout>>apple-internal-keyboard-/-trackpad,English (US)
+[2024-04-04 14:06:31.838] [debug] hyprland IPC received activelayout>>apple-internal-keyboard-/-trackpad,English (US)
+[2024-04-04 14:06:31.844] [debug] hyprland IPC received activelayout>>apple-smc-power/lid-events,English (US)
+[2024-04-04 14:06:31.849] [debug] hyprland IPC received activelayout>>apple-smc-power/lid-events,English (US)
+[2024-04-04 14:06:31.881] [debug] hyprland IPC received configreloaded>>
+[2024-04-04 14:06:41.850] [debug] hyprland IPC received activewindow>>kitty,hyprland.conf (~/.config/hypr) - NVIM
+[2024-04-04 14:06:41.856] [trace] Removing solo class: firefox
+[2024-04-04 14:06:41.856] [trace] Adding solo class: kitty
+[2024-04-04 14:06:41.861] [debug] hyprland IPC received activewindowv2>>aaab72718af0
+[2024-04-04 14:06:41.863] [debug] hyprland IPC received workspace>>2
+[2024-04-04 14:06:41.864] [debug] hyprland IPC received workspacev2>>2,2
+[2024-04-04 14:06:44.823] [debug] hyprland IPC received windowtitle>>aaab72718af0
+[2024-04-04 14:06:44.825] [debug] hyprland IPC received activewindow>>kitty,hyprland.conf + (~/.config/hypr) - NVIM
+[2024-04-04 14:06:44.828] [debug] hyprland IPC received activewindowv2>>aaab72718af0
+[2024-04-04 14:06:45.459] [debug] hyprland IPC received windowtitle>>aaab72718af0
+[2024-04-04 14:06:45.460] [debug] hyprland IPC received activewindow>>kitty,hyprland.conf (~/.config/hypr) - NVIM
+[2024-04-04 14:06:45.463] [debug] hyprland IPC received activewindowv2>>aaab72718af0
+[2024-04-04 14:06:45.914] [debug] hyprland IPC received activelayout>>apple-internal-keyboard-/-trackpad,English (US)
+[2024-04-04 14:06:45.926] [debug] hyprland IPC received activelayout>>apple-internal-keyboard-/-trackpad,English (US)
+[2024-04-04 14:06:45.937] [debug] hyprland IPC received activelayout>>apple-smc-power/lid-events,English (US)
+[2024-04-04 14:06:45.945] [debug] hyprland IPC received activelayout>>apple-smc-power/lid-events,English (US)
+[2024-04-04 14:06:45.986] [debug] hyprland IPC received configreloaded>>
+[2024-04-04 14:06:46.057] [debug] hyprland IPC received activewindow>>firefox,How can I make a specific window on hyprland (eg. firefox) be transparent... — Mozilla Firefox
+[2024-04-04 14:06:46.059] [debug] hyprland IPC received activewindowv2>>aaab726d4d30
+[2024-04-04 14:06:46.060] [debug] hyprland IPC received workspace>>1
+[2024-04-04 14:06:46.061] [debug] hyprland IPC received workspacev2>>1,1
+[2024-04-04 14:06:46.061] [trace] Removing solo class: kitty
+[2024-04-04 14:06:46.061] [trace] Adding solo class: firefox
+[2024-04-04 14:06:48.044] [debug] hyprland IPC received activewindow>>kitty,hyprland.conf (~/.config/hypr) - NVIM
+[2024-04-04 14:06:48.051] [trace] Removing solo class: firefox
+[2024-04-04 14:06:48.051] [trace] Adding solo class: kitty
+[2024-04-04 14:06:48.052] [debug] hyprland IPC received activewindowv2>>aaab72718af0
+[2024-04-04 14:06:48.053] [debug] hyprland IPC received workspace>>2
+[2024-04-04 14:06:48.054] [debug] hyprland IPC received workspacev2>>2,2
+[2024-04-04 14:06:48.807] [debug] hyprland IPC received activewindow>>firefox,How can I make a specific window on hyprland (eg. firefox) be transparent... — Mozilla Firefox
+[2024-04-04 14:06:48.813] [trace] Removing solo class: kitty
+[2024-04-04 14:06:48.814] [trace] Adding solo class: firefox
+[2024-04-04 14:06:48.816] [debug] hyprland IPC received activewindowv2>>aaab726d4d30
+[2024-04-04 14:06:48.817] [debug] hyprland IPC received workspace>>1
+[2024-04-04 14:06:48.818] [debug] hyprland IPC received workspacev2>>1,1
+[2024-04-04 14:06:49.483] [debug] hyprland IPC received activewindow>>kitty,zsh
+[2024-04-04 14:06:49.484] [trace] Removing solo class: firefox
+[2024-04-04 14:06:49.484] [debug] hyprland IPC received activewindowv2>>aaab72494cd0
+[2024-04-04 14:06:49.486] [debug] hyprland IPC received openwindow>>aaab72494cd0,1,kitty,zsh
+[2024-04-04 14:06:49.619] [debug] hyprland IPC received windowtitle>>aaab72494cd0
+[2024-04-04 14:06:49.621] [debug] hyprland IPC received activewindow>>kitty,~
+[2024-04-04 14:06:49.623] [debug] hyprland IPC received activewindowv2>>aaab72494cd0
+[2024-04-04 14:06:49.649] [debug] hyprland IPC received windowtitle>>aaab72494cd0
+[2024-04-04 14:06:49.650] [debug] hyprland IPC received activewindow>>kitty,teo@Billy:~
+[2024-04-04 14:06:49.652] [debug] hyprland IPC received activewindowv2>>aaab72494cd0
+[2024-04-04 14:06:51.986] [debug] hyprland IPC received closewindow>>aaab72494cd0
+[2024-04-04 14:06:52.008] [debug] hyprland IPC received activewindow>>firefox,How can I make a specific window on hyprland (eg. firefox) be transparent... — Mozilla Firefox
+[2024-04-04 14:06:52.014] [trace] Adding solo class: firefox
+[2024-04-04 14:06:52.015] [debug] hyprland IPC received activewindowv2>>aaab726d4d30
+[2024-04-04 14:06:55.946] [debug] hyprland IPC received windowtitle>>aaab726d4d30
+[2024-04-04 14:06:55.948] [debug] hyprland IPC received activewindow>>firefox,New Tab — Mozilla Firefox
+[2024-04-04 14:06:55.950] [debug] hyprland IPC received activewindowv2>>aaab726d4d30
+[2024-04-04 14:06:58.113] [debug] hyprland IPC received windowtitle>>aaab726d4d30
+[2024-04-04 14:06:58.116] [debug] hyprland IPC received activewindow>>firefox,How can I make a specific window on hyprland (eg. firefox) be transparent... — Mozilla Firefox
+[2024-04-04 14:06:58.127] [debug] hyprland IPC received activewindowv2>>aaab726d4d30
+[2024-04-04 14:06:58.747] [debug] hyprland IPC received windowtitle>>aaab726d4d30
+[2024-04-04 14:06:58.748] [debug] hyprland IPC received activewindow>>firefox,Window Rules – Hyprland Wiki — Mozilla Firefox
+[2024-04-04 14:06:58.750] [debug] hyprland IPC received activewindowv2>>aaab726d4d30
+[2024-04-04 14:06:59.539] [debug] hyprland IPC received windowtitle>>aaab726d4d30
+[2024-04-04 14:06:59.540] [debug] hyprland IPC received activewindow>>firefox,Mozilla Firefox
+[2024-04-04 14:06:59.545] [debug] hyprland IPC received activewindowv2>>aaab726d4d30
+[2024-04-04 14:07:00.273] [debug] hyprland IPC received windowtitle>>aaab726d4d30
+[2024-04-04 14:07:00.275] [debug] hyprland IPC received activewindow>>firefox,Window Rules – Hyprland Wiki — Mozilla Firefox
+[2024-04-04 14:07:00.279] [debug] hyprland IPC received activewindowv2>>aaab726d4d30
+[2024-04-04 14:07:00.584] [debug] hyprland IPC received windowtitle>>aaab726d4d30
+[2024-04-04 14:07:00.585] [debug] hyprland IPC received activewindow>>firefox,New Tab — Mozilla Firefox
+[2024-04-04 14:07:00.587] [debug] hyprland IPC received activewindowv2>>aaab726d4d30
+[2024-04-04 14:07:00.935] [debug] hyprland IPC received activewindow>>kitty,hyprland.conf (~/.config/hypr) - NVIM
+[2024-04-04 14:07:00.940] [trace] Removing solo class: firefox
+[2024-04-04 14:07:00.940] [trace] Adding solo class: kitty
+[2024-04-04 14:07:00.944] [debug] hyprland IPC received activewindowv2>>aaab72718af0
+[2024-04-04 14:07:00.945] [debug] hyprland IPC received workspace>>2
+[2024-04-04 14:07:00.946] [debug] hyprland IPC received workspacev2>>2,2
+[2024-04-04 14:07:02.185] [debug] hyprland IPC received windowtitle>>aaab72718af0
+[2024-04-04 14:07:02.186] [debug] hyprland IPC received activewindow>>kitty,hyprland.conf + (~/.config/hypr) - NVIM
+[2024-04-04 14:07:02.187] [debug] hyprland IPC received activewindowv2>>aaab72718af0
+[2024-04-04 14:07:04.319] [debug] hyprland IPC received windowtitle>>aaab72718af0
+[2024-04-04 14:07:04.320] [debug] hyprland IPC received activewindow>>kitty,hyprland.conf (~/.config/hypr) - NVIM
+[2024-04-04 14:07:04.323] [debug] hyprland IPC received activewindowv2>>aaab72718af0
+[2024-04-04 14:07:05.023] [debug] hyprland IPC received activelayout>>apple-internal-keyboard-/-trackpad,English (US)
+[2024-04-04 14:07:05.035] [debug] hyprland IPC received activelayout>>apple-internal-keyboard-/-trackpad,English (US)
+[2024-04-04 14:07:05.047] [debug] hyprland IPC received activelayout>>apple-smc-power/lid-events,English (US)
+[2024-04-04 14:07:05.054] [debug] hyprland IPC received activelayout>>apple-smc-power/lid-events,English (US)
+[2024-04-04 14:07:05.094] [debug] hyprland IPC received configreloaded>>
+[2024-04-04 14:07:14.483] [debug] hyprland IPC received windowtitle>>aaab72718af0
+[2024-04-04 14:07:14.484] [debug] hyprland IPC received activewindow>>kitty,lvim hyprland.conf
+[2024-04-04 14:07:14.486] [debug] hyprland IPC received activewindowv2>>aaab72718af0
+[2024-04-04 14:07:14.487] [debug] hyprland IPC received activewindow>>kitty,~/.config/hypr
+[2024-04-04 14:07:14.488] [debug] hyprland IPC received activewindowv2>>aaab72718af0
+[2024-04-04 14:07:14.489] [debug] hyprland IPC received windowtitle>>aaab72718af0
+[2024-04-04 14:07:14.490] [debug] hyprland IPC received windowtitle>>aaab72718af0
+[2024-04-04 14:07:14.491] [debug] hyprland IPC received activewindow>>kitty,teo@Billy:~/.config/hypr
+[2024-04-04 14:07:14.493] [debug] hyprland IPC received activewindowv2>>aaab72718af0
+[2024-04-04 14:07:15.247] [debug] hyprland IPC received windowtitle>>aaab72718af0
+[2024-04-04 14:07:15.248] [debug] hyprland IPC received activewindow>>kitty,clear
+[2024-04-04 14:07:15.251] [debug] hyprland IPC received activewindowv2>>aaab72718af0
+[2024-04-04 14:07:15.252] [debug] hyprland IPC received windowtitle>>aaab72718af0
+[2024-04-04 14:07:15.253] [debug] hyprland IPC received activewindow>>kitty,~/.config/hypr
+[2024-04-04 14:07:15.255] [debug] hyprland IPC received activewindowv2>>aaab72718af0
+[2024-04-04 14:07:15.256] [debug] hyprland IPC received windowtitle>>aaab72718af0
+[2024-04-04 14:07:15.257] [debug] hyprland IPC received activewindow>>kitty,teo@Billy:~/.config/hypr
+[2024-04-04 14:07:15.259] [debug] hyprland IPC received activewindowv2>>aaab72718af0
+[2024-04-04 14:07:16.400] [debug] hyprland IPC received windowtitle>>aaab72718af0
+[2024-04-04 14:07:16.401] [debug] hyprland IPC received activewindow>>kitty,cd
+[2024-04-04 14:07:16.404] [debug] hyprland IPC received windowtitle>>aaab72718af0
+[2024-04-04 14:07:16.405] [debug] hyprland IPC received activewindow>>kitty,~
+[2024-04-04 14:07:16.407] [debug] hyprland IPC received activewindowv2>>aaab72718af0
+[2024-04-04 14:07:16.408] [debug] hyprland IPC received windowtitle>>aaab72718af0
+[2024-04-04 14:07:16.409] [debug] hyprland IPC received activewindow>>kitty,teo@Billy:~
+[2024-04-04 14:07:16.412] [debug] hyprland IPC received activewindowv2>>aaab72718af0
+[2024-04-04 14:07:16.413] [debug] hyprland IPC received activewindowv2>>aaab72718af0
+[2024-04-04 14:07:19.113] [debug] hyprland IPC received windowtitle>>aaab72718af0
+[2024-04-04 14:07:19.114] [debug] hyprland IPC received activewindow>>kitty,cd Repos/dotfiles
+[2024-04-04 14:07:19.121] [debug] hyprland IPC received activewindowv2>>aaab72718af0
+[2024-04-04 14:07:19.122] [debug] hyprland IPC received windowtitle>>aaab72718af0
+[2024-04-04 14:07:19.123] [debug] hyprland IPC received activewindow>>kitty,~/Repos/dotfiles
+[2024-04-04 14:07:19.124] [debug] hyprland IPC received activewindowv2>>aaab72718af0
+[2024-04-04 14:07:19.125] [debug] hyprland IPC received windowtitle>>aaab72718af0
+[2024-04-04 14:07:19.126] [debug] hyprland IPC received activewindow>>kitty,teo@Billy:~/Repos/dotfiles
+[2024-04-04 14:07:19.128] [debug] hyprland IPC received activewindowv2>>aaab72718af0
+[2024-04-04 14:07:19.664] [debug] hyprland IPC received windowtitle>>aaab72718af0
+[2024-04-04 14:07:19.665] [debug] hyprland IPC received activewindow>>kitty,clear
+[2024-04-04 14:07:19.668] [debug] hyprland IPC received activewindowv2>>aaab72718af0
+[2024-04-04 14:07:19.669] [debug] hyprland IPC received windowtitle>>aaab72718af0
+[2024-04-04 14:07:19.670] [debug] hyprland IPC received activewindow>>kitty,~/Repos/dotfiles
+[2024-04-04 14:07:19.672] [debug] hyprland IPC received activewindowv2>>aaab72718af0
+[2024-04-04 14:07:19.673] [debug] hyprland IPC received windowtitle>>aaab72718af0
+[2024-04-04 14:07:19.674] [debug] hyprland IPC received activewindow>>kitty,teo@Billy:~/Repos/dotfiles
+[2024-04-04 14:07:19.675] [debug] hyprland IPC received activewindowv2>>aaab72718af0
+[2024-04-04 14:07:19.888] [debug] hyprland IPC received windowtitle>>aaab72718af0
+[2024-04-04 14:07:19.889] [debug] hyprland IPC received activewindow>>kitty,eza -al --color=always --group-directories-first --icons
+[2024-04-04 14:07:19.891] [debug] hyprland IPC received activewindowv2>>aaab72718af0
+[2024-04-04 14:07:19.892] [debug] hyprland IPC received windowtitle>>aaab72718af0
+[2024-04-04 14:07:19.894] [debug] hyprland IPC received activewindow>>kitty,ls
+[2024-04-04 14:07:19.897] [debug] hyprland IPC received activewindowv2>>aaab72718af0
+[2024-04-04 14:07:19.902] [debug] hyprland IPC received windowtitle>>aaab72718af0
+[2024-04-04 14:07:19.903] [debug] hyprland IPC received activewindow>>kitty,~/Repos/dotfiles
+[2024-04-04 14:07:19.906] [debug] hyprland IPC received activewindowv2>>aaab72718af0
+[2024-04-04 14:07:19.907] [debug] hyprland IPC received windowtitle>>aaab72718af0
+[2024-04-04 14:07:19.908] [debug] hyprland IPC received activewindow>>kitty,teo@Billy:~/Repos/dotfiles
+[2024-04-04 14:07:19.910] [debug] hyprland IPC received activewindowv2>>aaab72718af0
+[2024-04-04 14:07:22.938] [debug] hyprland IPC received windowtitle>>aaab72718af0
+[2024-04-04 14:07:22.939] [debug] hyprland IPC received activewindow>>kitty,./dotdrop.sh update
+[2024-04-04 14:07:22.942] [debug] hyprland IPC received activewindowv2>>aaab72718af0
