@@ -1,4 +1,5 @@
 {
+  // ------ General Config ------ //
   "layer": "top",
   "position": "top",
   "spacing": 4,
@@ -7,72 +8,67 @@
   "margin-left": 5,
   "margin-right": 5,
 
-  "modules-left": [
-    "custom/icon",
-    "custom/separator-gap",
-    "cpu",
-    "memory",
-    "temperature",
-    "custom/separator-arrow",
-    "hyprland/window",
-  ],
+  // ------ Define Sections ------ //
+  // Left
+  "modules-left": ["custom/distro", "hyprland/workspaces", "hyprland/window"],
 
-  "modules-center": [
-    "hyprland/workspaces",
-  ],
+  // Center
+  "modules-center": ["clock"],
 
+  // Right
   "modules-right": [
+    "backlight",
+    "custom/spacer",
     "pulseaudio",
-    "network",
+    "custom/spacer",
     "battery",
-    "tray",
-    "custom/separator-dot",
-    "clock",
+    "custom/spacer",
+    "network"
   ],
-  
-  "custom/icon": {
-    "format": "󰣛"
+
+  // ------ Module Settings ------ //
+  // Hyprland Workspaces
+  "hyprland/workspaces": {
+    "all-outputs": true,
+    "disable-scroll": true,
+    "format": "{icon}",
+    "format-icons": {
+      "1": "1",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "default": " "
+    },
+    "persistent-workspaces": {
+      "1": [],
+      "2": [],
+      "3": [],
+      "4": [],
+    }
   },
 
-  "cpu": {
-    "interval": 10,
-    "format": " {usage}%",
-    "max-length": 10,
-    "tooltip": false
-  },
-
-  "memory": {
-    "interval": 30,
-    "format": " {used}GiB",
-    "format-alt": " {used:0.1f}G",
-    "max-length": 10
-  },
-
-  "temperature": {
-    "format": " {temperatureF}°F"
-  },
-
+  // Hyprland Window
   "hyprland/window": {
     "format": " {}",
     "rewrite": {
       "(.*) - NVIM": " NeoVim",
-      "(.*) — Mozilla Firefox": "󰈹 Mozilla Firefox",
+      "(.*) — Mozilla Firefox": "󰈹 Mozilla Firefox"
     }
   },
 
-  "hyprland/workspaces": {
-    "all-outputs": true,
-    "format": "{icon}",
-    "format-icons": {
-      "1": "",
-      "2": "",
-      "3": "",
-      "urgent": "",
-      "active": "",
-      "default": ""
-    }
+  // Clock
+  "clock": {
+    "format": "{:%H:%M}",
+    "format-alt": "{:%b %d %Y}"
   },
-  
+
+  // Tray
+  "tray": {
+    "spacing": 10
+  },
+
+  // Pulseaudio
   "pulseaudio": {
     "format": "{icon} <b>{volume}</b>",
     "format-bluetooth": "{icon}  {volume}%",
@@ -80,12 +76,13 @@
     "format-muted": " 󰝟 ",
     "format-icons": {
       "headphone": "",
-      "default": ["󰝟", ""],
+      "default": ["󰝟", ""]
     },
     "tooltip": false,
-    "on-click": "export GTK_THEME='Catppuccin-Mocha-Standard-Mauve-Dark' && pavucontrol",
+    "on-click": "export GTK_THEME='Catppuccin-Mocha-Standard-Mauve-Dark' && pavucontrol"
   },
 
+  // Network
   "network": {
     "interval": 30,
     "format-wifi": "󰖩 {essid}",
@@ -94,37 +91,52 @@
     "tooltip-format-wifi": "{essid} ({signalStrength}%)",
     "tooltip-format-ethernet": "{ifname} ",
     "tooltip-format-disconnected": "Disconnected",
+    "on-click": "export GTK_THEME='Catppuccin-Mocha-Standard-Mauve-Dark' && nm-connection-editor"
   },
 
+  // Backlight
+  "backlight": {
+    "device": "intel_backlight",
+    "format": "{icon}",
+    "format-icons": [" ", " ", " ", " ", " ", " ", " ", " ", " "],
+    "on-scroll-down": "brightnessctl set 5%-",
+    "on-scroll-up": "brightnessctl set 5%+",
+    "rotate": 0
+  },
+
+  // Battery
   "battery": {
-    "states": {
-      "warning": 30,
-      "critical": 15
-    },
     "format": "{icon} {capacity}%",
-    "format-icons": ["", "", "", "", ""],
-    "max-length": 25,
-    "tooltip": false,
+    "format-charging": "{capacity}% 󰂄",
+    "format-icons": ["󰂎", "󰁺", "󰁻", "󰁼", "󰁽", "󰁾", "󰁿", "󰂀", "󰂁", "󰂂", "󰁹"],
+    "format-plugged": "{capacity}% 󰚥",
+    "states": {
+      "critical": 15,
+      "warning": 30
+    }
   },
 
-  "tray": {
-    "icon-size": 20,
-    "spacing": 10,
+  // Bluetooth
+  "bluetooth": {
+    "format": "",
+    "format-disabled": "",
+    "tooltip-format": "",
+    "tooltip-format-connected": "{controller_alias}\n{device_enumerate}",
+    "tooltip-format-enumerate-connected": " {device_alias}",
+    "on-click": "export GTK_THEME='Catppuccin-Mocha-Standard-Mauve-Dark' && blueman-manager"
   },
 
-  "custom/separator-dot": {
-    "format": "  ",
-    "tooltip": false,
-    "on-click": "$HOME/.config/hypr/scripts/random-wallpaper"
+  // ------ Custom Modules ------ //
+  // Distro
+  "custom/distro": {
+    "format": "󰣛",
+    "on-click": "exec anyrun",
+    "tooltip": false
   },
 
-  "custom/separator-gap": {
+  // Spacer
+  "custom/spacer": {
     "format": " ",
-    "tooltip": false,
-  },
-
-  "custom/separator-arrow": {
-    "format": "  ",
-    "tooltip": false,
-  },
+    "tooltip": false
+  }
 }
