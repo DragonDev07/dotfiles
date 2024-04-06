@@ -36,7 +36,7 @@ alias matrix='cmatrix -s -C cyan'
 alias pipes='pipes.sh -t 3 -R -p 5'
 
 # Replace ls with eza
-alias ls='eza -al --color=always --group-directories-first --icons' # preferred listing
+alias ls='eza -al --color=always --group-directories-first --icons=auto' # preferred listing
 alias la='eza -a --color=always --group-directories-first --icons'  # all files and dirs
 alias ll='eza -l --color=always --group-directories-first --icons'  # long format
 

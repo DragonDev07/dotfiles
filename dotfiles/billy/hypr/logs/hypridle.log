@@ -4952,3 +4952,1475 @@ Proceeding ignoring faulty entries
 [LOG] Unlocking session
 [LOG] Unlocked, exiting!
 [LOG] Reached the end, exiting
+[ERR] Config has errors:
+Config error in file /home/teo/.config/hypr/hyprlock.conf at line 38: config option <input-field:font_family> does not exist.
+Proceeding ignoring faulty entries
+[LOG]   | got iface: wl_shm v1
+[LOG]   | got iface: wl_drm v2
+[LOG]   | got iface: zwp_linux_dmabuf_v1 v4
+[LOG]    > Bound to zwp_linux_dmabuf_v1 v4
+[LOG]   | got iface: wl_compositor v6
+[LOG]    > Bound to wl_compositor v6
+[LOG]   | got iface: wl_subcompositor v1
+[LOG]   | got iface: wl_data_device_manager v3
+[LOG]   | got iface: zwlr_export_dmabuf_manager_v1 v1
+[LOG]   | got iface: zwlr_data_control_manager_v1 v2
+[LOG]   | got iface: zwp_primary_selection_device_manager_v1 v1
+[LOG]   | got iface: wp_viewporter v1
+[LOG]    > Bound to wp_viewporter v1
+[LOG]   | got iface: zwlr_gamma_control_manager_v1 v1
+[LOG]   | got iface: zwlr_output_power_manager_v1 v1
+[LOG]   | got iface: xdg_wm_base v6
+[LOG]   | got iface: wl_seat v9
+[LOG]    > Bound to wl_seat v9
+[LOG]   | got iface: wp_presentation v1
+[LOG]   | got iface: ext_idle_notifier_v1 v1
+[LOG]   | got iface: zwlr_layer_shell_v1 v4
+[LOG]   | got iface: org_kde_kwin_server_decoration_manager v1
+[LOG]   | got iface: zxdg_decoration_manager_v1 v1
+[LOG]   | got iface: zwlr_output_manager_v1 v4
+[LOG]   | got iface: zwp_keyboard_shortcuts_inhibit_manager_v1 v1
+[LOG]   | got iface: zwp_pointer_constraints_v1 v1
+[LOG]   | got iface: zwp_relative_pointer_manager_v1 v1
+[LOG]   | got iface: zwp_virtual_keyboard_manager_v1 v1
+[LOG]   | got iface: zwlr_virtual_pointer_manager_v1 v2
+[LOG]   | got iface: zwlr_foreign_toplevel_manager_v1 v3
+[LOG]   | got iface: wp_drm_lease_device_v1 v1
+[LOG]   | got iface: zwp_tablet_manager_v2 v1
+[LOG]   | got iface: zwp_idle_inhibit_manager_v1 v1
+[LOG]   | got iface: zxdg_exporter_v1 v1
+[LOG]   | got iface: zxdg_importer_v1 v1
+[LOG]   | got iface: zxdg_exporter_v2 v1
+[LOG]   | got iface: zxdg_importer_v2 v1
+[LOG]   | got iface: zwp_pointer_gestures_v1 v3
+[LOG]   | got iface: zwp_text_input_manager_v3 v1
+[LOG]   | got iface: zwp_input_method_manager_v2 v1
+[LOG]   | got iface: xdg_activation_v1 v1
+[LOG]   | got iface: ext_session_lock_manager_v1 v1
+[LOG]    > Bound to ext_session_lock_manager_v1 v1
+[LOG]   | got iface: wp_cursor_shape_manager_v1 v1
+[LOG]    > Bound to wp_cursor_shape_manager_v1 v1
+[LOG]   | got iface: wp_tearing_control_manager_v1 v1
+[LOG]   | got iface: wp_single_pixel_buffer_manager_v1 v1
+[LOG]   | got iface: xwayland_shell_v1 v1
+[LOG]   | got iface: hyprland_toplevel_export_manager_v1 v2
+[LOG]   | got iface: wp_fractional_scale_manager_v1 v1
+[LOG]    > Bound to wp_fractional_scale_manager_v1 v1
+[LOG]   | got iface: zwp_text_input_manager_v1 v1
+[LOG]   | got iface: hyprland_global_shortcuts_manager_v1 v1
+[LOG]   | got iface: zwlr_screencopy_manager_v1 v3
+[LOG]    > Bound to zwlr_screencopy_manager_v1 v3
+[LOG]   | got iface: zxdg_output_manager_v1 v3
+[LOG]   | got iface: wl_output v4
+[LOG]    > Bound to wl_output v4
+[LOG] [core] dmabufFeedbackMainDevice
+[LOG] output 49 make Unknown model Unknown
+[LOG] output 49 name eDP-1
+[LOG] output 49 description (null) (null) (eDP-1)
+[LOG] output 49 done
+[LOG] Running on Hyprland
+[LOG] Locking session
+[LOG] onLockLocked called
+[LOG] got fractional 1
+[LOG] got fractional 1.6
+[LOG] configure with serial 4
+[LOG] Configuring surface for logical [Vector2D: x: 1599, y: 999] and pixel [Vector2D: x: 2558, y: 1598]
+[LOG] Framebuffer created, status 36053
+[LOG] Framebuffer created, status 36053
+[LOG] Framebuffer created, status 36053
+[LOG] Authenticating
+[ERR] auth: Authentication failed for hyprlock
+[ERR] auth: Authentication failed for su
+[LOG] Authentication failed: Authentication failed
+[LOG] Failed attempts: 1
+[LOG] Authenticating
+[ERR] auth: Authentication failed for hyprlock
+[ERR] auth: Authentication failed for su
+[LOG] Authentication failed: Authentication failed
+[LOG] Failed attempts: 2
+[LOG] Authenticating
+[ERR] auth: Authentication failed for hyprlock
+[LOG] auth: authenticated for su
+[LOG] Unlocking session
+[LOG] Unlocked, exiting!
+[LOG] Reached the end, exiting
+[LOG] Registered timeout rule for 120s:
+      on-timeout: hyprlock
+      on-resume: 
+[LOG] Registered timeout rule for 300s:
+      on-timeout: hyprctl dispatch dpms off eDP-1
+      on-resume: hyprctl dispatch dpms on eDP-1
+[LOG]   | got iface: wl_shm v1
+[LOG]   | got iface: wl_drm v2
+[LOG]   | got iface: zwp_linux_dmabuf_v1 v4
+[LOG]   | got iface: wl_compositor v6
+[LOG]   | got iface: wl_subcompositor v1
+[LOG]   | got iface: wl_data_device_manager v3
+[LOG]   | got iface: zwlr_export_dmabuf_manager_v1 v1
+[LOG]   | got iface: zwlr_data_control_manager_v1 v2
+[LOG]   | got iface: zwp_primary_selection_device_manager_v1 v1
+[LOG]   | got iface: wp_viewporter v1
+[LOG]   | got iface: zwlr_gamma_control_manager_v1 v1
+[LOG]   | got iface: zwlr_output_power_manager_v1 v1
+[LOG]   | got iface: xdg_wm_base v6
+[LOG]   | got iface: wl_seat v9
+[LOG]    > Bound to wl_seat v9
+[LOG]   | got iface: wp_presentation v1
+[LOG]   | got iface: ext_idle_notifier_v1 v1
+[LOG]    > Bound to ext_idle_notifier_v1 v1
+[LOG]   | got iface: zwlr_layer_shell_v1 v4
+[LOG]   | got iface: org_kde_kwin_server_decoration_manager v1
+[LOG]   | got iface: zxdg_decoration_manager_v1 v1
+[LOG]   | got iface: zwlr_output_manager_v1 v4
+[LOG]   | got iface: zwp_keyboard_shortcuts_inhibit_manager_v1 v1
+[LOG]   | got iface: zwp_pointer_constraints_v1 v1
+[LOG]   | got iface: zwp_relative_pointer_manager_v1 v1
+[LOG]   | got iface: zwp_virtual_keyboard_manager_v1 v1
+[LOG]   | got iface: zwlr_virtual_pointer_manager_v1 v2
+[LOG]   | got iface: zwlr_foreign_toplevel_manager_v1 v3
+[LOG]   | got iface: wp_drm_lease_device_v1 v1
+[LOG]   | got iface: zwp_tablet_manager_v2 v1
+[LOG]   | got iface: zwp_idle_inhibit_manager_v1 v1
+[LOG]   | got iface: zxdg_exporter_v1 v1
+[LOG]   | got iface: zxdg_importer_v1 v1
+[LOG]   | got iface: zxdg_exporter_v2 v1
+[LOG]   | got iface: zxdg_importer_v2 v1
+[LOG]   | got iface: zwp_pointer_gestures_v1 v3
+[LOG]   | got iface: zwp_text_input_manager_v3 v1
+[LOG]   | got iface: zwp_input_method_manager_v2 v1
+[LOG]   | got iface: xdg_activation_v1 v1
+[LOG]   | got iface: ext_session_lock_manager_v1 v1
+[LOG]   | got iface: wp_cursor_shape_manager_v1 v1
+[LOG]   | got iface: wp_tearing_control_manager_v1 v1
+[LOG]   | got iface: wp_single_pixel_buffer_manager_v1 v1
+[LOG]   | got iface: xwayland_shell_v1 v1
+[LOG]   | got iface: hyprland_toplevel_export_manager_v1 v2
+[LOG]   | got iface: wp_fractional_scale_manager_v1 v1
+[LOG]   | got iface: zwp_text_input_manager_v1 v1
+[LOG]   | got iface: hyprland_global_shortcuts_manager_v1 v1
+[LOG]   | got iface: zwlr_screencopy_manager_v1 v3
+[LOG]   | got iface: zxdg_output_manager_v1 v3
+[LOG]   | got iface: wl_output v4
+[LOG] found 2 rules
+[LOG] wayland done, registering dbus
+[LOG] Using dbus path /org/freedesktop/login1/session/_37
+[LOG] Idled: rule 345fa350
+[LOG] Running hyprlock
+[LOG] Executing hyprlock
+[LOG] Process Created with pid 5544
+[LOG] Resumed: rule 345fa350
+[LOG] Ignoring, onRestore is empty.
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1337 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1338 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1339 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1340 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1341 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenS[ERR] Config has errors:
+Config error in file /home/teo/.config/hypr/hyprlock.conf at line 38: config option <input-field:font_family> does not exist.
+Proceeding ignoring faulty entries
+[LOG]   | got iface: wl_shm v1
+[LOG]   | got iface: wl_drm v2
+[LOG]   | got iface: zwp_linux_dmabuf_v1 v4
+[LOG]    > Bound to zwp_linux_dmabuf_v1 v4
+[LOG]   | got iface: wl_compositor v6
+[LOG]    > Bound to wl_compositor v6
+[LOG]   | got iface: wl_subcompositor v1
+[LOG]   | got iface: wl_data_device_manager v3
+[LOG]   | got iface: zwlr_export_dmabuf_manager_v1 v1
+[LOG]   | got iface: zwlr_data_control_manager_v1 v2
+[LOG]   | got iface: zwp_primary_selection_device_manager_v1 v1
+[LOG]   | got iface: wp_viewporter v1
+[LOG]    > Bound to wp_viewporter v1
+[LOG]   | got iface: zwlr_gamma_control_manager_v1 v1
+[LOG]   | got iface: zwlr_output_power_manager_v1 v1
+[LOG]   | got iface: xdg_wm_base v6
+[LOG]   | got iface: wl_seat v9
+[LOG]    > Bound to wl_seat v9
+[LOG]   | got iface: wp_presentation v1
+[LOG]   | got iface: ext_idle_notifier_v1 v1
+[LOG]   | got iface: zwlr_layer_shell_v1 v4
+[LOG]   | got iface: org_kde_kwin_server_decoration_manager v1
+[LOG]   | got iface: zxdg_decoration_manager_v1 v1
+[LOG]   | got iface: zwlr_output_manager_v1 v4
+[LOG]   | got iface: zwp_keyboard_shortcuts_inhibit_manager_v1 v1
+[LOG]   | got iface: zwp_pointer_constraints_v1 v1
+[LOG]   | got iface: zwp_relative_pointer_manager_v1 v1
+[LOG]   | got iface: zwp_virtual_keyboard_manager_v1 v1
+[LOG]   | got iface: zwlr_virtual_pointer_manager_v1 v2
+[LOG]   | got iface: zwlr_foreign_toplevel_manager_v1 v3
+[LOG]   | got iface: wp_drm_lease_device_v1 v1
+[LOG]   | got iface: zwp_tablet_manager_v2 v1
+[LOG]   | got iface: zwp_idle_inhibit_manager_v1 v1
+[LOG]   | got iface: zxdg_exporter_v1 v1
+[LOG]   | got iface: zxdg_importer_v1 v1
+[LOG]   | got iface: zxdg_exporter_v2 v1
+[LOG]   | got iface: zxdg_importer_v2 v1
+[LOG]   | got iface: zwp_pointer_gestures_v1 v3
+[LOG]   | got iface: zwp_text_input_manager_v3 v1
+[LOG]   | got iface: zwp_input_method_manager_v2 v1
+[LOG]   | got iface: xdg_activation_v1 v1
+[LOG]   | got iface: ext_session_lock_manager_v1 v1
+[LOG]    > Bound to ext_session_lock_manager_v1 v1
+[LOG]   | got iface: wp_cursor_shape_manager_v1 v1
+[LOG]    > Bound to wp_cursor_shape_manager_v1 v1
+[LOG]   | got iface: wp_tearing_control_manager_v1 v1
+[LOG]   | got iface: wp_single_pixel_buffer_manager_v1 v1
+[LOG]   | got iface: xwayland_shell_v1 v1
+[LOG]   | got iface: hyprland_toplevel_export_manager_v1 v2
+[LOG]   | got iface: wp_fractional_scale_manager_v1 v1
+[LOG]    > Bound to wp_fractional_scale_manager_v1 v1
+[LOG]   | got iface: zwp_text_input_manager_v1 v1
+[LOG]   | got iface: hyprland_global_shortcuts_manager_v1 v1
+[LOG]   | got iface: zwlr_screencopy_manager_v1 v3
+[LOG]    > Bound to zwlr_screencopy_manager_v1 v3
+[LOG]   | got iface: zxdg_output_manager_v1 v3
+[LOG]   | got iface: wl_output v4
+[LOG]    > Bound to wl_output v4
+[LOG] [core] dmabufFeedbackMainDevice
+[LOG] output 49 make Unknown model Unknown
+[LOG] output 49 name eDP-1
+[LOG] output 49 description (null) (null) (eDP-1)
+[LOG] output 49 done
+[LOG] Running on Hyprland
+[LOG] Locking session
+[LOG] onLockLocked called
+[LOG] got fractional 1.6
+[LOG] got fractional 1.6
+[LOG] configure with serial 4593
+[LOG] Configuring surface for logical [Vector2D: x: 1599, y: 999] and pixel [Vector2D: x: 2558, y: 1598]
+[LOG] Framebuffer created, status 36053
+[LOG] Framebuffer created, status 36053
+[LOG] Framebuffer created, status 36053
+[LOG] Authenticating
+[ERR] auth: Authentication failed for hyprlock
+[LOG] auth: authenticated for su
+[LOG] Unlocking session
+[LOG] Unlocked, exiting!
+[LOG] Reached the end, exiting
+[ERR] Config has errors:
+Config error in file /home/teo/.config/hypr/hyprlock.conf at line 38: config option <input-field:font_family> does not exist.
+Proceeding ignoring faulty entries
+[LOG]   | got iface: wl_shm v1
+[LOG]   | got iface: wl_drm v2
+[LOG]   | got iface: zwp_linux_dmabuf_v1 v4
+[LOG]    > Bound to zwp_linux_dmabuf_v1 v4
+[LOG]   | got iface: wl_compositor v6
+[LOG]    > Bound to wl_compositor v6
+[LOG]   | got iface: wl_subcompositor v1
+[LOG]   | got iface: wl_data_device_manager v3
+[LOG]   | got iface: zwlr_export_dmabuf_manager_v1 v1
+[LOG]   | got iface: zwlr_data_control_manager_v1 v2
+[LOG]   | got iface: zwp_primary_selection_device_manager_v1 v1
+[LOG]   | got iface: wp_viewporter v1
+[LOG]    > Bound to wp_viewporter v1
+[LOG]   | got iface: zwlr_gamma_control_manager_v1 v1
+[LOG]   | got iface: zwlr_output_power_manager_v1 v1
+[LOG]   | got iface: xdg_wm_base v6
+[LOG]   | got iface: wl_seat v9
+[LOG]    > Bound to wl_seat v9
+[LOG]   | got iface: wp_presentation v1
+[LOG]   | got iface: ext_idle_notifier_v1 v1
+[LOG]   | got iface: zwlr_layer_shell_v1 v4
+[LOG]   | got iface: org_kde_kwin_server_decoration_manager v1
+[LOG]   | got iface: zxdg_decoration_manager_v1 v1
+[LOG]   | got iface: zwlr_output_manager_v1 v4
+[LOG]   | got iface: zwp_keyboard_shortcuts_inhibit_manager_v1 v1
+[LOG]   | got iface: zwp_pointer_constraints_v1 v1
+[LOG]   | got iface: zwp_relative_pointer_manager_v1 v1
+[LOG]   | got iface: zwp_virtual_keyboard_manager_v1 v1
+[LOG]   | got iface: zwlr_virtual_pointer_manager_v1 v2
+[LOG]   | got iface: zwlr_foreign_toplevel_manager_v1 v3
+[LOG]   | got iface: wp_drm_lease_device_v1 v1
+[LOG]   | got iface: zwp_tablet_manager_v2 v1
+[LOG]   | got iface: zwp_idle_inhibit_manager_v1 v1
+[LOG]   | got iface: zxdg_exporter_v1 v1
+[LOG]   | got iface: zxdg_importer_v1 v1
+[LOG]   | got iface: zxdg_exporter_v2 v1
+[LOG]   | got iface: zxdg_importer_v2 v1
+[LOG]   | got iface: zwp_pointer_gestures_v1 v3
+[LOG]   | got iface: zwp_text_input_manager_v3 v1
+[LOG]   | got iface: zwp_input_method_manager_v2 v1
+[LOG]   | got iface: xdg_activation_v1 v1
+[LOG]   | got iface: ext_session_lock_manager_v1 v1
+[LOG]    > Bound to ext_session_lock_manager_v1 v1
+[LOG]   | got iface: wp_cursor_shape_manager_v1 v1
+[LOG]    > Bound to wp_cursor_shape_manager_v1 v1
+[LOG]   | got iface: wp_tearing_control_manager_v1 v1
+[LOG]   | got iface: wp_single_pixel_buffer_manager_v1 v1
+[LOG]   | got iface: xwayland_shell_v1 v1
+[LOG]   | got iface: hyprland_toplevel_export_manager_v1 v2
+[LOG]   | got iface: wp_fractional_scale_manager_v1 v1
+[LOG]    > Bound to wp_fractional_scale_manager_v1 v1
+[LOG]   | got iface: zwp_text_input_manager_v1 v1
+[LOG]   | got iface: hyprland_global_shortcuts_manager_v1 v1
+[LOG]   | got iface: zwlr_screencopy_manager_v1 v3
+[LOG]    > Bound to zwlr_screencopy_manager_v1 v3
+[LOG]   | got iface: zxdg_output_manager_v1 v3
+[LOG]   | got iface: wl_output v4
+[LOG]    > Bound to wl_output v4
+[LOG] [core] dmabufFeedbackMainDevice
+[LOG] output 49 make Unknown model Unknown
+[LOG] output 49 name eDP-1
+[LOG] output 49 description (null) (null) (eDP-1)
+[LOG] output 49 done
+[LOG] Running on Hyprland
+[LOG] Locking session
+[LOG] onLockLocked called
+[LOG] got fractional 1.6
+[LOG] got fractional 1.6
+[LOG] configure with serial 5655
+[LOG] Configuring surface for logical [Vector2D: x: 1599, y: 999] and pixel [Vector2D: x: 2558, y: 1598]
+[LOG] Framebuffer created, status 36053
+[LOG] Framebuffer created, status 36053
+[LOG] Framebuffer created, status 36053
+[LOG] Authenticating
+[ERR] auth: Authentication failed for hyprlock
+[LOG] auth: authenticated for su
+[LOG] Unlocking session
+[LOG] Unlocked, exiting!
+[LOG] Reached the end, exiting
+[ERR] Config has errors:
+Config error in file /home/teo/.config/hypr/hyprlock.conf at line 38: config option <input-field:font_family> does not exist.
+Proceeding ignoring faulty entries
+[LOG]   | got iface: wl_shm v1
+[LOG]   | got iface: wl_drm v2
+[LOG]   | got iface: zwp_linux_dmabuf_v1 v4
+[LOG]    > Bound to zwp_linux_dmabuf_v1 v4
+[LOG]   | got iface: wl_compositor v6
+[LOG]    > Bound to wl_compositor v6
+[LOG]   | got iface: wl_subcompositor v1
+[LOG]   | got iface: wl_data_device_manager v3
+[LOG]   | got iface: zwlr_export_dmabuf_manager_v1 v1
+[LOG]   | got iface: zwlr_data_control_manager_v1 v2
+[LOG]   | got iface: zwp_primary_selection_device_manager_v1 v1
+[LOG]   | got iface: wp_viewporter v1
+[LOG]    > Bound to wp_viewporter v1
+[LOG]   | got iface: zwlr_gamma_control_manager_v1 v1
+[LOG]   | got iface: zwlr_output_power_manager_v1 v1
+[LOG]   | got iface: xdg_wm_base v6
+[LOG]   | got iface: wl_seat v9
+[LOG]    > Bound to wl_seat v9
+[LOG]   | got iface: wp_presentation v1
+[LOG]   | got iface: ext_idle_notifier_v1 v1
+[LOG]   | got iface: zwlr_layer_shell_v1 v4
+[LOG]   | got iface: org_kde_kwin_server_decoration_manager v1
+[LOG]   | got iface: zxdg_decoration_manager_v1 v1
+[LOG]   | got iface: zwlr_output_manager_v1 v4
+[LOG]   | got iface: zwp_keyboard_shortcuts_inhibit_manager_v1 v1
+[LOG]   | got iface: zwp_pointer_constraints_v1 v1
+[LOG]   | got iface: zwp_relative_pointer_manager_v1 v1
+[LOG]   | got iface: zwp_virtual_keyboard_manager_v1 v1
+[LOG]   | got iface: zwlr_virtual_pointer_manager_v1 v2
+[LOG]   | got iface: zwlr_foreign_toplevel_manager_v1 v3
+[LOG]   | got iface: wp_drm_lease_device_v1 v1
+[LOG]   | got iface: zwp_tablet_manager_v2 v1
+[LOG]   | got iface: zwp_idle_inhibit_manager_v1 v1
+[LOG]   | got iface: zxdg_exporter_v1 v1
+[LOG]   | got iface: zxdg_importer_v1 v1
+[LOG]   | got iface: zxdg_exporter_v2 v1
+[LOG]   | got iface: zxdg_importer_v2 v1
+[LOG]   | got iface: zwp_pointer_gestures_v1 v3
+[LOG]   | got iface: zwp_text_input_manager_v3 v1
+[LOG]   | got iface: zwp_input_method_manager_v2 v1
+[LOG]   | got iface: xdg_activation_v1 v1
+[LOG]   | got iface: ext_session_lock_manager_v1 v1
+[LOG]    > Bound to ext_session_lock_manager_v1 v1
+[LOG]   | got iface: wp_cursor_shape_manager_v1 v1
+[LOG]    > Bound to wp_cursor_shape_manager_v1 v1
+[LOG]   | got iface: wp_tearing_control_manager_v1 v1
+[LOG]   | got iface: wp_single_pixel_buffer_manager_v1 v1
+[LOG]   | got iface: xwayland_shell_v1 v1
+[LOG]   | got iface: hyprland_toplevel_export_manager_v1 v2
+[LOG]   | got iface: wp_fractional_scale_manager_v1 v1
+[LOG]    > Bound to wp_fractional_scale_manager_v1 v1
+[LOG]   | got iface: zwp_text_input_manager_v1 v1
+[LOG]   | got iface: hyprland_global_shortcuts_manager_v1 v1
+[LOG]   | got iface: zwlr_screencopy_manager_v1 v3
+[LOG]    > Bound to zwlr_screencopy_manager_v1 v3
+[LOG]   | got iface: zxdg_output_manager_v1 v3
+[LOG]   | got iface: wl_output v4
+[LOG]    > Bound to wl_output v4
+[LOG] [core] dmabufFeedbackMainDevice
+[LOG] output 49 make Unknown model Unknown
+[LOG] output 49 name eDP-1
+[LOG] output 49 description (null) (null) (eDP-1)
+[LOG] output 49 done
+[LOG] Running on Hyprland
+[LOG] Locking session
+[LOG] onLockLocked called
+[LOG] got fractional 1.6
+[LOG] got fractional 1.6
+[LOG] configure with serial 7265
+[LOG] Configuring surface for logical [Vector2D: x: 1599, y: 999] and pixel [Vector2D: x: 2558, y: 1598]
+[LOG] Framebuffer created, status 36053
+[LOG] Framebuffer created, status 36053
+[LOG] Framebuffer created, status 36053
+[LOG] Authenticating
+[ERR] auth: Authentication failed for hyprlock
+[LOG] auth: authenticated for su
+[LOG] Unlocking session
+[LOG] Unlocked, exiting!
+[LOG] Reached the end, exiting
+aver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1342 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1343 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1344 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1345 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1346 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1347 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1348 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1349 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1350 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1351 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1352 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1353 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] Idled: rule 345fa350
+[LOG] Running hyprlock
+[LOG] Executing hyprlock
+[LOG] Process Created with pid 11079
+[LOG] Resumed: rule 345fa350
+[LOG] Ignoring, onRestore is empty.
+[LOG] Idled: rule 345fa350
+[LOG] Running hyprlock
+[LOG] Executing hyprlock
+[LOG] Process Created with pid 12514
+[LOG] Resumed: rule 345fa350
+[LOG] Ignoring, onRestore is empty.
+[LOG] Idled: rule 345fa350
+[LOG] Running hyprlock
+[LOG] Executing hyprlock
+[LOG] Process Created with pid 15813
+[LOG] Resumed: rule 345fa350
+[LOG] Ignoring, onRestore is empty.
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1354 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1355 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1356 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1357 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1358 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1359 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1360 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1361 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1362 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1363 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1364 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1365 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1366 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1367 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1368 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1369 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1370 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1371 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1372 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1373 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1374 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1375 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit[ERR] Config has errors:
+Config error in file /home/teo/.config/hypr/hyprlock.conf at line 38: config option <input-field:font_family> does not exist.
+Proceeding ignoring faulty entries
+[LOG]   | got iface: wl_shm v1
+[LOG]   | got iface: wl_drm v2
+[LOG]   | got iface: zwp_linux_dmabuf_v1 v4
+[LOG]    > Bound to zwp_linux_dmabuf_v1 v4
+[LOG]   | got iface: wl_compositor v6
+[LOG]    > Bound to wl_compositor v6
+[LOG]   | got iface: wl_subcompositor v1
+[LOG]   | got iface: wl_data_device_manager v3
+[LOG]   | got iface: zwlr_export_dmabuf_manager_v1 v1
+[LOG]   | got iface: zwlr_data_control_manager_v1 v2
+[LOG]   | got iface: zwp_primary_selection_device_manager_v1 v1
+[LOG]   | got iface: wp_viewporter v1
+[LOG]    > Bound to wp_viewporter v1
+[LOG]   | got iface: zwlr_gamma_control_manager_v1 v1
+[LOG]   | got iface: zwlr_output_power_manager_v1 v1
+[LOG]   | got iface: xdg_wm_base v6
+[LOG]   | got iface: wl_seat v9
+[LOG]    > Bound to wl_seat v9
+[LOG]   | got iface: wp_presentation v1
+[LOG]   | got iface: ext_idle_notifier_v1 v1
+[LOG]   | got iface: zwlr_layer_shell_v1 v4
+[LOG]   | got iface: org_kde_kwin_server_decoration_manager v1
+[LOG]   | got iface: zxdg_decoration_manager_v1 v1
+[LOG]   | got iface: zwlr_output_manager_v1 v4
+[LOG]   | got iface: zwp_keyboard_shortcuts_inhibit_manager_v1 v1
+[LOG]   | got iface: zwp_pointer_constraints_v1 v1
+[LOG]   | got iface: zwp_relative_pointer_manager_v1 v1
+[LOG]   | got iface: zwp_virtual_keyboard_manager_v1 v1
+[LOG]   | got iface: zwlr_virtual_pointer_manager_v1 v2
+[LOG]   | got iface: zwlr_foreign_toplevel_manager_v1 v3
+[LOG]   | got iface: wp_drm_lease_device_v1 v1
+[LOG]   | got iface: zwp_tablet_manager_v2 v1
+[LOG]   | got iface: zwp_idle_inhibit_manager_v1 v1
+[LOG]   | got iface: zxdg_exporter_v1 v1
+[LOG]   | got iface: zxdg_importer_v1 v1
+[LOG]   | got iface: zxdg_exporter_v2 v1
+[LOG]   | got iface: zxdg_importer_v2 v1
+[LOG]   | got iface: zwp_pointer_gestures_v1 v3
+[LOG]   | got iface: zwp_text_input_manager_v3 v1
+[LOG]   | got iface: zwp_input_method_manager_v2 v1
+[LOG]   | got iface: xdg_activation_v1 v1
+[LOG]   | got iface: ext_session_lock_manager_v1 v1
+[LOG]    > Bound to ext_session_lock_manager_v1 v1
+[LOG]   | got iface: wp_cursor_shape_manager_v1 v1
+[LOG]    > Bound to wp_cursor_shape_manager_v1 v1
+[LOG]   | got iface: wp_tearing_control_manager_v1 v1
+[LOG]   | got iface: wp_single_pixel_buffer_manager_v1 v1
+[LOG]   | got iface: xwayland_shell_v1 v1
+[LOG]   | got iface: hyprland_toplevel_export_manager_v1 v2
+[LOG]   | got iface: wp_fractional_scale_manager_v1 v1
+[LOG]    > Bound to wp_fractional_scale_manager_v1 v1
+[LOG]   | got iface: zwp_text_input_manager_v1 v1
+[LOG]   | got iface: hyprland_global_shortcuts_manager_v1 v1
+[LOG]   | got iface: zwlr_screencopy_manager_v1 v3
+[LOG]    > Bound to zwlr_screencopy_manager_v1 v3
+[LOG]   | got iface: zxdg_output_manager_v1 v3
+[LOG]   | got iface: wl_output v4
+[LOG]    > Bound to wl_output v4
+[LOG] [core] dmabufFeedbackMainDevice
+[LOG] output 49 make Unknown model Unknown
+[LOG] output 49 name eDP-1
+[LOG] output 49 description (null) (null) (eDP-1)
+[LOG] output 49 done
+[LOG] Running on Hyprland
+[LOG] Locking session
+[LOG] onLockLocked called
+[LOG] got fractional 1.6
+[LOG] got fractional 1.6
+[LOG] configure with serial 10889
+[LOG] Configuring surface for logical [Vector2D: x: 1599, y: 999] and pixel [Vector2D: x: 2558, y: 1598]
+[LOG] Framebuffer created, status 36053
+[LOG] Framebuffer created, status 36053
+[LOG] Framebuffer created, status 36053
+[LOG] Authenticating
+[ERR] auth: Authentication failed for hyprlock
+[LOG] auth: authenticated for su
+[LOG] Unlocking session
+[LOG] Unlocked, exiting!
+[LOG] Reached the end, exiting
+ locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1376 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1377 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1378 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1379 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1380 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1381 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1382 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1383 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1384 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1385 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1386 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1387 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1388 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1389 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1390 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] Got PrepareForSleep from dbus with sleep true
+[LOG] Running: hyprlock
+[LOG] Executing hyprlock
+[LOG] Process Created with pid 22174
+[LOG] Got PrepareForSleep from dbus with sleep false
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1391 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1392 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  wi[ERR] Config has errors:
+Config error in file /home/teo/.config/hypr/hyprlock.conf at line 38: config option <input-field:font_family> does not exist.
+Proceeding ignoring faulty entries
+[LOG]   | got iface: wl_shm v1
+[LOG]   | got iface: wl_drm v2
+[LOG]   | got iface: zwp_linux_dmabuf_v1 v4
+[LOG]    > Bound to zwp_linux_dmabuf_v1 v4
+[LOG]   | got iface: wl_compositor v6
+[LOG]    > Bound to wl_compositor v6
+[LOG]   | got iface: wl_subcompositor v1
+[LOG]   | got iface: wl_data_device_manager v3
+[LOG]   | got iface: zwlr_export_dmabuf_manager_v1 v1
+[LOG]   | got iface: zwlr_data_control_manager_v1 v2
+[LOG]   | got iface: zwp_primary_selection_device_manager_v1 v1
+[LOG]   | got iface: wp_viewporter v1
+[LOG]    > Bound to wp_viewporter v1
+[LOG]   | got iface: zwlr_gamma_control_manager_v1 v1
+[LOG]   | got iface: zwlr_output_power_manager_v1 v1
+[LOG]   | got iface: xdg_wm_base v6
+[LOG]   | got iface: wl_seat v9
+[LOG]    > Bound to wl_seat v9
+[LOG]   | got iface: wp_presentation v1
+[LOG]   | got iface: ext_idle_notifier_v1 v1
+[LOG]   | got iface: zwlr_layer_shell_v1 v4
+[LOG]   | got iface: org_kde_kwin_server_decoration_manager v1
+[LOG]   | got iface: zxdg_decoration_manager_v1 v1
+[LOG]   | got iface: zwlr_output_manager_v1 v4
+[LOG]   | got iface: zwp_keyboard_shortcuts_inhibit_manager_v1 v1
+[LOG]   | got iface: zwp_pointer_constraints_v1 v1
+[LOG]   | got iface: zwp_relative_pointer_manager_v1 v1
+[LOG]   | got iface: zwp_virtual_keyboard_manager_v1 v1
+[LOG]   | got iface: zwlr_virtual_pointer_manager_v1 v2
+[LOG]   | got iface: zwlr_foreign_toplevel_manager_v1 v3
+[LOG]   | got iface: wp_drm_lease_device_v1 v1
+[LOG]   | got iface: zwp_tablet_manager_v2 v1
+[LOG]   | got iface: zwp_idle_inhibit_manager_v1 v1
+[LOG]   | got iface: zxdg_exporter_v1 v1
+[LOG]   | got iface: zxdg_importer_v1 v1
+[LOG]   | got iface: zxdg_exporter_v2 v1
+[LOG]   | got iface: zxdg_importer_v2 v1
+[LOG]   | got iface: zwp_pointer_gestures_v1 v3
+[LOG]   | got iface: zwp_text_input_manager_v3 v1
+[LOG]   | got iface: zwp_input_method_manager_v2 v1
+[LOG]   | got iface: xdg_activation_v1 v1
+[LOG]   | got iface: ext_session_lock_manager_v1 v1
+[LOG]    > Bound to ext_session_lock_manager_v1 v1
+[LOG]   | got iface: wp_cursor_shape_manager_v1 v1
+[LOG]    > Bound to wp_cursor_shape_manager_v1 v1
+[LOG]   | got iface: wp_tearing_control_manager_v1 v1
+[LOG]   | got iface: wp_single_pixel_buffer_manager_v1 v1
+[LOG]   | got iface: xwayland_shell_v1 v1
+[LOG]   | got iface: hyprland_toplevel_export_manager_v1 v2
+[LOG]   | got iface: wp_fractional_scale_manager_v1 v1
+[LOG]    > Bound to wp_fractional_scale_manager_v1 v1
+[LOG]   | got iface: zwp_text_input_manager_v1 v1
+[LOG]   | got iface: hyprland_global_shortcuts_manager_v1 v1
+[LOG]   | got iface: zwlr_screencopy_manager_v1 v3
+[LOG]    > Bound to zwlr_screencopy_manager_v1 v3
+[LOG]   | got iface: zxdg_output_manager_v1 v3
+[LOG]   | got iface: wl_output v4
+[LOG]    > Bound to wl_output v4
+[LOG] [core] dmabufFeedbackMainDevice
+[LOG] output 49 make Unknown model Unknown
+[LOG] output 49 name eDP-1
+[LOG] output 49 description (null) (null) (eDP-1)
+[LOG] output 49 done
+[LOG] Running on Hyprland
+[LOG] Locking session
+[LOG] onLockLocked called
+[LOG] got fractional 1.6
+[LOG] got fractional 1.6
+[LOG] configure with serial 14425
+[LOG] Configuring surface for logical [Vector2D: x: 1599, y: 999] and pixel [Vector2D: x: 2558, y: 1598]
+[LOG] Framebuffer created, status 36053
+[LOG] Framebuffer created, status 36053
+[LOG] Framebuffer created, status 36053
+[LOG] Authenticating
+[ERR] auth: Authentication failed for hyprlock
+[LOG] auth: authenticated for su
+[LOG] Unlocking session
+[LOG] Unlocked, exiting!
+[LOG] Reached the end, exiting
+th content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1393 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1394 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1395 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] Got PrepareForSleep from dbus with sleep true
+[LOG] Running: hyprlock
+[LOG] Executing hyprlock
+[LOG] Process Created with pid 25902
+[LOG] Got PrepareForSleep from dbus with sleep false
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1396 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1397 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1398 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1399 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1400 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1401 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1402 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1403 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1404 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1405 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1406 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1407 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1408 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1409 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1410 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1411 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1412 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1413 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1414 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1415 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1416 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1417 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1418 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1419 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1420 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1421 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1422 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1423 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1424 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1425 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1426 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1427 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1428 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1429 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1430 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1431 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1432 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1433 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1434 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1435 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content autoscroll
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1436 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content autoscroll
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1437 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1438 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1439 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1440 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1441 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1442 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1443 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1444 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1445 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1446 sent
+[LOG] ScreenSaver inhibit: false dbus message from  wi[LOG] Registered timeout rule for 120s:
+      on-timeout: hyprlock
+      on-resume: 
+[LOG] Registered timeout rule for 300s:
+      on-timeout: hyprctl dispatch dpms off eDP-1
+      on-resume: hyprctl dispatch dpms on eDP-1
+[LOG]   | got iface: wl_shm v1
+[LOG]   | got iface: wl_drm v2
+[LOG]   | got iface: zwp_linux_dmabuf_v1 v4
+[LOG]   | got iface: wl_compositor v6
+[LOG]   | got iface: wl_subcompositor v1
+[LOG]   | got iface: wl_data_device_manager v3
+[LOG]   | got iface: zwlr_export_dmabuf_manager_v1 v1
+[LOG]   | got iface: zwlr_data_control_manager_v1 v2
+[LOG]   | got iface: zwp_primary_selection_device_manager_v1 v1
+[LOG]   | got iface: wp_viewporter v1
+[LOG]   | got iface: zwlr_gamma_control_manager_v1 v1
+[LOG]   | got iface: zwlr_output_power_manager_v1 v1
+[LOG]   | got iface: xdg_wm_base v6
+[LOG]   | got iface: wl_seat v9
+[LOG]    > Bound to wl_seat v9
+[LOG]   | got iface: wp_presentation v1
+[LOG]   | got iface: ext_idle_notifier_v1 v1
+[LOG]    > Bound to ext_idle_notifier_v1 v1
+[LOG]   | got iface: zwlr_layer_shell_v1 v4
+[LOG]   | got iface: org_kde_kwin_server_decoration_manager v1
+[LOG]   | got iface: zxdg_decoration_manager_v1 v1
+[LOG]   | got iface: zwlr_output_manager_v1 v4
+[LOG]   | got iface: zwp_keyboard_shortcuts_inhibit_manager_v1 v1
+[LOG]   | got iface: zwp_pointer_constraints_v1 v1
+[LOG]   | got iface: zwp_relative_pointer_manager_v1 v1
+[LOG]   | got iface: zwp_virtual_keyboard_manager_v1 v1
+[LOG]   | got iface: zwlr_virtual_pointer_manager_v1 v2
+[LOG]   | got iface: zwlr_foreign_toplevel_manager_v1 v3
+[LOG]   | got iface: wp_drm_lease_device_v1 v1
+[LOG]   | got iface: zwp_tablet_manager_v2 v1
+[LOG]   | got iface: zwp_idle_inhibit_manager_v1 v1
+[LOG]   | got iface: zxdg_exporter_v1 v1
+[LOG]   | got iface: zxdg_importer_v1 v1
+[LOG]   | got iface: zxdg_exporter_v2 v1
+[LOG]   | got iface: zxdg_importer_v2 v1
+[LOG]   | got iface: zwp_pointer_gestures_v1 v3
+[LOG]   | got iface: zwp_text_input_manager_v3 v1
+[LOG]   | got iface: zwp_input_method_manager_v2 v1
+[LOG]   | got iface: xdg_activation_v1 v1
+[LOG]   | got iface: ext_session_lock_manager_v1 v1
+[LOG]   | got iface: wp_cursor_shape_manager_v1 v1
+[LOG]   | got iface: wp_tearing_control_manager_v1 v1
+[LOG]   | got iface: wp_single_pixel_buffer_manager_v1 v1
+[LOG]   | got iface: xwayland_shell_v1 v1
+[LOG]   | got iface: hyprland_toplevel_export_manager_v1 v2
+[LOG]   | got iface: wp_fractional_scale_manager_v1 v1
+[LOG]   | got iface: zwp_text_input_manager_v1 v1
+[LOG]   | got iface: hyprland_global_shortcuts_manager_v1 v1
+[LOG]   | got iface: zwlr_screencopy_manager_v1 v3
+[LOG]   | got iface: zxdg_output_manager_v1 v3
+[LOG]   | got iface: wl_output v4
+[LOG] found 2 rules
+[LOG] wayland done, registering dbus
+[LOG] Using dbus path /org/freedesktop/login1/session/_35
+[CRITICAL] [core] Disconnected from pollfd id 1
+ok
+ok
+[ERR] Config has errors:
+Config error in file /home/teo/.config/hypr/hyprlock.conf at line 38: config option <input-field:font_family> does not exist.
+Proceeding ignoring faulty entries
+[LOG]   | got iface: wl_shm v1
+[LOG]   | got iface: wl_drm v2
+[LOG]   | got iface: zwp_linux_dmabuf_v1 v4
+[LOG]    > Bound to zwp_linux_dmabuf_v1 v4
+[LOG]   | got iface: wl_compositor v6
+[LOG]    > Bound to wl_compositor v6
+[LOG]   | got iface: wl_subcompositor v1
+[LOG]   | got iface: wl_data_device_manager v3
+[LOG]   | got iface: zwlr_export_dmabuf_manager_v1 v1
+[LOG]   | got iface: zwlr_data_control_manager_v1 v2
+[LOG]   | got iface: zwp_primary_selection_device_manager_v1 v1
+[LOG]   | got iface: wp_viewporter v1
+[LOG]    > Bound to wp_viewporter v1
+[LOG]   | got iface: zwlr_gamma_control_manager_v1 v1
+[LOG]   | got iface: zwlr_output_power_manager_v1 v1
+[LOG]   | got iface: xdg_wm_base v6
+[LOG]   | got iface: wl_seat v9
+[LOG]    > Bound to wl_seat v9
+[LOG]   | got iface: wp_presentation v1
+[LOG]   | got iface: ext_idle_notifier_v1 v1
+[LOG]   | got iface: zwlr_layer_shell_v1 v4
+[LOG]   | got iface: org_kde_kwin_server_decoration_manager v1
+[LOG]   | got iface: zxdg_decoration_manager_v1 v1
+[LOG]   | got iface: zwlr_output_manager_v1 v4
+[LOG]   | got iface: zwp_keyboard_shortcuts_inhibit_manager_v1 v1
+[LOG]   | got iface: zwp_pointer_constraints_v1 v1
+[LOG]   | got iface: zwp_relative_pointer_manager_v1 v1
+[LOG]   | got iface: zwp_virtual_keyboard_manager_v1 v1
+[LOG]   | got iface: zwlr_virtual_pointer_manager_v1 v2
+[LOG]   | got iface: zwlr_foreign_toplevel_manager_v1 v3
+[LOG]   | got iface: wp_drm_lease_device_v1 v1
+[LOG]   | got iface: zwp_tablet_manager_v2 v1
+[LOG]   | got iface: zwp_idle_inhibit_manager_v1 v1
+[LOG]   | got iface: zxdg_exporter_v1 v1
+[LOG]   | got iface: zxdg_importer_v1 v1
+[LOG]   | got iface: zxdg_exporter_v2 v1
+[LOG]   | got iface: zxdg_importer_v2 v1
+[LOG]   | got iface: zwp_pointer_gestures_v1 v3
+[LOG]   | got iface: zwp_text_input_manager_v3 v1
+[LOG]   | got iface: zwp_input_method_manager_v2 v1
+[LOG]   | got iface: xdg_activation_v1 v1
+[LOG]   | got iface: ext_session_lock_manager_v1 v1
+[LOG]    > Bound to ext_session_lock_manager_v1 v1
+[LOG]   | got iface: wp_cursor_shape_manager_v1 v1
+[LOG]    > Bound to wp_cursor_shape_manager_v1 v1
+[LOG]   | got iface: wp_tearing_control_manager_v1 v1
+[LOG]   | got iface: wp_single_pixel_buffer_manager_v1 v1
+[LOG]   | got iface: xwayland_shell_v1 v1
+[LOG]   | got iface: hyprland_toplevel_export_manager_v1 v2
+[LOG]   | got iface: wp_fractional_scale_manager_v1 v1
+[LOG]    > Bound to wp_fractional_scale_manager_v1 v1
+[LOG]   | got iface: zwp_text_input_manager_v1 v1
+[LOG]   | got iface: hyprland_global_shortcuts_manager_v1 v1
+[LOG]   | got iface: zwlr_screencopy_manager_v1 v3
+[LOG]    > Bound to zwlr_screencopy_manager_v1 v3
+[LOG]   | got iface: zxdg_output_manager_v1 v3
+[LOG]   | got iface: wl_output v4
+[LOG]    > Bound to wl_output v4
+[LOG] [core] dmabufFeedbackMainDevice
+[LOG] output 49 make Unknown model Unknown
+[LOG] output 49 name eDP-1
+[LOG] output 49 description (null) (null) (eDP-1)
+[LOG] output 49 done
+[LOG] Running on Hyprland
+[LOG] Locking session
+[LOG] onLockLocked called
+[LOG] got fractional 1
+[LOG] got fractional 1.6
+[LOG] configure with serial 15182
+[LOG] Configuring surface for logical [Vector2D: x: 1599, y: 999] and pixel [Vector2D: x: 2558, y: 1598]
+[LOG] Framebuffer created, status 36053
+[LOG] Framebuffer created, status 36053
+[LOG] Framebuffer created, status 36053
+[LOG] Authenticating
+[ERR] auth: Authentication failed for hyprlock
+[LOG] auth: authenticated for su
+[LOG] Unlocking session
+[LOG] Unlocked, exiting!
+[LOG] Reached the end, exiting
+[LOG] Registered timeout rule for 120s:
+      on-timeout: hyprlock
+      on-resume: 
+[LOG] Registered timeout rule for 300s:
+      on-timeout: hyprctl dispatch dpms off eDP-1
+      on-resume: hyprctl dispatch dpms on eDP-1
+[LOG]   | got iface: wl_shm v1
+[LOG]   | got iface: wl_drm v2
+[LOG]   | got iface: zwp_linux_dmabuf_v1 v4
+[LOG]   | got iface: wl_compositor v6
+[LOG]   | got iface: wl_subcompositor v1
+[LOG]   | got iface: wl_data_device_manager v3
+[LOG]   | got iface: zwlr_export_dmabuf_manager_v1 v1
+[LOG]   | got iface: zwlr_data_control_manager_v1 v2
+[LOG]   | got iface: zwp_primary_selection_device_manager_v1 v1
+[LOG]   | got iface: wp_viewporter v1
+[LOG]   | got iface: zwlr_gamma_control_manager_v1 v1
+[LOG]   | got iface: zwlr_output_power_manager_v1 v1
+[LOG]   | got iface: xdg_wm_base v6
+[LOG]   | got iface: wl_seat v9
+[LOG]    > Bound to wl_seat v9
+[LOG]   | got iface: wp_presentation v1
+[LOG]   | got iface: ext_idle_notifier_v1 v1
+[LOG]    > Bound to ext_idle_notifier_v1 v1
+[LOG]   | got iface: zwlr_layer_shell_v1 v4
+[LOG]   | got iface: org_kde_kwin_server_decoration_manager v1
+[LOG]   | got iface: zxdg_decoration_manager_v1 v1
+[LOG]   | got iface: zwlr_output_manager_v1 v4
+[LOG]   | got iface: zwp_keyboard_shortcuts_inhibit_manager_v1 v1
+[LOG]   | got iface: zwp_pointer_constraints_v1 v1
+[LOG]   | got iface: zwp_relative_pointer_manager_v1 v1
+[LOG]   | got iface: zwp_virtual_keyboard_manager_v1 v1
+[LOG]   | got iface: zwlr_virtual_pointer_manager_v1 v2
+[LOG]   | got iface: zwlr_foreign_toplevel_manager_v1 v3
+[LOG]   | got iface: wp_drm_lease_device_v1 v1
+[LOG]   | got iface: zwp_tablet_manager_v2 v1
+[LOG]   | got iface: zwp_idle_inhibit_manager_v1 v1
+[LOG]   | got iface: zxdg_exporter_v1 v1
+[LOG]   | got iface: zxdg_importer_v1 v1
+[LOG]   | got iface: zxdg_exporter_v2 v1
+[LOG]   | got iface: zxdg_importer_v2 v1
+[LOG]   | got iface: zwp_pointer_gestures_v1 v3
+[LOG]   | got iface: zwp_text_input_manager_v3 v1
+[LOG]   | got iface: zwp_input_method_manager_v2 v1
+[LOG]   | got iface: xdg_activation_v1 v1
+[LOG]   | got iface: ext_session_lock_manager_v1 v1
+[LOG]   | got iface: wp_cursor_shape_manager_v1 v1
+[LOG]   | got iface: wp_tearing_control_manager_v1 v1
+[LOG]   | got iface: wp_single_pixel_buffer_manager_v1 v1
+[LOG]   | got iface: xwayland_shell_v1 v1
+[LOG]   | got iface: hyprland_toplevel_export_manager_v1 v2
+[LOG]   | got iface: wp_fractional_scale_manager_v1 v1
+[LOG]   | got iface: zwp_text_input_manager_v1 v1
+[LOG]   | got iface: hyprland_global_shortcuts_manager_v1 v1
+[LOG]   | got iface: zwlr_screencopy_manager_v1 v3
+[LOG]   | got iface: zxdg_output_manager_v1 v3
+[LOG]   | got iface: wl_output v4
+[LOG] found 2 rules
+[LOG] wayland done, registering dbus
+[LOG] Using dbus path /org/freedesktop/login1/session/_37
+[LOG] Idled: rule 3e48e350
+[LOG] Running hyprlock
+[LOG] Executing hyprlock
+[LOG] Process Created with pid 16044
+[LOG] Idled: rule 3e48e398
+[LOG] Running hyprctl dispatch dpms off eDP-1
+[LOG] Executing hyprctl dispatch dpms off eDP-1
+[LOG] Process Created with pid 16442
+[LOG] Resumed: rule 3e48e398
+[LOG] Running hyprctl dispatch dpms on eDP-1
+[LOG] Executing hyprctl dispatch dpms on eDP-1
+[LOG] Process Created with pid 16460
+[LOG] Resumed: rule 3e48e350
+[LOG] Ignoring, onRestore is empty.
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1337 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1338 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1339 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1340 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1341 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1342 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1343 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1344 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1345 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1346 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1347 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1348 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1349 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1350 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1351 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1352 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1353 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1354 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1355 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1356 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1357 sent
+[LOG] ScreenSaver inhibit: false dbus message from  with content video-playing
+[LOG] Inhibit locks: 0
+[LOG] ScreenSaver inhibit: true dbus message from  with content video-playing
+[LOG] Inhibit locks: 1
+[LOG] Cookie 1358 sent
+[LOG] ScreenSaver inhibit: false dbus message from  
