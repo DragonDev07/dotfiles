@@ -61,13 +61,13 @@ def switch_hypr_theme(theme: str):
 def switch_cava_theme(theme: str):
     # Link Theme File
     if theme == "catppuccin-mocha":
-        subprocess.run(["ln", "-sf", os.path.expanduser("~/.config/cava/themes/catppuccin-mocha"), os.path.expanduser("~/.config/cava/themes/config")], check=True)
+        subprocess.run(["ln", "-sf", os.path.expanduser("~/.config/cava/themes/catppuccin-mocha"), os.path.expanduser("~/.config/cava/config")], check=True)
     elif theme == "catppuccin-macchiato":
-        subprocess.run(["ln", "-sf", os.path.expanduser("~/.config/cava/themes/catppuccin-macchiato"), os.path.expanduser("~/.config/cava/themes/config")], check=True)
+        subprocess.run(["ln", "-sf", os.path.expanduser("~/.config/cava/themes/catppuccin-macchiato"), os.path.expanduser("~/.config/cava/config")], check=True)
     elif theme == "catppuccin-frappe":
-        subprocess.run(["ln", "-sf", os.path.expanduser("~/.config/cava/themes/catppuccin-frappe"), os.path.expanduser("~/.config/cava/themes/config")], check=True)
+        subprocess.run(["ln", "-sf", os.path.expanduser("~/.config/cava/themes/catppuccin-frappe"), os.path.expanduser("~/.config/cava/config")], check=True)
     elif theme == "catppuccin-latte":
-        subprocess.run(["ln", "-sf", os.path.expanduser("~/.config/cava/themes/catppuccin-latte"), os.path.expanduser("~/.config/cava/themes/config")], check=True)
+        subprocess.run(["ln", "-sf", os.path.expanduser("~/.config/cava/themes/catppuccin-latte"), os.path.expanduser("~/.config/cava/config")], check=True)
     
     # Reload Cava IF cava is running (Colors Only)
     if subprocess.run(["pgrep", "cava"], stdout=subprocess.PIPE).returncode == 0:
@@ -75,6 +75,21 @@ def switch_cava_theme(theme: str):
     
     # Print Success Message
     print("Cava Theme Updated")
+
+def switch_anyrun_theme(theme: str):
+    if theme == "catppuccin-mocha":
+        subprocess.run(["ln", "-sf", os.path.expanduser("~/.config/anyrun/themes/catppuccin-mocha.css"), os.path.expanduser("~/.config/anyrun/theme.css")], check=True)
+    elif theme == "catppuccin-macchiato":
+        subprocess.run(["ln", "-sf", os.path.expanduser("~/.config/anyrun/themes/catppuccin-macchiato.css"), os.path.expanduser("~/.config/anyrun/theme.css")], check=True)
+    elif theme == "catppuccin-frappe":
+        subprocess.run(["ln", "-sf", os.path.expanduser("~/.config/anyrun/themes/catppuccin-frappe.css"), os.path.expanduser("~/.config/anyrun/theme.css")], check=True)
+    elif theme == "catppuccin-latte":
+        subprocess.run(["ln", "-sf", os.path.expanduser("~/.config/anyrun/themes/catppuccin-latte.css"), os.path.expanduser("~/.config/anyrun/theme.css")], check=True)
+
+    # Anyrun doesn't need to be reloaded
+
+    # Print Success Message
+    print("Anyrun Theme Updated")
 
 # Function to switch to the next theme
 def switch_theme():
@@ -91,6 +106,7 @@ def switch_theme():
     switch_waybar_theme(next_theme)
     switch_hypr_theme(next_theme)
     switch_cava_theme(next_theme)
+    switch_anyrun_theme(next_theme)
 
 # Main script
 switch_theme()
