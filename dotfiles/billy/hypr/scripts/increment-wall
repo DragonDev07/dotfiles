@@ -32,4 +32,4 @@ echo $NEW_WALL_PATH
 
 # Set the new wallpaper
 ln -sf $NEW_WALL_PATH $HOME/.config/.wallpaper
-swww img $HOME/.config/.wallpaper --transition-step 40 --transition-fps 60 --transition-type center
+swww img $HOME/.config/.wallpaper --transition-step 40 --transition-fps 60 --transition-type grow --transition-pos 'top-right'

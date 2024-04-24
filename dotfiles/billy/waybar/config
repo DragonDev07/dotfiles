@@ -17,6 +17,8 @@
 
   // Right
   "modules-right": [
+    "tray",
+    "custom/spacer",
     "backlight",
     "custom/spacer",
     "pulseaudio",
@@ -54,6 +56,7 @@
     "rewrite": {
       "(.*) - NVIM": " NeoVim",
       "(.*) — Mozilla Firefox": "󰈹 Mozilla Firefox",
+      "(.*) - Obsidian (.*)": " Obsidian"
     },
   },
 
@@ -61,11 +64,6 @@
   "clock": {
     "format": "{:%H:%M}",
     "format-alt": "{:%b %d %Y}",
-  },
-
-  // Tray
-  "tray": {
-    "spacing": 10,
   },
 
   // Pulseaudio
@@ -116,14 +114,10 @@
     },
   },
 
-  // Bluetooth
-  "bluetooth": {
-    "format": "",
-    "format-disabled": "",
-    "tooltip-format": "",
-    "tooltip-format-connected": "{controller_alias}\n{device_enumerate}",
-    "tooltip-format-enumerate-connected": " {device_alias}",
-    "on-click": "export GTK_THEME='Catppuccin-Mocha-Standard-Mauve-Dark' && blueman-manager",
+  // Tray
+  "tray": {
+    "spacing": 20,
+    "tooltip": false,
   },
 
   // ------ Custom Modules ------ //
