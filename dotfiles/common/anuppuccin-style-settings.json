@@ -1,0 +1,21 @@
+{
+  "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha",
+  "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "ctp-accent-light-flamingo",
+  "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-blue",
+  "anuppuccin-theme-settings@@anp-color-transition-toggle": true,
+  "anuppuccin-theme-settings@@anp-header-color-toggle": true,
+  "anuppuccin-theme-settings@@anp-decoration-toggle": true,
+  "anuppuccin-theme-settings@@anp-colorful-frame-opacity": 0.55,
+  "anuppuccin-theme-settings@@anp-alt-rainbow-style": "anp-simple-rainbow-color-toggle",
+  "anuppuccin-theme-settings@@anp-simple-rainbow-title-toggle": true,
+  "anuppuccin-theme-settings@@anp-simple-rainbow-indentation-toggle": true,
+  "anuppuccin-theme-settings@@anp-rainbow-subfolder-color-toggle": true,
+  "anuppuccin-theme-settings@@anp-status-bar-select": "anp-floating-status-bar",
+  "anuppuccin-theme-settings@@anp-alt-tab-style": "anp-safari-tab-toggle",
+  "anuppuccin-theme-settings@@anp-layout-select": "anp-card-layout",
+  "anuppuccin-theme-settings@@anp-bg-fix": true,
+  "anuppuccin-theme-settings@@anp-hide-borders": true,
+  "anuppuccin-theme-settings@@anp-card-shadows": true,
+  "anuppuccin-theme-settings@@anp-card-layout-actions": true,
+  "anuppuccin-theme-settings@@anp-card-layout-filebrowser": true
+}
