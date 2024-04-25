@@ -35,7 +35,25 @@
 - **Notifications:** [`mako`](https://github.com/emersion/mako)
 - **Audio Control:** [`pavucontrol`](https://github.com/pulseaudio/pavucontrol)
 - **Brightness Control:** [`brightnessctl`](https://github.com/Hummer12007/brightnessctl)
-- **Bluetooth Manager:** [`blueman`](https://github.com/blueman-project/blueman)
+- **Bluetooth Manager:** [`blueman`](https://github.com/blueman-project/blueman) [`blueman-applet`]
+- **Network Manager:** [`NetworkManager Applet`]
 - **Theming:**
   - [`qt5ct`](https://github.com/desktop-app/qt5ct)
   - [`Kvantum`](https://github.com/tsujan/Kvantum)
+
+### Installation (Fedora)
+
+- Install dnf packages:
+  `sudo dnf install kitty mako zsh gh waybar blueman brightnessctl pavucontrol qt5ct kvantum Hyprland swww`
+
+- Install ohmyzsh:
+  `sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
+
+- Install zsh plugins
+- Build and Install the following:
+  - Anyrun
+  - Hyprlock
+  - Hypridle
+- Clone Wallpapers Repo
+- Install LunarVim
+- Install dotfiles
