@@ -34,7 +34,7 @@ dotfiles:
     src: billy/mako
 
 profiles:
-  Billy:
+  fedora:
     dotfiles:
       - common_kitty
       - billy_zshrc

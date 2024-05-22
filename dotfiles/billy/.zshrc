@@ -28,8 +28,9 @@ ZSH_THEME="powerlevel10k/powerlevel10k"
 plugins=(git aliases archlinux branch github zsh-autosuggestions zsh-syntax-highlighting zsh-completions zsh-interactive-cd zsh-navigation-tools)
 source $ZSH/oh-my-zsh.sh
 
-# Use keybindings
-bindkey -v
+# Try Nvchad (for now)
+alias nvchad='NVIM_APPNAME=nvchad nvim'
+alias lvim='NVIM_APPNAME=lvim lvim'
 
 # Cmatrix & Pipes.sh
 alias matrix='cmatrix -s -C cyan'
