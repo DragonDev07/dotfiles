@@ -1,0 +1,4 @@
+#!/bin/zsh
+
+# ------ Start Wallpaper ------ #
+swww-daemon --format xrgb &

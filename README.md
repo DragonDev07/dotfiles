@@ -1,4 +1,4 @@
-# ND (New-Dotfiles)
+# Dotfiles
 
 ## Asahi Linux (Mac M1 Air)
 
@@ -25,35 +25,3 @@
     - [`zsh-completions`](https://github.com/zsh-users/zsh-completions)
     - [`zsh-interactive-cd`](https://github.com/mrjohannchang/zsh-interactive-cd)
     - [`zsh-navigation-tools`](https://github.com/z-shell/zsh-navigation-tools)
-- **Desktop Environment:** [`Hyprland`](https://github.com/hyprwm/Hyprland)
-- **Top Bar:** [`waybar`](https://github.com/Alexays/Waybar)
-- **Launcher:** [`anyrun`](https://github.com/Kirottu/anyrun)
-- **Wallpaper Manager:** [`swww`](https://github.com/Horus645/swww)
-- **Locking:**
-  - [`hyprlock`](https://github.com/hyprwm/hyprlock)
-  - [`hypridle`](https://github.com/hyprwm/hypridle)
-- **Notifications:** [`mako`](https://github.com/emersion/mako)
-- **Audio Control:** [`pavucontrol`](https://github.com/pulseaudio/pavucontrol)
-- **Brightness Control:** [`brightnessctl`](https://github.com/Hummer12007/brightnessctl)
-- **Bluetooth Manager:** [`blueman`](https://github.com/blueman-project/blueman) [`blueman-applet`]
-- **Network Manager:** [`NetworkManager Applet`]
-- **Theming:**
-  - [`qt5ct`](https://github.com/desktop-app/qt5ct)
-  - [`Kvantum`](https://github.com/tsujan/Kvantum)
-
-### Installation (Fedora)
-
-- Install dnf packages:
-  `sudo dnf install kitty mako zsh gh waybar blueman brightnessctl pavucontrol qt5ct kvantum Hyprland swww`
-
-- Install ohmyzsh:
-  `sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
-
-- Install zsh plugins
-- Build and Install the following:
-  - Anyrun
-  - Hyprlock
-  - Hypridle
-- Clone Wallpapers Repo
-- Install LunarVim
-- Install dotfiles
