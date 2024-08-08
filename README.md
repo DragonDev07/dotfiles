@@ -4,10 +4,10 @@
 
 ### Screenshots
 
-![Hyprland-Desktop](./assets/Asahi-Linux/AsahiLinux-Hyprland-Desktop.png)
-![Hyprland-Music](./assets/Asahi-Linux/AsahiLinux-Hyprland-Music.png)
-![Hyprland-LunarVim](./assets/Asahi-Linux/AsahiLinux-Hyprland-Lunarvim.png)
-![Hyprland-Fetch](./assets/Asahi-Linux/AsahiLinux-Hyprland-Fetch.png)
+![Hyprland-Firefox](./assets/Linux/20240808_17h37m57s_grim.png)
+![Hyprland-Fetch](./assets/Linux/20240808_17h38m02s_grim.png)
+![Hyprland-NvChad](./assets/Linux/20240808_17h38m59s_grim.png)
+![Hyprland-Cava](./assets/Linux/20240808_17h41m11s_grim.png)
 
 ### Info!
 
