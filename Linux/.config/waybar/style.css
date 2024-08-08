@@ -1,0 +1,73 @@
+@import "catppuccin-mocha.css";
+
+* {
+  border: none;
+  font-family: "Rubik";
+}
+
+/* ------ Overarching styles ------ */
+
+window#waybar {
+  background: @background;
+  color: @foreground;
+  border-radius: 20px;
+}
+
+tooltip {
+  background-color: @background;
+  color: @foreground;
+  border-radius: 5px;
+}
+
+/* ------ Left Modules ------ */
+/* Hyprland Workspaces */
+#workspaces {
+  background: transparent;
+  border-radius: 20px;
+  padding: 2px 3px;
+  margin: 0px 3px;
+}
+
+#workspaces button {
+  padding: 0px 4px;
+  margin: 3px 2px;
+  border-radius: 20px;
+  background: @foreground;
+  transition: all 0.5s cubic-bezier(0.11, 1.09, 0.6, 0.96);
+}
+
+#workspaces button.active {
+  margin: 3px 2px;
+  padding: 0px 17px;
+  background-color: rgb(203, 166, 247);
+}
+
+#workspaces button:hover {
+  background-color: rgb(203, 166, 247);
+}
+
+/* ------ Center Modules ------ */
+/* Clock */
+#clock {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+/* ------ Right Modules ------ */
+/* General */
+#tray,
+#backlight,
+#pulseaudio,
+#battery {
+  font-size: 17px;
+  font-weight: bold;
+  background: transparent;
+  border-radius: 20px;
+  padding: 0px 2px;
+  margin: 0px 2px;
+}
+
+#battery {
+  padding-right: 3px;
+  margin-right: 3px;
+}
