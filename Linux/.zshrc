@@ -10,6 +10,13 @@ if [[ -r "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh" ]]
   source "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh"
 fi
 
+# Add pyenv & pyenv-virtualenv to PATH
+export PYENV_ROOT="$HOME/.pyenv"
+[[ -d $PYENV_ROOT/bin ]] && export PATH="$PYENV_ROOT/bin:$PATH"
+eval "$(pyenv init -)"
+
+eval "$(pyenv virtualenv-init -)"
+
 # Add things to path.
 export ZSH="$HOME/.oh-my-zsh"
 export PATH=$PATH:/snap/bin
@@ -17,9 +24,6 @@ export PATH="$PATH:./node_modules/.bin"
 export PATH="$PATH:/home/teo/.local/bin/"
 export PATH="$PATH:/home/teo/.local/bin/ltex-ls-16.0.0/bin"
 export PATH="$PATH:/opt/android/sdk/cmdline-tools/tools/bin"
-
-# Java Home
-export JAVA_HOME="/home/teo/.sdkman/candidates/java/current/"
 
 # Set OMZ to use p10k
 ZSH_THEME="powerlevel10k/powerlevel10k"
@@ -30,7 +34,6 @@ source $ZSH/oh-my-zsh.sh
 
 # Try Nvchad (for now)
 alias nvchad='NVIM_APPNAME=nvchad nvim'
-alias lvim='NVIM_APPNAME=lvim lvim'
 
 # Cmatrix & Pipes.sh
 alias matrix='cmatrix -s -C cyan'
@@ -50,7 +53,3 @@ alias ssn='sudo shutdown now'
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
-
-#THIS MUST BE AT THE END OF THE FILE FOR SDKMAN TO WORK!!!
-export SDKMAN_DIR="$HOME/.sdkman"
-[[ -s "$HOME/.sdkman/bin/sdkman-init.sh" ]] && source "$HOME/.sdkman/bin/sdkman-init.sh"
