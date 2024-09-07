@@ -5,17 +5,39 @@ export PF_ASCII="Catppuccin"
 # Exec pfetch
 pfetch
 
-# Start p10k
+# Enable Powerlevel10k instant prompt. Should stay close to the top of ~/.zshrc.
+# Initialization code that may require console input (password prompts, [y/n]
+# confirmations, etc.) must go above this block; everything else may go below.
 if [[ -r "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh" ]]; then
   source "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh"
 fi
 
-# Add pyenv & pyenv-virtualenv to PATH
-export PYENV_ROOT="$HOME/.pyenv"
-[[ -d $PYENV_ROOT/bin ]] && export PATH="$PYENV_ROOT/bin:$PATH"
-eval "$(pyenv init -)"
+# Source Antigen
+source $HOME/antigen.zsh
 
-eval "$(pyenv virtualenv-init -)"
+# Load the oh-my-zsh's library
+antigen use oh-my-zsh
+
+# Load the theme
+# workaround for https://github.com/zsh-users/antigen/issues/675
+THEME=romkatv/powerlevel10k
+antigen list | grep $THEME; if [ $? -ne 0 ]; then antigen theme $THEME; fi
+
+# Load Antigen oh-my-zsh Bundles
+antigen bundle git
+antigen bundle github
+antigen bundle aliases
+antigen bundle branch
+
+# Other Antigen Plugins
+antigen bundle zsh-users/zsh-syntax-highlighting
+antigen bundle zsh-users/zsh-autosuggestions
+antigen bundle zsh-users/zsh-completions
+antigen bundle mrjohannchang/zsh-interactive-cd
+antigen bundle z-shell/zsh-navigation-tools@main
+
+# Tell antigen that you're done
+antigen apply
 
 # Add things to path.
 export ZSH="$HOME/.oh-my-zsh"
@@ -25,14 +47,7 @@ export PATH="$PATH:/home/teo/.local/bin/"
 export PATH="$PATH:/home/teo/.local/bin/ltex-ls-16.0.0/bin"
 export PATH="$PATH:/opt/android/sdk/cmdline-tools/tools/bin"
 
-# Set OMZ to use p10k
-ZSH_THEME="powerlevel10k/powerlevel10k"
-
-# Load Plugins
-plugins=(git aliases archlinux branch github zsh-autosuggestions zsh-syntax-highlighting zsh-completions zsh-interactive-cd zsh-navigation-tools)
-source $ZSH/oh-my-zsh.sh
-
-# Try Nvchad (for now)
+# NvChad over Vim!
 alias nvchad='NVIM_APPNAME=nvchad nvim'
 
 # Cmatrix & Pipes.sh
@@ -50,6 +65,7 @@ alias wget='wget -c'
 # Shutdown and Reboot Aliases
 alias sr='sudo reboot'
 alias ssn='sudo shutdown now'
+
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
