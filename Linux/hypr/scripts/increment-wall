@@ -1,0 +1,35 @@
+#!/bin/bash
+
+# Define the path to the .wallpaper file
+WALLPAPER_FILE="$HOME/.config/.wallpaper"
+
+# Get the current wallpaper (read link)
+CURR_WALL=$(readlink -f $WALLPAPER_FILE)
+
+# Get the largest number wall in the directory
+LARGEST_WALL=$(ls $HOME/Repos/Wallpapers/Unthemed/Scenery | grep -o '[0-9]*' | sort -n | tail -n 1)
+
+# Get the current wallpaper name
+CURR_WALL_NAME=$(basename $CURR_WALL .png)
+
+# Check that CURR_WALL_NAME is a number, if not, set it to 1
+if ! [[ $CURR_WALL_NAME =~ ^[0-9]+$ ]]; then
+    CURR_WALL_NAME=0
+fi
+
+# Increment the current wallpaper name
+NEW_WALL=$(($CURR_WALL_NAME + 1))
+
+# If the new wallpaper is greater than the largest number in the directory, reset to 1
+if [ $NEW_WALL -gt $LARGEST_WALL ]; then
+    NEW_WALL=1
+fi
+
+# Get the new wallpaper path
+NEW_WALL_PATH="$HOME/Repos/Wallpapers/Unthemed/Scenery/$NEW_WALL.png"
+
+echo $NEW_WALL_PATH
+
+# Set the new wallpaper
+ln -sf $NEW_WALL_PATH $HOME/.config/.wallpaper
+swww img $HOME/.config/.wallpaper --transition-step 40 --transition-fps 60 --transition-type grow --transition-pos 'top-right'
