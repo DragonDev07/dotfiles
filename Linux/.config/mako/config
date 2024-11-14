@@ -10,3 +10,6 @@ progress-color=over #313244
 
 [urgency=high]
 border-color=#fab387
+
+# ------ Time ------ #
+default-timeout=10000
