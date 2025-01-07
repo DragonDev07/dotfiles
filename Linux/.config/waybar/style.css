@@ -1,73 +1,62 @@
-@import "catppuccin-mocha.css";
-
-* {
-  border: none;
-  font-family: "Rubik";
-}
+@import url("./mocha.css");
 
 /* ------ Overarching styles ------ */
+* {
+  all: initial;
+  font-size: 16px;
+  font-family: "JetBrainsMono Nerd Font";
+}
+
+tooltip * {
+  color: @text;
+  background: @base;
+  border-radius: 20px;
+  padding: 2px;
+}
 
 window#waybar {
-  background: @background;
-  color: @foreground;
-  border-radius: 20px;
-}
-
-tooltip {
-  background-color: @background;
-  color: @foreground;
-  border-radius: 5px;
-}
-
-/* ------ Left Modules ------ */
-/* Hyprland Workspaces */
-#workspaces {
   background: transparent;
+}
+
+/* ------ Modules ------ */
+/* Workspaces */
+#workspaces {
+  background: @base;
+  padding: 6px 8px;
   border-radius: 20px;
-  padding: 2px 3px;
-  margin: 0px 3px;
 }
 
 #workspaces button {
-  padding: 0px 4px;
-  margin: 3px 2px;
-  border-radius: 20px;
-  background: @foreground;
-  transition: all 0.5s cubic-bezier(0.11, 1.09, 0.6, 0.96);
+  background: @text;
+  margin-right: 8px;
+  border-radius: 12px;
+  min-width: 22px;
+  min-height: 22px;
+  transition: all 0.07s linear;
 }
 
 #workspaces button.active {
-  margin: 3px 2px;
-  padding: 0px 17px;
-  background-color: rgb(203, 166, 247);
+  min-width: 60px;
+  background: @mauve;
 }
 
-#workspaces button:hover {
-  background-color: rgb(203, 166, 247);
+#workspaces button:nth-last-child(1) {
+  margin-right: 0px;
 }
 
-/* ------ Center Modules ------ */
-/* Clock */
-#clock {
-  font-size: 20px;
-  font-weight: bold;
-}
-
-/* ------ Right Modules ------ */
-/* General */
-#tray,
-#backlight,
-#pulseaudio,
-#battery {
-  font-size: 17px;
-  font-weight: bold;
-  background: transparent;
+/* Media */
+#custom-media {
+  background: @base;
   border-radius: 20px;
-  padding: 0px 2px;
-  margin: 0px 2px;
+  padding: 6px 8px;
 }
 
-#battery {
-  padding-right: 3px;
-  margin-right: 3px;
+/* Rest */
+#clock,
+#pulseaudio,
+#battery,
+#memory {
+  background: @base;
+  border-radius: 20px;
+  padding: 6px 12px;
 }

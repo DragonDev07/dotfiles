@@ -1,5 +1,6 @@
 {
-  // ------ General Config ------ //
+  // General Config
+  "reload_style_on_change": true,
   "layer": "top",
   "position": "top",
   "spacing": 4,
@@ -8,84 +9,50 @@
   "margin-left": 5,
   "margin-right": 5,
 
-  // ------ Define Sections ------ //
-  // Left
-  "modules-left": [
-    "hyprland/workspaces"
-  ],
+  // Left Modules
+  "modules-left": ["hyprland/workspaces"],
 
-  // Center
-  "modules-center": [
+  // Center Modules
+  "modules-center": ["custom/media"],
+
+  // Right Modules
+  "modules-right": [
+    "pulseaudio",
+    "memory",
+    "battery",
     "clock"
   ],
 
-  // Right
-  "modules-right": [
-    "tray",
-    "backlight",
-    "pulseaudio",
-    "battery"
-  ],
-
-  // ------ Module Settings ------ //
-  // Hyprland Workspaces Display
+  // ------ MODULE SETTINGS ------ //
   "hyprland/workspaces": {
-    "active-only": false,
-    "all-outputs": true,
-    "disable-scroll": false,
     "format": "",
-    "format-icons": {
-      "active": "",
-      "default": "",
-      "sort-by-number": true,
-      "urgent": ""
-    },
     "persistent-workspaces": {
       "1": [],
       "2": [],
       "3": [],
-      "4": [],
-    },
-  },
-  
-  // Clock
-  "clock": {
-    "format": "{:%b %e  %H:%M}",
-    "tooltip": false,
+      "4": []
+    }
   },
 
-  // Tray
-  "tray": {
-    "spacing": 20,
-    "tooltip": false,
+  "custom/media": {
+    "exec": "/usr/bin/python3 /home/teo/.config/waybar/scripts/media.py",
+    "format": "{}",
+    "return-type": "json",
+    "on-click": "playerctl play-pause",
+    "on-scroll-up": "playerctl next",
+    "on-scroll-down": "playerctl previous"
   },
 
-  // Backlight
-  "backlight": {
-    "device": "intel_backlight",
-    "format": "{icon}",
-    "format-icons": [" ", " ", " ", " ", " ", " ", " ", " ", " "],
-    "on-scroll-down": "brightnessctl set 5%-",
-    "on-scroll-up": "brightnessctl set 5%+",
-    "rotate": 0,
-    "tooltip": false,
-  },
-
-  // Pulseaudio
   "pulseaudio": {
-    "format": "{icon} <b>{volume}</b>",
-    "format-bluetooth": "{icon}  {volume}%",
-    "format-bluetooth-muted": "󰝟 ",
-    "format-muted": " 󰝟 ",
+    "format": "{icon} {volume}%",
+    "format-muted": "  {volume}%",
+    "format-bluetooth": "{icon} {volume}%",
     "format-icons": {
-      "headphone": "",
-      "default": ["󰝟", ""],
+      "default": [" ", " ", " "]
     },
-    "tooltip": false,
-    "on-click": "export GTK_THEME='Catppuccin-Mocha-Standard-Mauve-Dark' && pavucontrol",
+    "on-click": "pavucontrol"
   },
 
-  // Battery
   "battery": {
     "format": "{icon} {capacity}%",
     "format-charging": "{capacity}% 󰂄",
@@ -93,8 +60,23 @@
     "format-plugged": "{capacity}% 󰚥",
     "states": {
       "critical": 15,
-      "warning": 30,
+      "warning": 30
     },
-    "tooltip": false,
+    "tooltip": false
   },
+
+  "memory": {
+    "format": "  {}%"
+  },
+
+  "clock": {
+    "tooltip": true,
+    "format": "{:%H:%M %p}",
+    "tooltip-format": "{:%b %e %Y}"
+  }
+  //"clock": {
+  //  //"tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
+  //  "format-alt": "  {:%a:%d-%m-%Y}",
+  //  "format": "󰥔  {:%H:%M}"
+  //}
 }
