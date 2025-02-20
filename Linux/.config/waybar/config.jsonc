@@ -20,6 +20,7 @@
     "pulseaudio",
     "memory",
     "battery",
+    "network",
     "clock"
   ],
 
@@ -40,13 +41,14 @@
     "return-type": "json",
     "on-click": "playerctl play-pause",
     "on-scroll-up": "playerctl next",
-    "on-scroll-down": "playerctl previous"
+    "on-scroll-down": "playerctl previous",
+    "max-length": 100
   },
 
   "pulseaudio": {
     "format": "{icon} {volume}%",
-    "format-muted": "  {volume}%",
-    "format-bluetooth": "{icon} {volume}%",
+    "format-muted": "  {volume}%",
+    "format-bluetooth": " {volume}%",
     "format-icons": {
       "default": [" ", " ", " "]
     },
@@ -55,9 +57,9 @@
 
   "battery": {
     "format": "{icon} {capacity}%",
-    "format-charging": "{capacity}% 󰂄",
+    "format-charging": "󰂄 {capacity}%",
     "format-icons": ["󰂎", "󰁺", "󰁻", "󰁼", "󰁽", "󰁾", "󰁿", "󰂀", "󰂁", "󰂂", "󰁹"],
-    "format-plugged": "{capacity}% 󰚥",
+    "format-plugged": "󰚥 {capacity}%",
     "states": {
       "critical": 15,
       "warning": 30
@@ -69,14 +71,17 @@
     "format": "  {}%"
   },
 
+  "network": {
+    "format": "{ifname}",
+    "format-wifi": "󰤨  {essid}",
+    "format-disconnected": "󰤭 ",
+    "on-click": "komodo",
+    "tooltip": false
+  },
+
   "clock": {
     "tooltip": true,
-    "format": "{:%H:%M %p}",
+    "format": "{:%I:%M %p}",
     "tooltip-format": "{:%b %e %Y}"
   }
-  //"clock": {
-  //  //"tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
-  //  "format-alt": "  {:%a:%d-%m-%Y}",
-  //  "format": "󰥔  {:%H:%M}"
-  //}
 }

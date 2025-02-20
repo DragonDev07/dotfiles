@@ -1,5 +1,5 @@
 # Pfetch Configuration
-export PF_INFO="ascii title os uptime host"
+export PF_INFO="ascii title os host uptime"
 export PF_ASCII="Catppuccin"
 
 # Exec pfetch
@@ -47,6 +47,11 @@ export PATH="$PATH:/home/teo/.local/bin/"
 export PATH="$PATH:/home/teo/.local/bin/ltex-ls-16.0.0/bin"
 export PATH="$PATH:/opt/android/sdk/cmdline-tools/tools/bin"
 
+# Pyenv
+export PYENV_ROOT="$HOME/.pyenv"
+[[ -d $PYENV_ROOT/bin ]] && export PATH="$PYENV_ROOT/bin:$PATH"
+eval "$(pyenv init -)"
+
 # NvChad over Vim!
 alias nvchad='NVIM_APPNAME=nvchad nvim'
 
@@ -66,6 +71,12 @@ alias wget='wget -c'
 alias sr='sudo reboot'
 alias ssn='sudo shutdown now'
 
-
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
+
+# bun completions
+[ -s "/home/teo/.bun/_bun" ] && source "/home/teo/.bun/_bun"
+
+# bun
+export BUN_INSTALL="$HOME/.bun"
+export PATH="$BUN_INSTALL/bin:$PATH"

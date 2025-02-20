@@ -53,6 +53,7 @@ window#waybar {
 
 /* Rest */
 #clock,
+#network,
 #pulseaudio,
 #battery,
 #memory {

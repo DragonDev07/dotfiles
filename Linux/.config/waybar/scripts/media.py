@@ -148,6 +148,10 @@ class PlayerManager:
         else:
             track_info = title
 
+        # Truncate track info if it's longer than 20 characters
+        if len(track_info) > 40:
+            track_info = track_info[:37] + "..."
+
         if track_info:
             if player.props.status == 'Playing':
                 track_info = ' ' + ' ' + track_info
