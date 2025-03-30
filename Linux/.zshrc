@@ -41,11 +41,8 @@ antigen apply
 
 # Add things to path.
 export ZSH="$HOME/.oh-my-zsh"
-export PATH=$PATH:/snap/bin
-export PATH="$PATH:./node_modules/.bin"
 export PATH="$PATH:/home/teo/.local/bin/"
-export PATH="$PATH:/home/teo/.local/bin/ltex-ls-16.0.0/bin"
-export PATH="$PATH:/opt/android/sdk/cmdline-tools/tools/bin"
+export PATH="$PATH:$HOME/.wakatime/"
 
 # Pyenv
 export PYENV_ROOT="$HOME/.pyenv"

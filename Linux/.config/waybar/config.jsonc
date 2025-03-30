@@ -25,6 +25,14 @@
   ],
 
   // ------ MODULE SETTINGS ------ //
+  "idle_inhibitor": {
+    "format": "{icon}",
+    "format-icons": {
+      "activated": "󰅶",
+      "deactivated": "󰾪"
+    }
+  },
+
   "hyprland/workspaces": {
     "format": "",
     "persistent-workspaces": {
@@ -55,6 +63,10 @@
     "on-click": "pavucontrol"
   },
 
+  "memory": {
+    "format": "  {}%"
+  },
+
   "battery": {
     "format": "{icon} {capacity}%",
     "format-charging": "󰂄 {capacity}%",
@@ -65,10 +77,6 @@
       "warning": 30
     },
     "tooltip": false
-  },
-
-  "memory": {
-    "format": "  {}%"
   },
 
   "network": {
