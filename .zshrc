@@ -12,19 +12,9 @@ antigen bundle zsh-users/zsh-completions
 antigen bundle mrjohannchang/zsh-interactive-cd
 antigen apply
 
-# Add brew to shell env if we are in a login shell and it exists.
-if [[ -o login ]] && command -v /opt/homebrew/bin/brew >/dev/null 2>&1; then
-  eval "$(/opt/homebrew/bin/brew shellenv)"
-fi
-
 # Adjust for moved Rust install.
 export RUSTUP_HOME="$HOME/.local/share/rustup" 
 export CARGO_HOME="$HOME/.local/share/cargo"
-
-# Source Cargo environment if needed.
-if [[ -f "$CARGO_HOME/env" ]]; then
-  . "$CARGO_HOME/env"
-fi
 
 # Add things to path.
 export PATH="$PATH:/home/teo/.local/bin/"
