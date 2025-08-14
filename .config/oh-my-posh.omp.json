@@ -1,0 +1,95 @@
+{
+  "$schema": "https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/schema.json",
+  "version": 3,
+  "final_space": true,
+
+  "palette": {
+    "peach": "#fab387",
+    "subtext0": "#a6adc8",
+    "flamingo": "#f2cdcd",
+    "blue": "#89b4fa"
+  },
+
+  "blocks": [
+    {
+      "type": "prompt",
+      "alignment": "left",
+      "segments": [
+        {
+          "type": "os",
+          "style": "plain",
+          "foreground": "#FFFFFF",
+          "template": "{{ .Icon }} "
+        },
+        {
+          "type": "path",
+          "style": "plain",
+          "foreground": "p:blue",
+          "properties": {
+            "style": "full",
+            "home_icon": "~",
+            "right_format": "<b>%s</b>"
+          },
+          "template": "{{ .Path }} "
+        },
+        {
+          "type": "git",
+          "style": "plain",
+          "foreground": "p:flamingo",
+          "properties": {
+            "fetch_status": true,
+            "fetch_upstream_icon": true,
+            "branch_icon": " ",
+            "branch_ahead_icon": "⇡",
+            "branch_behind_icon": "⇣"
+          }
+        }
+      ]
+    },
+    {
+      "type": "rprompt",
+      "overflow": "hidden",
+      "segments": [
+        {
+          "type": "rust",
+          "style": "plain",
+          "foreground": "p:peach",
+          "background": "transparent",
+          "template": " {{ if .Error }}{{ .Error }}{{ else }}{{ .Full }}{{ end }} "
+        },
+        {
+          "type": "executiontime",
+          "style": "plain",
+          "foreground": "p:subtext0",
+          "background": "transparent",
+          "template": "<i>took {{ .FormattedMs }}</i>"
+        }
+      ]
+    },
+    {
+      "type": "prompt",
+      "alignment": "left",
+      "newline": true,
+      "segments": [
+        {
+          "type": "text",
+          "style": "plain",
+          "foreground_templates": [
+            "{{if gt .Code 0}}red{{end}}",
+            "{{if eq .Code 0}}p:blue{{end}}"
+          ],
+          "template": "❯"
+        }
+      ]
+    }
+  ],
+
+  "transient_prompt": {
+    "foreground_templates": [
+      "{{if gt .Code 0}}red{{end}}",
+      "{{if eq .Code 0}}p:blue{{end}}"
+    ],
+    "background": "transparent",
+    "template": "❯ "
+  }
+}
